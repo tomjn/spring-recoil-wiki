@@ -6,6 +6,8 @@ categories:
 ---
 # CEG:Main
 
+> **Recoil:** Spring's maintained fork documents this at [recoilengine.org](https://recoilengine.org/). Where this page and the Recoil docs disagree, prefer Recoil for current engine behaviour.
+
 <div id="ceg-main-page" class="section mw-parser-output">
 
 ## CEG Main Page

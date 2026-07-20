@@ -6,6 +6,8 @@ categories:
 ---
 # Development:Main
 
+> **Recoil:** Active engine development happens on [Recoil](https://recoilengine.org/) ([GitHub](https://github.com/beyond-all-reason/RecoilEngine/)). These pages describe the older Spring engine; prefer the Recoil repo for building and contributing today.
+
 <div class="mw-parser-output">
 
 <table>
