@@ -104,7 +104,7 @@ export default defineConfig({
           { text: 'Game Development', link: '/game-development' },
           { text: 'Map Development', link: '/map-development' },
           { text: 'AI Development', link: '/ai-development' },
-          { text: 'Engine Development', link: '/engine-development' },
+          { text: 'Engine Development', link: '/development-main' },
         ],
       },
       { text: 'Hosting', link: '/hosting' },
