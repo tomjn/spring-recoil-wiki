@@ -1,5 +1,4 @@
 ---
-outdated: true
 title: "Clans/XHC"
 source_url: "https://springrts.com/wiki/Clans/XHC"
 categories:
@@ -43,7 +42,7 @@ being good at spring will help too :)
 
 ------------------------------------------------------------------------
 
-**Website** - The Chaps have a new website, created by Wasp! Check it out at <a href="http://xhc.lonekiewie.com" class="external free" rel="nofollow">http://xhc.lonekiewie.com</a>.
+**Website** - The Chaps had a website (`xhc.lonekiewie.com`, now defunct) created by Wasp.
 
 </div>
 

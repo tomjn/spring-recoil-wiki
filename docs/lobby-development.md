@@ -1,5 +1,4 @@
 ---
-outdated: true
 title: "Lobby Development"
 source_url: "https://springrts.com/wiki/Lobby_Development"
 categories:
@@ -7,19 +6,15 @@ categories:
 ---
 # Lobby Development
 
+> **Recoil / BAR:** This is a historical catalogue of the Spring lobby ecosystem. The modern game, [Beyond All Reason](https://www.beyondallreason.info/), ships its own integrated launcher rather than a standalone lobby client. Several projects listed below are still maintained; many are legacy. Dead `springrts.com` infrastructure links have been delinked.
+
 <div class="mw-parser-output">
 
-[Development](/development-main) \< Lobby Development
-
-## Live systems
+## Spring lobby ecosystem
 
 #### Protocol
 
-- <a href="https://springrts.com/dl/LobbyProtocol/ProtocolDescription.html" class="external text" rel="nofollow">Spring Lobby Protocol Description</a>
-- <a href="https://springrts.com/dl/LobbyProtocol/ProtocolDescription.html#Changelog" class="external text" rel="nofollow">changelog</a>
-- <a href="http://springrts.com/dl/LobbyProtocol/" class="external text" rel="nofollow">Index of commands</a>
-
-These are both updated once per day from <a href="https://github.com/spring/LobbyProtocol/blob/master/ProtocolDescription.xml" class="external text" rel="nofollow">the raw xml docs</a>
+- Spring Lobby Protocol Description (formerly hosted on springrts.com; source: [spring/LobbyProtocol](https://github.com/spring/LobbyProtocol/blob/master/ProtocolDescription.xml))
 
 #### Server:
 
@@ -77,9 +72,7 @@ Linux, C++, by cleanrock, only maintained actively for use with the Zero-K lobby
 
 #### Weblobby
 
-cross-platform, C++, unmaintained (superceeded by Chobby)
-
-<a href="http://weblobby.springrts.com" class="external text" rel="nofollow">project site</a>
+cross-platform, C++, unmaintained (superseded by Chobby)
 
 #### [TASClient](/tasclient)
 
@@ -89,13 +82,11 @@ Windows, Delphi, by Satirik, unmaintained
 
 Windows, C, unmaintained
 
-Alphalobby is still very much work in progress. If you still wish to use it, source available from the <a href="http://code.google.com/p/alphalobby/source/checkout" class="external text" rel="nofollow">mercurial repository</a>, binary available on the <a href="http://springfiles.com/spring/lobby-clients/alphalobby" class="external text" rel="nofollow">springfiles page</a>.
+Alphalobby was work in progress; its source was hosted on the now-defunct Google Code.
 
 #### CheeseLobby
 
 cross-platform, Java, by Cheesecan, unmaintained
-
-<a href="http://springrts.com/phpbb/viewtopic.php?f=64&amp;t=24905" class="external text" rel="nofollow">forum thread</a>
 
 <a href="https://github.com/jahwag/OpenLobby" class="external text" rel="nofollow">binaries and code</a>
 

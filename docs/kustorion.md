@@ -1,5 +1,4 @@
 ---
-outdated: true
 title: "Kustorion"
 source_url: "https://springrts.com/wiki/Kustorion"
 categories:
@@ -10,9 +9,7 @@ categories:
 
 <div class="mw-parser-output">
 
-|  |  |
-|----|----|
-| [<img src="/images/172px-Symbol_comment_vote.svg.png" decoding="async" width="50" height="51" alt="172px-Symbol comment vote.svg.png" />](/images/172px-Symbol_comment_vote.svg.png) | This page contains outdated information, but is kept for historical reasons. |
+> **Historical:** Kustorion was an ambitious customizable-unit mod concept (inspired by the game Metal Fatigue) that was never completed - development stopped early. This page preserves the original, highly detailed design document. For playable games see [Games](/games).
 
 Metal Fatigue was a game made in 2000 and was sold for only a year. It had ComBots which were robots operated by three people. ComBots could have swappable parts(Arm-Arm-Torso-Legs) which differed in variety of ways. Some parts were for defensive purposes others for offensive and some that would be called passive(Axes/Swords/Shields/Speed Legs...). This mod will continue this idea. But the ground units will be customizable as well as mechs(Will be called in another name). But their weapons won't be as effective as those on the mechs!\
 Metal Fatigue also had the three planes(Air/Asteroid Plane; Surface; Underground). Not decided if these will be in the mod.\
@@ -721,21 +718,15 @@ Planes get twice bigger energy penalty with energy draining devices, 150% on rad
 
 ------------------------------------------------------------------------
 
-**Game production:Stopped**
+**Game production: Stopped**
 
-What was done for this game: Some vehicle models done: ![th_84991_Tech1-2-3-4WheeledChassisSizecomparison_122_865lo.JPG](http://img168.imagevenue.com/loc865/th_84991_Tech1-2-3-4WheeledChassisSizecomparison_122_865lo.JPG) ![th_47341_Tech1-2-3-4TreadedChassisSizecomparison_122_699lo.JPG](http://img161.imagevenue.com/loc699/th_47341_Tech1-2-3-4TreadedChassisSizecomparison_122_699lo.JPG)
-
-Very few weapon models: ![th_60776_WeaponTech1Minigun_122_523lo.JPG](http://img189.imagevenue.com/loc523/th_60776_WeaponTech1Minigun_122_523lo.JPG) ![th_60785_WeaponTech1MinigunaAttached_122_1143lo.JPG](http://img109.imagevenue.com/loc1143/th_60785_WeaponTech1MinigunaAttached_122_1143lo.JPG)
-
-Got one weapon a little textured: ![th_86416_Texturing1_122_412lo.jpg](http://img176.imagevenue.com/loc412/th_86416_Texturing1_122_412lo.jpg)
+What was done for this game: a few vehicle models (wheeled and treaded chassis size comparisons), a couple of weapon models (a Tech 1 minigun, attached and unattached), and one partly-textured weapon. The preview images were hotlinked to an image host that is now defunct.
 
 ------------------------------------------------------------------------
 
 Team: nil/null/N/A
 
-Pendrokar - Was the initial developer of Kustorion but stopped when understanding that he should create mods for game types that he actually might be good at(FPS games).
-
-See progress at this thread - <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?f=14&amp;t=14387" class="external autonumber" rel="nofollow">[1]</a>
+Pendrokar - Was the initial developer of Kustorion but stopped, deciding to focus on other game types. Development was discussed in a since-defunct springrts.com forum thread.
 
 </div>
 

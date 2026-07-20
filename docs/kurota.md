@@ -1,5 +1,4 @@
 ---
-outdated: true
 title: "KuroTA"
 source_url: "https://springrts.com/wiki/KuroTA"
 categories:
@@ -9,13 +8,7 @@ categories:
 ---
 # KuroTA
 
-<div class="mw-parser-output">
-
-|  |  |
-|----|----|
-| [<img src="/images/172px-Symbol_comment_vote.svg.png" decoding="async" width="50" height="51" alt="172px-Symbol comment vote.svg.png" />](/images/172px-Symbol_comment_vote.svg.png) | This page contains outdated information, but is kept for historical reasons. |
-
-Mods, and their strategies/tactics
+> **Historical:** KuroTA is a classic-era Spring mod, incompatible with current engines and kept for historical reference. For playable games see [Games](/games).
 
 KuroTA started as a bunch of custom units that I had slapped together over the years in my old TA installation. I added and dropped units to help fufill certain roles that never existed in the original TA. For example, there are now mine laying ships. The mod has all sorts of new units, from lvl1 flamethrowers vehicles to massive lvl4 artillery cannons.
 
@@ -61,23 +54,7 @@ Since the conversion to Spring, I've worked on making all of the units a little 
 
 </div>
 
-Get the most current TASClient Compatible version (0.50) at...
-
-<a href="http://www.fileuniverse.com/?p=show&amp;a=it&amp;id=4290" class="external text" rel="nofollow">File Universe</a>
-
-<a href="http://spring.unknown-files.net/file/2386/KuroTA_v0.50/" class="external text" rel="nofollow">Unknown Files</a>
-
-<a href="http://kuroneko.gotdns.com:27018/ta/KuroTA-v050.sd7" class="external text" rel="nofollow">Kuroneko's Website</a>
-
-<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=9393" class="external text" rel="nofollow">Discussion Thread</a>
-
-|  |  |
-|----|----|
-| [<img src="/images/172px-Symbol_comment_vote.svg.png" decoding="async" width="50" height="51" alt="172px-Symbol comment vote.svg.png" />](/images/172px-Symbol_comment_vote.svg.png) | This site is kept for historical reasons, all mods here are incompatible to the current spring engine, maybe they work with an older version of the Engine. |
-
-    - please use Category:Games if you search for playable games!
-
-</div>
+The last release was KuroTA v0.50 (TASClient-compatible), formerly distributed via File Universe, Unknown Files, and the author's site - all now defunct.
 
 ---
 

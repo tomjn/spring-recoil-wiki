@@ -1,75 +1,62 @@
 ---
-outdated: true
 title: "AI:Development"
 source_url: "https://springrts.com/wiki/AI:Development"
 categories:
   - "AI_Dev"
+section: "ai-dev"
 ---
-# AI:Development
+# AI Development
 
-<div class="mw-parser-output">
+How to write a **Skirmish AI**: a program that controls a team like a player would. This is the hub for the AI-development pages imported from the Spring wiki.
 
-[Development](/development-main) \< AI Development
+> **Recoil:** The maintained fork, [Recoil](https://recoilengine.org/), keeps the same Skirmish AI interface (`rts/ExternalAI` in [beyond-all-reason/RecoilEngine](https://github.com/beyond-all-reason/RecoilEngine/)). Recoil has not yet ported AI-specific documentation, so these pages remain the working reference; where they describe engine internals, cross-check against current Recoil source.
 
-## How to write a Skirmish AI for Spring
+## How the AI interface works
 
-This section gives help on how to create Artificial Intelligence agents that control teams (as if a player) - "Skirmish AI".
+The engine talks to Skirmish AIs through a language-neutral **Interface** layer. Historically the C/C++ and Java interfaces were the stable, fully supported ones; Lua, Python, C# and others were also available at various points.
 
-The SpringRTS engine interacts with the Skirmish AIs through an "Interface". There are stable (10-2014, Spring v98) interfaces for the languages C/C++ and Java (not currently sure about the others but I think Lua too).
+## Quick start
 
-### Quick Start
+Tutorials for setting up a development environment, connecting to the Interface, and building a first example AI, per language:
 
-See these pages for tutorials on how to setup a development environment, connect to the appropriate "Interface" and how to build your first example Skirmish AI:
+- **[C++](/ai-development-lang-cpp)**
+- **[C](/ai-development-lang-c)**
+- **[Java](/ai-development-lang-java)**
+- **[Lua](/ai-development-lang-lua)**
+- **[Python](/ai-development-lang-python)**
+- **[C#](/ai-development-lang-csharp)**
+- **Groovy**
 
-- **[C++](/ai-development-lang-cpp)**\
-- **[C](/ai-development-lang-c)**\
-- **[Java](/ai-development-lang-java)** *(up-to-date as of 10-2014, SpringRTS v98)*\
-- **[Lua](/ai-development-lang-lua)**\
-- **[Python](/ai-development-lang-python)**\
-- **[C#](/ai-development-lang-csharp)**\
-- **Groovy**\
+## After your environment is set up
 
-### I have setup my development environment. What now?
+- **[Spring &lt;-&gt; AIs architecture](/ai-development-system)** - how the engine interacts with the AIs.
+- **[The mappings provided by the AI Interface](/ai-development-themaps)** - how the engine maps the game area and exposes it.
+- **[How to monitor and debug your Skirmish AI](/ai-development-monitoranddebug)**
+- **[AIs for Spring](/ai-skirmish-list)** - list of Skirmish AIs already developed.
 
-- **[SpringRTS \<-\> AIs architecture](/ai-development-system)** - architecture of SpringRTS and how it interacts with the AIs.
-- **[The mappings provided by the AI Interface](/ai-development-themaps)** - how the engine maps the game area and how the interface exposes those maps.
-- **[How to monitor and debug your Skirmish AI](/ai-development-monitoranddebug)** - How to monitor and debug your Skirmish AI.
-- **[AIs for Spring](/ai-skirmish-list)** - list of some of the Skirmish AIs that have already been developed for SpringRTS.
+## Ideas, examples, resources
 
-### Overall AI ideas, practical examples, useful resources
+- **[AI related links](/ai-links)** - from conceptualizing AI agents down to specific problems like pathfinding.
+- **[Useful inferences](/ai-gameinferences)** - inferring enemy start positions, reachable terrain, etc.
+- **[AI Interfaces & Wrappers](/ai-development-interface)** - how the Interfaces expose the engine to AI agents.
 
-- **[AI related links](/ai-links)** - ranging from how to conceptualize AI agents all the way down to how to tackle very specific problems like pathfinding.
-- **[Useful inferences](/ai-gameinferences)** - how to infer where the opponents might have started, where on the maps can your units go, etc..
-- **<a href="http://springrts.com/phpbb/viewforum.php?f=15" class="external text" rel="nofollow">Springs AI dev forum</a>** - comunity's forum dedicated to AI development.
-- **[AI Interfaces & Wrappers](/ai-development-interface)** - semi-technical description of the Interfaces that expose the SpringRTS engine to the AI agents.
+## Notes
 
-### Other hints, tips and interesting infos
+**Frame timing.** The engine waits on the AI rather than skipping frames: if a Java/C/C++ Skirmish AI is slow to respond to the Interface, the whole game is delayed instead of the AI missing frames.
 
-- **AI "frame skipping"**
+**Lua &lt;-&gt; AI communications.** Direct communication between Lua and Skirmish AIs has been supported since Spring 0.83.
 
-<a href="http://springrts.com/phpbb/viewtopic.php?p=463953#p463953" class="external free" rel="nofollow">http://springrts.com/phpbb/viewtopic.php?p=463953#p463953</a>\
-As in: if a Java/C/C++ SkirmishAI gets delayed responding back to the Interface, the SpringRTS engine will wait on the AI. Thus delaying the game, thus not having the AI "skip" frames.
+**Engine commands.** These console commands control AIs at runtime (still current in Recoil - see the [Recoil command reference](https://recoilengine.org/docs/unsynced-commands/)):
 
-- **Engine commands to control the AIs**
+    /aireload    reload the AI controlling a team
+    /ailist      list active Skirmish AIs
+    /aikill      kill the AI controlling a team
+    /aicontrol   attach a new Skirmish AI to a team
 
-In spring you have some control over AIs with these commands:
+**Engine-side Interface source.** To see exactly what a callback does, read the source. In the maintained Recoil engine:
 
-    /aireload
-    /ailist
-    /aikill
-    /aicontrol
-
-- **Lua\<--\>AI communications \[in Spring 0.83+\]**
-
-<a href="http://springrts.com/phpbb/viewtopic.php?f=15&amp;t=26298" class="external free" rel="nofollow">http://springrts.com/phpbb/viewtopic.php?f=15&amp;t=26298</a> He shall say that only it once!
-
-- **Link to source code of the Interface, engine-side**
-
-Chances are you'll have doubts about what exactly the commands abc(), qwe() or xyz() do. Asking in the AI forum is a good way to clarify. The most reliable is probably to look at the source code (if you're able to navigate the maze of C++ code in all its glory, that is):\
-<a href="https://github.com/spring/spring/blob/develop/rts/ExternalAI/AICallback.h" class="external free" rel="nofollow">https://github.com/spring/spring/blob/develop/rts/ExternalAI/AICallback.h</a>\
-<a href="https://github.com/spring/spring/blob/develop/rts/ExternalAI/AICallback.cpp" class="external free" rel="nofollow">https://github.com/spring/spring/blob/develop/rts/ExternalAI/AICallback.cpp</a>\
-
-</div>
+- [rts/ExternalAI/AICallback.h](https://github.com/beyond-all-reason/RecoilEngine/blob/master/rts/ExternalAI/AICallback.h)
+- [rts/ExternalAI/AICallback.cpp](https://github.com/beyond-all-reason/RecoilEngine/blob/master/rts/ExternalAI/AICallback.cpp)
 
 ---
 

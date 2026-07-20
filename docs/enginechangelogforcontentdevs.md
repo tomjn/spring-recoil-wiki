@@ -1,5 +1,4 @@
 ---
-outdated: true
 title: "EngineChangelogForContentDevs"
 source_url: "https://springrts.com/wiki/EngineChangelogForContentDevs"
 categories:
@@ -10,9 +9,9 @@ categories:
 
 <div class="mw-parser-output">
 
-## About this page
+> **Historical:** This is a game/map-developer-facing changelog for classic Spring engine releases (roughly 0.82 through 98.0), kept as a reference for maintaining older content. For current engine changes see the [Recoil changelogs](https://recoilengine.org/changelogs).
 
-This page holds informations about engine changes that are relevant to game/map makers. The idea is to replace the "make your game ready for next release"-threads with a wiki page because unlike a forumpost, everybody can edit this. So if you find a thread (or mantis post etc) that explains a fix, please add it here. <a href="http://springrts.com/phpbb/viewtopic.php?t&amp;t=27777" class="external text" rel="nofollow">Back-link to forum. Use for bumping.</a>
+Engine changes relevant to game and map makers, by release:
 
 ## Spring 98.0
 

@@ -1,5 +1,4 @@
 ---
-outdated: true
 title: "NOTA OTA differences guide"
 source_url: "https://springrts.com/wiki/NOTA_OTA_differences_guide"
 categories:
@@ -8,6 +7,8 @@ categories:
 # NOTA OTA differences guide
 
 <div class="mw-parser-output">
+
+> **Note:** NOTA (Not OTA) is a classic Spring game. This introductory strategy guide still reads as a good explanation of how it plays; a couple of lobby-tooling references have been generalised.
 
 ## So, you wanna give NOTA a try, huh?
 
@@ -19,7 +20,7 @@ This is intended to be an introductory guide to those with an OTA-like backgroun
 
 In normal NOTA game mode you don't start with a commander, you start with a command building<sup>1</sup>. The command building, being a building, is not mobile but it has a long build radius and its build list is roughly equivalent to that of a T1 const KBOT/vehicle/VTOL from OTA plus a few waterborne structures. Lastly, the command building is moderately armed against both ground and air units which means your early base is adequately protected against small raids (five or less early PeeWees/Flashes aren't going to accomplish much but ten or twenty might if you don't have any other defenses).\
 
-<sup>1</sup> There's a game mode under the mod options tab in the TASClient lobby which allows you to start with the command building and the commander. Other than that, you can get a commander by building a warp gate from the T3 base expansion tower (more on those later) and warping him in. This latter one is different from the one you can opt to start with, it has a more extensive build list (it can even build Timmy/Bertha).\
+<sup>1</sup> There's a game mode under the mod options tab in the lobby which allows you to start with the command building and the commander. Other than that, you can get a commander by building a warp gate from the T3 base expansion tower (more on those later) and warping him in. This latter one is different from the one you can opt to start with, it has a more extensive build list (it can even build Timmy/Bertha).\
 
 ## Ok, ok, so no commander... What next, then?
 
@@ -130,10 +131,6 @@ Yep, for now at least. Remember that this is just an introductory guide meant to
 ------------------------------------------------------------------------
 
 Author: Totbuae
-
-------------------------------------------------------------------------
-
-\<-- Back to the <a href="https://bitbucket.org/notagame/nota/wiki/Home" class="external text" rel="nofollow">NOTA wiki</a>
 
 </div>
 
