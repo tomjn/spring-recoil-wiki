@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "GEM"
 source_url: "https://springrts.com/wiki/GEM"
 categories:

@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "FAQ:trouble"
 source_url: "https://springrts.com/wiki/FAQ:trouble"
 categories:

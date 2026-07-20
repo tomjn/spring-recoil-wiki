@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "Clans/XHC"
 source_url: "https://springrts.com/wiki/Clans/XHC"
 categories:

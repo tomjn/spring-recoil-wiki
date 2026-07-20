@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "WidgetDatabaseFAQ"
 source_url: "https://springrts.com/wiki/WidgetDatabaseFAQ"
 categories:

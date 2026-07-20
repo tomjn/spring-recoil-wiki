@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "Press"
 source_url: "https://springrts.com/wiki/Press"
 categories:

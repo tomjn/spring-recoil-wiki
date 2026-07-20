@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "4v4BA"
 source_url: "https://springrts.com/wiki/4v4BA"
 categories:

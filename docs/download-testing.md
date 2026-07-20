@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "Download Testing"
 source_url: "https://springrts.com/wiki/Download_Testing"
 categories:

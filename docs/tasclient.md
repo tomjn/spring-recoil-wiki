@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "TASClient"
 source_url: "https://springrts.com/wiki/TASClient"
 categories:

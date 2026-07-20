@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "Kustorion"
 source_url: "https://springrts.com/wiki/Kustorion"
 categories:

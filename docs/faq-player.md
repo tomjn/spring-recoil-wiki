@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "FAQ:player"
 source_url: "https://springrts.com/wiki/FAQ:player"
 categories:

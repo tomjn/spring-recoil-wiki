@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "AI:JAI"
 source_url: "https://springrts.com/wiki/AI:JAI"
 categories:

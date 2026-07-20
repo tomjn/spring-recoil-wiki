@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "Lobby Development"
 source_url: "https://springrts.com/wiki/Lobby_Development"
 categories:

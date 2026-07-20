@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "FAQ:technical"
 source_url: "https://springrts.com/wiki/FAQ:technical"
 categories:

@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "EngineChangelogForContentDevs"
 source_url: "https://springrts.com/wiki/EngineChangelogForContentDevs"
 categories:

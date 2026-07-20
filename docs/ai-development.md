@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "AI:Development"
 source_url: "https://springrts.com/wiki/AI:Development"
 categories:

@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "Validmaps.lua"
 source_url: "https://springrts.com/wiki/Validmaps.lua"
 categories:

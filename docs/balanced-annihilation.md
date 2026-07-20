@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "Balanced Annihilation"
 source_url: "https://springrts.com/wiki/Balanced_Annihilation"
 categories:

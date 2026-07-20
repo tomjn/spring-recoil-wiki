@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "KuroTA"
 source_url: "https://springrts.com/wiki/KuroTA"
 categories:

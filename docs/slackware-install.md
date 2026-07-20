@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "Slackware install"
 source_url: "https://springrts.com/wiki/Slackware_install"
 categories:

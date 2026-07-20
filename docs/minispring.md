@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "MiniSpring"
 source_url: "https://springrts.com/wiki/MiniSpring"
 categories:

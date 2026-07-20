@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "KAI"
 source_url: "https://springrts.com/wiki/KAI"
 categories:

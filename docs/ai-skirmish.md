@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "AI:Skirmish"
 source_url: "https://springrts.com/wiki/AI:Skirmish"
 categories:

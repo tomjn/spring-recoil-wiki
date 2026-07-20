@@ -1,4 +1,5 @@
 ---
+outdated: true
 title: "NOTA OTA differences guide"
 source_url: "https://springrts.com/wiki/NOTA_OTA_differences_guide"
 categories:
