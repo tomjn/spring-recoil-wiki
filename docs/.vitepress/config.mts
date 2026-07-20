@@ -96,13 +96,35 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Categories', link: '/categories/games' },
+      { text: 'Play', link: '/play' },
+      { text: 'Games', link: '/games' },
+      {
+        text: 'Develop',
+        items: [
+          { text: 'Game Development', link: '/game-development' },
+          { text: 'Map Development', link: '/map-development' },
+          { text: 'AI Development', link: '/ai-development' },
+          { text: 'Engine Development', link: '/engine-development' },
+        ],
+      },
+      { text: 'Hosting', link: '/hosting' },
+      { text: 'Reference', link: '/reference' },
+      {
+        text: 'Recoil',
+        items: [
+          { text: 'Recoil Engine site', link: 'https://recoilengine.org/' },
+          { text: 'Recoil on GitHub', link: 'https://github.com/beyond-all-reason/RecoilEngine/' },
+          { text: 'Community Discord', link: 'https://discord.gg/GUpRg6Wz3e' },
+        ],
+      },
     ],
     sidebar: buildSidebar(),
     search: { provider: 'local' },
     outline: { level: [2, 3], label: 'On this page' },
     socialLinks: [
+      { icon: 'discord', link: 'https://discord.gg/GUpRg6Wz3e' },
       { icon: 'github', link: 'https://github.com/tomjn/spring-recoil-wiki' },
+      { icon: 'github', link: 'https://github.com/beyond-all-reason/RecoilEngine/', ariaLabel: 'Recoil Engine on GitHub' },
     ],
     footer: {
       message: 'Content imported from the springrts.com wiki by its contributors. See each page\'s source link.',
