@@ -39,27 +39,35 @@ function byText(items: Item[]) { return items.sort((a, b) => a.text.localeCompar
 
 function buildSidebar() {
   const files = walk(DOCS)
+  const DISPLAY: { id: string; text: string }[] = [
+    ...SIDEBAR_ORDER.filter(x => x !== 'archive').map(x => ({ id: x, text: '' })),
+    { id: 'categories', text: 'Categories' },
+    { id: 'archive', text: 'Archive' },
+    { id: 'templates', text: 'Templates' },
+  ]
+  const textOf = Object.fromEntries(SECTIONS.map(s => [s.id, s.text]))
   const buckets: Record<string, Item[]> = {}
-  for (const id of SIDEBAR_ORDER) buckets[id] = []
+  for (const g of DISPLAY) buckets[g.id] = []
   for (const file of files) {
     const rel = relative(DOCS, file).replace(/\\/g, '/')
     const link = '/' + rel.replace(/\.md$/, '')
     const { title, categories, section } = frontmatterOf(file)
     const slug = rel.replace(/\.md$/, '')
-    // help/ and project/ subtrees are always meta
+    // help/ and project/ subtrees are always meta; templates/ and categories/ are directory-scoped
     const top = rel.includes('/') ? rel.split('/')[0] : ''
-    const id = (top === 'help' || top === 'project' || top === 'categories')
-      ? 'wiki'
-      : resolveSection({ section, categories, slug })
+    let id: string
+    if (top === 'templates') id = 'templates'
+    else if (top === 'categories') id = 'categories'
+    else if (top === 'help' || top === 'project') id = 'wiki'
+    else id = resolveSection({ section, categories, slug })
     buckets[id].push({ text: title || rel, link })
   }
-  const textOf = Object.fromEntries(SECTIONS.map(s => [s.id, s.text]))
-  return SIDEBAR_ORDER
-    .filter(id => buckets[id].length)
-    .map(id => ({
-      text: textOf[id],
+  return DISPLAY
+    .filter(g => buckets[g.id].length)
+    .map(g => ({
+      text: g.text || textOf[g.id],
       collapsed: true,
-      items: byText(buckets[id]),
+      items: byText(buckets[g.id]),
     }))
 }
 
