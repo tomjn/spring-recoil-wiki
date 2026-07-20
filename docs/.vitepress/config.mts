@@ -1,0 +1,103 @@
+import { defineConfig } from 'vitepress'
+import { readFileSync, readdirSync, statSync } from 'node:fs'
+import { join, relative } from 'node:path'
+
+const DOCS = new URL('..', import.meta.url).pathname
+
+// ---- read frontmatter title without a YAML dependency ----
+function titleOf(file: string, fallback: string): string {
+  try {
+    const txt = readFileSync(file, 'utf8').slice(0, 800)
+    const m = txt.match(/^title:\s*"?(.*?)"?\s*$/m)
+    if (m) return m[1]
+  } catch {}
+  return fallback
+}
+
+// ---- walk docs for content markdown ----
+function walk(dir: string, out: string[] = []): string[] {
+  for (const name of readdirSync(dir)) {
+    if (name.startsWith('.') || name === 'public') continue
+    const full = join(dir, name)
+    const st = statSync(full)
+    if (st.isDirectory()) walk(full, out)
+    else if (name.endsWith('.md') && name !== 'index.md') out.push(full)
+  }
+  return out
+}
+
+type Item = { text: string; link: string }
+function group(items: Item[]) {
+  return items.sort((a, b) => a.text.localeCompare(b.text))
+}
+
+function buildSidebar() {
+  const files = walk(DOCS)
+  const main: Record<string, Item[]> = {}
+  const project: Item[] = [], templates: Item[] = [], help: Item[] = [], categories: Item[] = []
+  for (const file of files) {
+    const rel = relative(DOCS, file).replace(/\\/g, '/')
+    const link = '/' + rel.replace(/\.md$/, '')
+    const title = titleOf(file, rel)
+    const top = rel.includes('/') ? rel.split('/')[0] : ''
+    const item: Item = { text: title, link }
+    if (top === 'project') project.push(item)
+    else if (top === 'templates') templates.push(item)
+    else if (top === 'help') help.push(item)
+    else if (top === 'categories') categories.push(item)
+    else {
+      // Main namespace: group by pseudo-namespace prefix before first ':'
+      const key = title.includes(':') ? title.split(':')[0] : 'General'
+      ;(main[key] ||= []).push(item)
+    }
+  }
+  const mainGroups = Object.keys(main).sort((a, b) => a.localeCompare(b)).map(k => ({
+    text: k, collapsed: true, items: group(main[k]),
+  }))
+  const sidebar: any[] = [...mainGroups]
+  if (project.length) sidebar.push({ text: 'Project', collapsed: true, items: group(project) })
+  if (help.length) sidebar.push({ text: 'Help', collapsed: true, items: group(help) })
+  if (categories.length) sidebar.push({ text: 'Categories', collapsed: true, items: group(categories) })
+  if (templates.length) sidebar.push({ text: 'Templates', collapsed: true, items: group(templates) })
+  return sidebar
+}
+
+export default defineConfig({
+  lang: 'en-US',
+  title: 'Spring / Recoil Wiki',
+  description: 'Community documentation for the Spring and Recoil RTS engines.',
+  base: '/spring-recoil-wiki/',
+  cleanUrls: true,
+  ignoreDeadLinks: true,
+  lastUpdated: true,
+  markdown: {
+    // Imported wiki content contains literal { } (Lua tables, config) that must not be
+    // parsed as markdown-it-attrs attribute syntax (produces invalid duplicate attributes).
+    attrs: { disable: true },
+  },
+  // VitePress prepends `base` to markdown links/images but NOT to href/src inside raw HTML
+  // (infobox/table links, images). Prepend it here so those don't 404 on the deployed site.
+  transformHtml(code) {
+    const base = '/spring-recoil-wiki/';
+    return code.replace(
+      /\b(href|src)="\/(?!\/)(?!spring-recoil-wiki\/)([^"]*)"/g,
+      (_m, attr, path) => `${attr}="${base}${path}"`,
+    );
+  },
+  themeConfig: {
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'Categories', link: '/categories/games' },
+    ],
+    sidebar: buildSidebar(),
+    search: { provider: 'local' },
+    outline: { level: [2, 3], label: 'On this page' },
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/tomjn/spring-recoil-wiki' },
+    ],
+    footer: {
+      message: 'Content imported from the springrts.com wiki by its contributors. See each page\'s source link.',
+      copyright: 'Community-maintained. Not affiliated with springrts.com.',
+    },
+  },
+})

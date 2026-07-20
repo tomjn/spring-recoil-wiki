@@ -1,0 +1,15 @@
+{
+  "name": "spring-recoil-wiki",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Community wiki for the Spring and Recoil RTS engines, imported from the (now dead) springrts.com MediaWiki.",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# Bulky import intermediates (reproducible from the tools/ scripts). The converted
+# markdown (docs/) and mirrored media (docs/public/images) ARE committed.
+tools/raw/
+tools/sample/

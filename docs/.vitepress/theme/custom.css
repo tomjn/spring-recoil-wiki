@@ -1,0 +1,168 @@
+/* Brand palette evoking the Spring logo: midnight/royal blue with a golden-orange accent. */
+:root {
+  --vp-c-brand-1: #1e40af;
+  --vp-c-brand-2: #2952cc;
+  --vp-c-brand-3: #1e40af;
+  --vp-c-brand-soft: rgba(30, 64, 175, 0.14);
+  --spring-accent: #e0722c;
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #1e3a8a 30%, var(--spring-accent));
+  --vp-button-brand-bg: var(--vp-c-brand-3);
+}
+.dark {
+  --vp-c-brand-1: #6ea8ff;
+  --vp-c-brand-2: #5b8def;
+  --vp-c-brand-3: #2952cc;
+  --vp-c-brand-soft: rgba(110, 168, 255, 0.16);
+  --spring-accent: #f0a24a;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #6ea8ff 30%, var(--spring-accent));
+}
+
+/* Styling for MediaWiki markup that survives as raw HTML in the imported pages
+   (thumbnails, captions, floats, galleries, infoboxes). */
+
+.vp-doc .mw-parser-output img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Thumbnails / figures */
+.vp-doc .thumb {
+  margin: 0.5em 0 1em;
+}
+.vp-doc .thumb.tright,
+.vp-doc .floatright {
+  float: right;
+  clear: right;
+  margin-left: 1.4em;
+}
+.vp-doc .thumb.tleft,
+.vp-doc .floatleft {
+  float: left;
+  clear: left;
+  margin-right: 1.4em;
+}
+.vp-doc .thumbinner {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  padding: 4px;
+  background: var(--vp-c-bg-soft);
+  max-width: 100%;
+}
+.vp-doc .thumbcaption {
+  font-size: 0.85em;
+  color: var(--vp-c-text-2);
+  padding: 4px 2px 2px;
+  line-height: 1.4;
+}
+.vp-doc .magnify {
+  display: none;
+}
+
+/* Galleries */
+.vp-doc ul.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+}
+.vp-doc li.gallerybox {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+  padding: 6px;
+  background: var(--vp-c-bg-soft);
+}
+.vp-doc .gallerytext {
+  font-size: 0.8em;
+  color: var(--vp-c-text-2);
+}
+
+/* Infoboxes and generic wikitables passed through as HTML tables keep VitePress
+   table styling; just make sure floated infoboxes don't overflow on mobile. */
+@media (max-width: 640px) {
+  .vp-doc .thumb.tright,
+  .vp-doc .thumb.tleft,
+  .vp-doc .floatright,
+  .vp-doc .floatleft {
+    float: none;
+    margin: 1em 0;
+  }
+}
+
+/* Small "outdated / historical" notice tables that many pages open with */
+.vp-doc table.metadata,
+.vp-doc .ambox {
+  font-size: 0.9em;
+}
+
+/* MediaWiki infoboxes: float right, clean theme-aware styling (inline colours stripped at import). */
+.vp-doc .wiki-infobox {
+  display: table;
+  float: right;
+  clear: right;
+  width: 300px;
+  max-width: 45%;
+  margin: 0 0 1em 1.5em;
+  font-size: 0.88em;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--vp-c-bg-soft);
+}
+.vp-doc .wiki-infobox td,
+.vp-doc .wiki-infobox th {
+  border: none;
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding: 7px 10px;
+  vertical-align: top;
+}
+.vp-doc .wiki-infobox tr:last-child td {
+  border-bottom: none;
+}
+/* header rows (the colspan=2 title / footer link) */
+.vp-doc .wiki-infobox td[colspan] {
+  background: var(--vp-c-bg-alt);
+  text-align: center;
+}
+.vp-doc .wiki-infobox td:first-child:not([colspan]) {
+  color: var(--vp-c-text-2);
+  width: 40%;
+}
+.vp-doc .wiki-infobox-left {
+  float: left;
+  clear: left;
+  margin: 0 1.5em 1em 0;
+}
+@media (max-width: 640px) {
+  .vp-doc .wiki-infobox,
+  .vp-doc .wiki-infobox-left {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 1em 0;
+  }
+}
+
+/* Indented code blocks (MediaWiki <pre> with no language) get no VitePress language wrapper,
+   so they miss its scroll containment and framing. Contain their overflow and frame them. */
+.vp-doc pre:not([class]) {
+  overflow-x: auto;
+  max-width: 100%;
+  margin: 16px 0;
+  padding: 16px 20px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-code-block-bg, var(--vp-c-bg-alt));
+  font-size: 0.85em;
+  line-height: 1.55;
+}
+.vp-doc pre:not([class]) code {
+  white-space: pre;
+  color: var(--vp-c-text-1);
+}
+/* Subtle border on VitePress's own fenced (highlighted) code blocks for consistency. */
+.vp-doc div[class*='language-'] {
+  border: 1px solid var(--vp-c-divider);
+}
