@@ -1,16 +1,28 @@
 ---
-outdated: true
 title: "FAQ:trouble"
 source_url: "https://springrts.com/wiki/FAQ:trouble"
 categories:
   - "FAQ"
   - "Pages_with_broken_file_links"
 ---
-# FAQ:trouble
+# FAQ: Troubleshooting
+
+> **Recoil / BAR:** For a current, supported game and its up-to-date troubleshooting, see [Beyond All Reason](https://www.beyondallreason.info/) (on the [Recoil engine](https://recoilengine.org/)) and its community [Discord](https://discord.gg/GUpRg6Wz3e). The notes below are for the classic Spring engine.
+
+## Current troubleshooting
+
+Generic steps that still apply:
+
+- **Can't host / friends can't connect:** the engine uses UDP port 8452 by default. Forward that port on your router and allow it through your firewall, or use a relay host if your lobby offers one.
+- **Graphics glitches or crashes:** update your GPU drivers first. If it still crashes, check `infolog.txt` in your config directory - it usually names the cause. Lowering graphics settings (shadows, advanced shading) or running windowed can help isolate driver issues.
+- **Sound problems:** update your sound drivers. On Linux, most sound issues come from the audio server configuration.
+- **Still stuck:** ask in the BAR/Recoil Discord with your `infolog.txt` attached.
+
+::: details Historical: old hardware and driver workarounds (classic Spring, ~2010-era)
+
+These notes target discontinued hardware and driver versions (e.g. ATI Catalyst 8.x-10.x, early Intel/Nvidia drivers) and specific old Spring releases. They are kept as a record and are unlikely to apply to current systems or to Recoil/BAR.
 
 <div class="mw-parser-output">
-
-## Troubleshooting
 
 ### Network
 
@@ -280,6 +292,8 @@ There is a number of things you can do, among these are:
 This is most likely a problem with the game's Lua scripting. Report it in the games forum or its bug tracker. [Here](/bugs) are some hints how to so.
 
 </div>
+
+:::
 
 ---
 
