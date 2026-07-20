@@ -1,18 +1,9 @@
 import { defineConfig } from 'vitepress'
 import { readFileSync, readdirSync, statSync } from 'node:fs'
 import { join, relative } from 'node:path'
+import { SECTIONS, SIDEBAR_ORDER, resolveSection } from './sections.mjs'
 
 const DOCS = new URL('..', import.meta.url).pathname
-
-// ---- read frontmatter title without a YAML dependency ----
-function titleOf(file: string, fallback: string): string {
-  try {
-    const txt = readFileSync(file, 'utf8').slice(0, 800)
-    const m = txt.match(/^title:\s*"?(.*?)"?\s*$/m)
-    if (m) return m[1]
-  } catch {}
-  return fallback
-}
 
 // ---- walk docs for content markdown ----
 function walk(dir: string, out: string[] = []): string[] {
@@ -26,40 +17,50 @@ function walk(dir: string, out: string[] = []): string[] {
   return out
 }
 
-type Item = { text: string; link: string }
-function group(items: Item[]) {
-  return items.sort((a, b) => a.text.localeCompare(b.text))
+// read frontmatter title + categories + section override without a YAML dep
+function frontmatterOf(file: string): { title: string; categories: string[]; section: string } {
+  let txt = ''
+  try { txt = readFileSync(file, 'utf8') } catch { return { title: '', categories: [], section: '' } }
+  const fmMatch = txt.match(/^---\n([\s\S]*?)\n---/)
+  const fm = fmMatch ? fmMatch[1] : ''
+  const title = (fm.match(/^title:\s*"?(.*?)"?\s*$/m) || [])[1] || ''
+  const section = (fm.match(/^section:\s*"?([^"\n]+)"?/m) || [])[1] || ''
+  const categories: string[] = []
+  const cm = fm.match(/^categories:\s*\n((?:[ \t]*-[ \t]*.*\n?)+)/m)
+  if (cm) for (const line of cm[1].split('\n')) {
+    const t = line.match(/^\s*-\s*"?(.*?)"?\s*$/)
+    if (t && t[1]) categories.push(t[1])
+  }
+  return { title, categories, section }
 }
+
+type Item = { text: string; link: string }
+function byText(items: Item[]) { return items.sort((a, b) => a.text.localeCompare(b.text)) }
 
 function buildSidebar() {
   const files = walk(DOCS)
-  const main: Record<string, Item[]> = {}
-  const project: Item[] = [], templates: Item[] = [], help: Item[] = [], categories: Item[] = []
+  const buckets: Record<string, Item[]> = {}
+  for (const id of SIDEBAR_ORDER) buckets[id] = []
   for (const file of files) {
     const rel = relative(DOCS, file).replace(/\\/g, '/')
     const link = '/' + rel.replace(/\.md$/, '')
-    const title = titleOf(file, rel)
+    const { title, categories, section } = frontmatterOf(file)
+    const slug = rel.replace(/\.md$/, '')
+    // help/ and project/ subtrees are always meta
     const top = rel.includes('/') ? rel.split('/')[0] : ''
-    const item: Item = { text: title, link }
-    if (top === 'project') project.push(item)
-    else if (top === 'templates') templates.push(item)
-    else if (top === 'help') help.push(item)
-    else if (top === 'categories') categories.push(item)
-    else {
-      // Main namespace: group by pseudo-namespace prefix before first ':'
-      const key = title.includes(':') ? title.split(':')[0] : 'General'
-      ;(main[key] ||= []).push(item)
-    }
+    const id = (top === 'help' || top === 'project' || top === 'categories')
+      ? 'wiki'
+      : resolveSection({ section, categories, slug })
+    buckets[id].push({ text: title || rel, link })
   }
-  const mainGroups = Object.keys(main).sort((a, b) => a.localeCompare(b)).map(k => ({
-    text: k, collapsed: true, items: group(main[k]),
-  }))
-  const sidebar: any[] = [...mainGroups]
-  if (project.length) sidebar.push({ text: 'Project', collapsed: true, items: group(project) })
-  if (help.length) sidebar.push({ text: 'Help', collapsed: true, items: group(help) })
-  if (categories.length) sidebar.push({ text: 'Categories', collapsed: true, items: group(categories) })
-  if (templates.length) sidebar.push({ text: 'Templates', collapsed: true, items: group(templates) })
-  return sidebar
+  const textOf = Object.fromEntries(SECTIONS.map(s => [s.id, s.text]))
+  return SIDEBAR_ORDER
+    .filter(id => buckets[id].length)
+    .map(id => ({
+      text: textOf[id],
+      collapsed: true,
+      items: byText(buckets[id]),
+    }))
 }
 
 export default defineConfig({
