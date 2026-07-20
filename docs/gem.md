@@ -1,5 +1,4 @@
 ---
-outdated: true
 title: "GEM"
 source_url: "https://springrts.com/wiki/GEM"
 categories:
@@ -9,11 +8,7 @@ categories:
 ---
 # GEM
 
-<div class="mw-parser-output">
-
-|  |  |
-|----|----|
-| [<img src="/images/172px-Symbol_comment_vote.svg.png" decoding="async" width="50" height="51" alt="172px-Symbol comment vote.svg.png" />](/images/172px-Symbol_comment_vote.svg.png) | This page contains outdated information, but is kept for historical reasons. |
+> **Historical:** GEM (Galactic Empire Mod) was an abandoned mod concept begun in November 2005 and never released. This page preserves the original design write-up. For playable games see [Games](/games).
 
 G/E/M stands for Galactic Empire Mod. The mod is based on Imperium Galactica, a space strategy game from 1994. It will incorporate many ideas from the original game.
 
@@ -93,15 +88,7 @@ Work on G/E/M began in early November of 2005.
 
 ------------------------------------------------------------------------
 
-Back to [Mods](/games)
-
-|  |  |
-|----|----|
-| [<img src="/images/172px-Symbol_comment_vote.svg.png" decoding="async" width="50" height="51" alt="172px-Symbol comment vote.svg.png" />](/images/172px-Symbol_comment_vote.svg.png) | This site is kept for historical reasons, all mods here are incompatible to the current spring engine, maybe they work with an older version of the Engine. |
-
-    - please use Category:Games if you search for playable games!
-
-</div>
+Back to [Games](/games)
 
 ---
 
