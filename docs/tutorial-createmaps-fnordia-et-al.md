@@ -120,7 +120,7 @@ I would suggest you copy the .smd of another map and fiddle with the settings un
 
 What follows is all that we (aGorm and LathanStanley) have figured out in the SMD's. Its by no means the be all and end all, but it's the next best thing.
 
-- Goto Maps:SMD for a more detailed listing
+- Goto [Maps:SMD](/mapdev-smd) for a more detailed listing
 
 ### General Map Information
 
