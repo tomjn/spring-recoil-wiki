@@ -1,5 +1,4 @@
 ---
-outdated: true
 title: "Press"
 source_url: "https://springrts.com/wiki/Press"
 categories:
@@ -9,7 +8,9 @@ categories:
 
 <div class="mw-parser-output">
 
-This page lists urls of interesting spring related news/reviews and a bit info about its [history](/history).
+> **Historical:** An archive of Spring-related press coverage from 2004 to 2018. For current coverage of the living engine and its games, see [Recoil](https://recoilengine.org/) and [Beyond All Reason](https://www.beyondallreason.info/).
+
+A chronological list of Spring-related news and reviews; see also the engine's [history](/history).
 
 ## History of Spring and its games in the press
 
