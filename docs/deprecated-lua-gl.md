@@ -1,6 +1,7 @@
 ---
 title: "Deprecated Lua GL"
 source_url: "https://springrts.com/wiki/Deprecated_Lua_GL"
+section: "game-dev"
 ---
 # Deprecated Lua GL
 

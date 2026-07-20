@@ -1,6 +1,7 @@
 ---
 title: "SPADS plugin install notes"
 source_url: "https://springrts.com/wiki/SPADS_plugin_install_notes"
+section: "hosting"
 ---
 # SPADS plugin install notes
 

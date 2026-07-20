@@ -1,6 +1,7 @@
 ---
 title: "Chili:Example 2"
 source_url: "https://springrts.com/wiki/Chili:Example_2"
+section: "game-dev"
 ---
 # Chili:Example 2
 

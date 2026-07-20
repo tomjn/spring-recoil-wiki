@@ -1,6 +1,7 @@
 ---
 title: "Shaders:IvandPBRShader"
 source_url: "https://springrts.com/wiki/Shaders:IvandPBRShader"
+section: "game-dev"
 ---
 # Shaders:IvandPBRShader
 

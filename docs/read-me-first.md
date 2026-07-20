@@ -3,6 +3,7 @@ title: "Read Me First"
 source_url: "https://springrts.com/wiki/Read_Me_First"
 categories:
   - "Help"
+section: "play"
 ---
 # Read Me First
 

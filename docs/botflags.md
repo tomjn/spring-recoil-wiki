@@ -1,6 +1,7 @@
 ---
 title: "Botflags"
 source_url: "https://springrts.com/wiki/Botflags"
+section: "hosting"
 ---
 # Botflags
 

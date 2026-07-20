@@ -1,6 +1,7 @@
 ---
 title: "SPADS PerlUnitSync module generation for Windows"
 source_url: "https://springrts.com/wiki/SPADS_PerlUnitSync_module_generation_for_Windows"
+section: "hosting"
 ---
 # SPADS PerlUnitSync module generation for Windows
 

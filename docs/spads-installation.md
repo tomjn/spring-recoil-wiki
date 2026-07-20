@@ -1,6 +1,7 @@
 ---
 title: "SPADS:Installation"
 source_url: "https://springrts.com/wiki/SPADS:Installation"
+section: "hosting"
 ---
 # SPADS:Installation
 

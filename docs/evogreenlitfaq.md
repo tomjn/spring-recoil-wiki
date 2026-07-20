@@ -1,6 +1,7 @@
 ---
 title: "EvoGreenLitFAQ"
 source_url: "https://springrts.com/wiki/EvoGreenLitFAQ"
+section: "games"
 ---
 # EvoGreenLitFAQ
 

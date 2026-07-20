@@ -3,6 +3,7 @@ title: "GamesDownloads"
 source_url: "https://springrts.com/wiki/GamesDownloads"
 categories:
   - "Spring"
+section: "games"
 ---
 # GamesDownloads
 

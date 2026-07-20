@@ -1,6 +1,7 @@
 ---
 title: "SPADS Inline::Python installation guide"
 source_url: "https://springrts.com/wiki/SPADS_Inline::Python_installation_guide"
+section: "hosting"
 ---
 # SPADS Inline::Python installation guide
 

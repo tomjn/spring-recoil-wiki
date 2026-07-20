@@ -3,6 +3,7 @@ title: "Invqueuekey"
 source_url: "https://springrts.com/wiki/Invqueuekey"
 categories:
   - "Help"
+section: "play"
 ---
 # Invqueuekey
 

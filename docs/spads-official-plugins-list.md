@@ -1,6 +1,7 @@
 ---
 title: "SPADS official plugins list"
 source_url: "https://springrts.com/wiki/SPADS_official_plugins_list"
+section: "hosting"
 ---
 # SPADS official plugins list
 

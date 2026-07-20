@@ -1,6 +1,7 @@
 ---
 title: "SPADS update procedure for new Spring version"
 source_url: "https://springrts.com/wiki/SPADS_update_procedure_for_new_Spring_version"
+section: "hosting"
 ---
 # SPADS update procedure for new Spring version
 

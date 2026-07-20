@@ -1,6 +1,7 @@
 ---
 title: "LuaLifecycle"
 source_url: "https://springrts.com/wiki/LuaLifecycle"
+section: "game-dev"
 ---
 # LuaLifecycle
 

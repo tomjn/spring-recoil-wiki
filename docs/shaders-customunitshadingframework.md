@@ -1,6 +1,7 @@
 ---
 title: "Shaders:CustomUnitShadingFramework"
 source_url: "https://springrts.com/wiki/Shaders:CustomUnitShadingFramework"
+section: "game-dev"
 ---
 # Shaders:CustomUnitShadingFramework
 

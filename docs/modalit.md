@@ -1,6 +1,7 @@
 ---
 title: "ModalitÃ"
 source_url: "https://springrts.com/wiki/Modalit%C3%83%C2%A0"
+section: "games"
 ---
 # ModalitÃ
 

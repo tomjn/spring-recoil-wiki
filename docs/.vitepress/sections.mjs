@@ -49,10 +49,11 @@ export const CATEGORY_TO_SECTION = {
   'buildbot': 'engine-dev', 'linux': 'engine-dev', 'compiling': 'engine-dev',
   // hosting
   'lobby': 'hosting', 'download-systems': 'hosting', 'autohosts': 'hosting', 'spads': 'hosting',
+  'administration': 'hosting',
   // play
   'strategy': 'play', 'playing': 'play', 'faq': 'play',
   // reference
-  'gamedata': 'reference',
+  'gamedata': 'reference', 'releases': 'reference',
   // wiki/meta
   'help': 'wiki', 'spring': 'wiki', 'content': 'wiki', 'review': 'wiki', 'forum': 'wiki',
 }

@@ -3,6 +3,7 @@ title: "Keyboard"
 source_url: "https://springrts.com/wiki/Keyboard"
 categories:
   - "Help"
+section: "play"
 ---
 # Keyboard
 

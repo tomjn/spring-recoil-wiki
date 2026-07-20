@@ -3,6 +3,7 @@ title: "Getting Spring Content and Links"
 source_url: "https://springrts.com/wiki/Getting_Spring_Content_and_Links"
 categories:
   - "Help"
+section: "play"
 ---
 # Getting Spring Content and Links
 

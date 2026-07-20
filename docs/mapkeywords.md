@@ -1,6 +1,7 @@
 ---
 title: "MapKeywords"
 source_url: "https://springrts.com/wiki/MapKeywords"
+section: "map-dev"
 ---
 # MapKeywords
 

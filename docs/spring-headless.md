@@ -3,6 +3,7 @@ title: "Spring Headless"
 source_url: "https://springrts.com/wiki/Spring_Headless"
 categories:
   - "Help"
+section: "hosting"
 ---
 # Spring Headless
 

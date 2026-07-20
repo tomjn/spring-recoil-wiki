@@ -1,6 +1,7 @@
 ---
 title: "SPADS plugin development (Python)"
 source_url: "https://springrts.com/wiki/SPADS_plugin_development_(Python)"
+section: "hosting"
 ---
 # SPADS plugin development (Python)
 

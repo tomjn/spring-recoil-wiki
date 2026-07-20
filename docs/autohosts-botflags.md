@@ -1,6 +1,7 @@
 ---
 title: "Autohosts Botflags"
 source_url: "https://springrts.com/wiki/Autohosts_Botflags"
+section: "hosting"
 ---
 # Autohosts Botflags
 

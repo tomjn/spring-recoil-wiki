@@ -3,6 +3,7 @@ title: "Uikeys.txt"
 source_url: "https://springrts.com/wiki/Uikeys.txt"
 categories:
   - "Help"
+section: "reference"
 ---
 # Uikeys.txt
 

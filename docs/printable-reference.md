@@ -3,6 +3,7 @@ title: "Printable Reference"
 source_url: "https://springrts.com/wiki/Printable_Reference"
 categories:
   - "Help"
+section: "play"
 ---
 # Printable Reference
 

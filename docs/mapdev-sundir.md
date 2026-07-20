@@ -1,6 +1,7 @@
 ---
 title: "Mapdev:sunDir"
 source_url: "https://springrts.com/wiki/Mapdev:sunDir"
+section: "map-dev"
 ---
 # Mapdev:sunDir
 

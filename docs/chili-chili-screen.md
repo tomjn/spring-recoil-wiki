@@ -1,6 +1,7 @@
 ---
 title: "Chili/Chili Screen"
 source_url: "https://springrts.com/wiki/Chili/Chili_Screen"
+section: "game-dev"
 ---
 # Chili/Chili Screen
 

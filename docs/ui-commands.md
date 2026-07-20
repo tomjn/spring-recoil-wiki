@@ -3,6 +3,7 @@ title: "UI commands"
 source_url: "https://springrts.com/wiki/UI_commands"
 categories:
   - "Help"
+section: "game-dev"
 ---
 # UI commands
 

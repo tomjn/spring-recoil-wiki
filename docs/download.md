@@ -3,6 +3,7 @@ title: "Download"
 source_url: "https://springrts.com/wiki/Download"
 categories:
   - "Spring"
+section: "play"
 ---
 # Download
 

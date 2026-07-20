@@ -1,6 +1,7 @@
 ---
 title: "Shaders:PBRShaders"
 source_url: "https://springrts.com/wiki/Shaders:PBRShaders"
+section: "game-dev"
 ---
 # Shaders:PBRShaders
 

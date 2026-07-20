@@ -3,6 +3,7 @@ title: "Springsettings.cfg"
 source_url: "https://springrts.com/wiki/Springsettings.cfg"
 categories:
   - "Help"
+section: "reference"
 ---
 # Springsettings.cfg
 

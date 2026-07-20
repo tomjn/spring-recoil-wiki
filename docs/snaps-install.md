@@ -1,6 +1,7 @@
 ---
 title: "Snaps install"
 source_url: "https://springrts.com/wiki/Snaps_install"
+section: "play"
 ---
 # Snaps install
 

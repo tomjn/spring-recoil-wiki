@@ -1,6 +1,7 @@
 ---
 title: "Lua FBO"
 source_url: "https://springrts.com/wiki/Lua_FBO"
+section: "game-dev"
 ---
 # Lua FBO
 
