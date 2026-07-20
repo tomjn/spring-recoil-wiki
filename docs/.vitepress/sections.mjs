@@ -67,8 +67,9 @@ export function resolveSection({ section, categories = [], slug = '' } = {}) {
   if (section && RANK[section] !== undefined) return section
   // Filename heuristic: config-file docs -> Reference (only if no stronger match).
   const isConfigFile = /\.(lua|txt|cfg)$/i.test(slug)
+  const cats = Array.isArray(categories) ? categories : []
   let best = null
-  for (const raw of categories) {
+  for (const raw of cats) {
     const id = CATEGORY_TO_SECTION[normTag(raw)]
     if (!id) continue
     if (best === null || RANK[id] < RANK[best]) best = id
