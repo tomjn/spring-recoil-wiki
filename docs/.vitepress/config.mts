@@ -77,6 +77,10 @@ export default defineConfig({
   description: 'Community documentation for the Spring and Recoil RTS engines.',
   base: '/spring-recoil-wiki/',
   cleanUrls: true,
+  // head-link hrefs are not auto-prefixed with `base`, so include it explicitly.
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/spring-recoil-wiki/favicon.svg' }],
+  ],
   ignoreDeadLinks: true,
   lastUpdated: true,
   markdown: {
