@@ -29,4 +29,6 @@ The `tools/` directory holds the one-time import pipeline. It ran against the li
 - `tools/mirror-media.mjs` — downloads all uploaded images into `docs/public/images/`.
 - `tools/raw/` — bulky intermediate export (git-ignored; reproducible from the scripts).
 
+`tools/import-userspace.mjs` is a later pass for the User and Talk pages the first import missed. It reads the page list from p2004a's August 2025 MediaWiki dump and fetches rendered HTML from his mirror at https://springrts-wiki.p2004a.com/. Run it with the path to the dump's `history.xml`.
+
 The converted Markdown (`docs/`) and mirrored images (`docs/public/images/`) are committed; the raw export is not.
