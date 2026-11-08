@@ -31,6 +31,9 @@ Even developers, content creators and rabid players occassionally have abberant 
 
 - [Rox Knorke ingame experimental moddev](/rox-knorke-ingame-experimental-moddev)
 - <a href="http://www.youtube.com/watch?v=Mtz7arOBZnQ" class="external text" rel="nofollow">XTA Video: The best ally ever</a>
+
+  <div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Mtz7arOBZnQ" title="xta - best ally ever" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - Spring Beatz <a href="http://springrts.com/phpbb/viewtopic.php?f=1&amp;t=9127" class="external text" rel="nofollow">Volume one</a> and <a href="http://tindeck.com/listen/yasv" class="external text" rel="nofollow">Volume Two</a> -- Caution: Explicit lyrics!
 - <a href="http://springrts.com/phpbb/viewtopic.php?f=9&amp;t=26805" class="external text" rel="nofollow">youtube channels of various spring people.</a>
 

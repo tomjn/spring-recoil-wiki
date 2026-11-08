@@ -12,6 +12,8 @@ categories:
 
 ## <a href="http://www.youtube.com/embed/7f2tYgyF0W8" class="external text" rel="nofollow">Video</a>
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/7f2tYgyF0W8" title="Sclupting and Rendering a Height Map in Blender for SpringRTS" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ### Video Script
 
 1\. Delete Cube and Light

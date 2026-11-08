@@ -20,6 +20,8 @@ No problems even in a maze!
 
 See the full video here: <a href="http://www.youtube.com/watch?v=h46ux4ANdxE" class="external free" rel="nofollow">http://www.youtube.com/watch?v=h46ux4ANdxE</a>
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/h46ux4ANdxE" title="Spring Pathing In Maze" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 **Units can jump!**
 
 ![jeep_jumps_down_cliffhuuvq.gif](http://www.abload.de/img/jeep_jumps_down_cliffhuuvq.gif)

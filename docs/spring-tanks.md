@@ -25,6 +25,8 @@ categories:
 
 <a href="http://www.youtube.com/watch?v=xlgV64CEE7Q" class="external text" rel="nofollow"> </a>
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/xlgV64CEE7Q" title="spring tanks trailer" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 </div>
 
 <div style="position: absolute; top: 0; left: 0; z-index: 2;">

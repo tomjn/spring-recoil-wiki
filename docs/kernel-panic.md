@@ -53,7 +53,13 @@ Current Version of Kernel Panic is 4.9
 
 ### Youtube Videos:
 
-<a href="http://youtube.com/watch?v=doF7owZ0blk&amp;fmt=18" class="external text" rel="nofollow"><img src="http://i.ytimg.com/vi/doF7owZ0blk/default.jpg" alt="default.jpg" /></a> <a href="http://youtube.com/watch?v=Ug1c19yaZac" class="external text" rel="nofollow"><img src="http://i.ytimg.com/vi/Ug1c19yaZac/default.jpg" alt="default.jpg" /></a> <a href="http://youtube.com/watch?v=GAZQhRlt5bU" class="external text" rel="nofollow"><img src="http://i.ytimg.com/vi/GAZQhRlt5bU/default.jpg" alt="default.jpg" /></a> <a href="http://www.youtube.com/watch?v=3q48ys5hFtI&amp;fmt=18" class="external text" rel="nofollow"><img src="http://i.ytimg.com/vi/3q48ys5hFtI/default.jpg" alt="default.jpg" /></a>
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/doF7owZ0blk" title="Kernel Panic 3.1" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/Ug1c19yaZac" title="Spring Promo I - Kernel Panic" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/GAZQhRlt5bU" title="Kernel Panic 2.0" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/3q48ys5hFtI" title="Spring Showcase 8" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ------------------------------------------------------------------------
 

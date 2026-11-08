@@ -14,6 +14,8 @@ source_url: "https://springrts.com/wiki/User:Emmanuel"
 
 <a href="http://springfiles.com/users/depreciator" class="external text" rel="nofollow">uploads of my past work with springrts</a> <a href="http://youtu.be/c-5A0y5sc4Q" class="external text" rel="nofollow">youtube ingame models</a>
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/c-5A0y5sc4Q" title="lua forward walk anim" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 - <div class="thumb" style="width: 150px; height: 150px;">
 
   [<img src="/images/Springrts08pc2012luaunitsmod.png" class="mw-file-element" decoding="async" width="120" height="53" alt="playables units lua with 3do models" />](/images/Springrts08pc2012luaunitsmod.png)

@@ -157,6 +157,8 @@ bool [allowUnitCollisionOverlap](#allowunitcollisionoverlap)  default: true 
 
 Can mobile units collision volumes overlap one another? Allows unit movement like <a href="http://www.youtube.com/watch?v=mRtePUdVk2o" class="external text" rel="nofollow">this (video)</a> at the cost of more 'clumping'.
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/mRtePUdVk2o" title="Flash Dance - Part II" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 bool [allowGroundUnitGravity](#allowgroundunitgravity)  default: true New in version 92.0
 
 Allows fast moving mobile units to 'catch air' as they move over terrain.

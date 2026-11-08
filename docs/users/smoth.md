@@ -8,6 +8,8 @@ source_url: "https://springrts.com/wiki/User:Smoth"
 
 <a href="https://www.youtube.com/watch?v=ShNUz8dXTIY" class="external free" rel="nofollow">https://www.youtube.com/watch?v=ShNUz8dXTIY</a> ^ gimp texturing in a similar style to my own for those who are poor and DON'T have a pegleg and a cutlas. \[09:09:47\] \<\[LCC\]jK\> truth is there are only 2 facts: synced can never READ unsynced data, and unsynced can never WRITE synced data \[09:10:02\] \<\[LCC\]jK\> everything else is allowed
 
+<div class="video-embed"><iframe src="https://www.youtube-nocookie.com/embed/ShNUz8dXTIY" title="M203 {Speed texture in Blender 3D and GIMP}" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Plans for game developer restructure:\
 3 sections, beginer, intermediate and advanced.
 
