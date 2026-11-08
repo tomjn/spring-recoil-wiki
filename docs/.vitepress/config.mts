@@ -44,6 +44,8 @@ function buildSidebar() {
     { id: 'categories', text: 'Categories' },
     { id: 'archive', text: 'Archive' },
     { id: 'templates', text: 'Templates' },
+    { id: 'users', text: 'User pages' },
+    { id: 'talk', text: 'Talk pages' },
   ]
   const textOf = Object.fromEntries(SECTIONS.map(s => [s.id, s.text]))
   const buckets: Record<string, Item[]> = {}
@@ -53,11 +55,10 @@ function buildSidebar() {
     const link = '/' + rel.replace(/\.md$/, '')
     const { title, categories, section } = frontmatterOf(file)
     const slug = rel.replace(/\.md$/, '')
-    // help/ and project/ subtrees are always meta; templates/ and categories/ are directory-scoped
+    // help/ and project/ subtrees are always meta; templates/, categories/, users/ and talk/ are directory-scoped
     const top = rel.includes('/') ? rel.split('/')[0] : ''
     let id: string
-    if (top === 'templates') id = 'templates'
-    else if (top === 'categories') id = 'categories'
+    if (top === 'templates' || top === 'categories' || top === 'users' || top === 'talk') id = top
     else if (top === 'help' || top === 'project') id = 'wiki'
     else id = resolveSection({ section, categories, slug })
     buckets[id].push({ text: title || rel, link })
