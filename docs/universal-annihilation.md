@@ -8,7 +8,7 @@ categories:
 
 <div class="mw-parser-output">
 
-[<img src="/images/UniversalAnnihilation.jpg" decoding="async" width="350" height="286" alt="Universal Annihilation" />](/images/UniversalAnnihilation.jpg)
+[<img src="/images/UniversalAnnihilation.jpg" decoding="async" alt="Universal Annihilation" />](/images/UniversalAnnihilation.jpg)
 
 ## Where it is
 

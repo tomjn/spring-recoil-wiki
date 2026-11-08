@@ -16,7 +16,7 @@ Spring has several drawing modes which are useful for debugging and performance 
 
 <div class="floatleft">
 
-[<img src="/images/Debug.jpg" decoding="async" width="400" height="235" alt="/Debug" />](/images/Debug.jpg)
+[<img src="/images/Debug.jpg" decoding="async" alt="/Debug" />](/images/Debug.jpg)
 
 </div>
 
@@ -33,7 +33,7 @@ Since 97.0 there is a new **Frame Grapher** visualisation which shows how the la
 
 <div class="floatleft">
 
-[<img src="/images/DebugColVol.jpg" decoding="async" width="400" height="235" alt="/DebugColVol" />](/images/DebugColVol.jpg)
+[<img src="/images/DebugColVol.jpg" decoding="async" alt="/DebugColVol" />](/images/DebugColVol.jpg)
 
 </div>
 
@@ -43,13 +43,13 @@ Draws unit and feature [collision volumes](/gamedev-collisionvolumes) as purple 
 
 <div class="floatleft">
 
-[<img src="/images/DebugPath_Close.jpg" decoding="async" width="400" height="235" alt="/DebugPath Close up view" />](/images/DebugPath_Close.jpg)
+[<img src="/images/DebugPath_Close.jpg" decoding="async" alt="/DebugPath Close up view" />](/images/DebugPath_Close.jpg)
 
 </div>
 
 <div class="floatleft">
 
-[<img src="/images/DebugPath_Far.jpg" decoding="async" width="400" height="235" alt="/DebugPath Far out view" />](/images/DebugPath_Far.jpg)
+[<img src="/images/DebugPath_Far.jpg" decoding="async" alt="/DebugPath Far out view" />](/images/DebugPath_Far.jpg)
 
 </div>
 
@@ -67,7 +67,7 @@ It is meant for debugging trajectories of ballistic projectiles. <a href="https:
 
 <div class="floatleft">
 
-[<img src="/images/DebugDrawAI_E232AI.jpg" decoding="async" width="400" height="244" alt="/DebugDrawAI implemented in E232AI" />](/images/DebugDrawAI_E232AI.jpg)
+[<img src="/images/DebugDrawAI_E232AI.jpg" decoding="async" alt="/DebugDrawAI implemented in E232AI" />](/images/DebugDrawAI_E232AI.jpg)
 
 </div>
 

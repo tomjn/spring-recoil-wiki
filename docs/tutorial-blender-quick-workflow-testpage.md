@@ -52,133 +52,133 @@ export model to springrts : export/colladata dae format (selection only) for sp
 
 <div class="floatleft">
 
-[<img src="/images/Blender_3D_View_F6.jpg" decoding="async" width="200" height="198" alt="Blender_3D_View_F6" />](/images/Blender_3D_View_F6.jpg)
+[<img src="/images/Blender_3D_View_F6.jpg" decoding="async" alt="Blender_3D_View_F6" />](/images/Blender_3D_View_F6.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_3D_View_Mesh_VUUnwrap_SmartUVProject.jpg" decoding="async" width="320" height="125" alt="Blender 3D View Mesh VUUnwrap SmartUVProject" />](/images/Blender_3D_View_Mesh_VUUnwrap_SmartUVProject.jpg)
+[<img src="/images/Blender_3D_View_Mesh_VUUnwrap_SmartUVProject.jpg" decoding="async" alt="Blender 3D View Mesh VUUnwrap SmartUVProject" />](/images/Blender_3D_View_Mesh_VUUnwrap_SmartUVProject.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_3D_View_Mesh_VUUnwrap.jpg" decoding="async" width="320" height="133" alt="Blender 3D View Mesh VUUnwrap" />](/images/Blender_3D_View_Mesh_VUUnwrap.jpg)
+[<img src="/images/Blender_3D_View_Mesh_VUUnwrap.jpg" decoding="async" alt="Blender 3D View Mesh VUUnwrap" />](/images/Blender_3D_View_Mesh_VUUnwrap.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_3D_View_Object_Mode.jpg" decoding="async" width="320" height="62" alt="Blender 3D View Object Mode" />](/images/Blender_3D_View_Object_Mode.jpg)
+[<img src="/images/Blender_3D_View_Object_Mode.jpg" decoding="async" alt="Blender 3D View Object Mode" />](/images/Blender_3D_View_Object_Mode.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_3D_View_Pivot_Point.jpg" decoding="async" width="320" height="61" alt="Blender 3D View Pivot Point" />](/images/Blender_3D_View_Pivot_Point.jpg)
+[<img src="/images/Blender_3D_View_Pivot_Point.jpg" decoding="async" alt="Blender 3D View Pivot Point" />](/images/Blender_3D_View_Pivot_Point.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_3D_View_Viewport_Shading.jpg" decoding="async" width="320" height="54" alt="Blender 3D View Viewport Shading" />](/images/Blender_3D_View_Viewport_Shading.jpg)
+[<img src="/images/Blender_3D_View_Viewport_Shading.jpg" decoding="async" alt="Blender 3D View Viewport Shading" />](/images/Blender_3D_View_Viewport_Shading.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_Info_Add_Mesh_UV_Sphere.jpg" decoding="async" width="320" height="141" alt="Blender Info Add Mesh UV Sphere" />](/images/Blender_Info_Add_Mesh_UV_Sphere.jpg)
+[<img src="/images/Blender_Info_Add_Mesh_UV_Sphere.jpg" decoding="async" alt="Blender Info Add Mesh UV Sphere" />](/images/Blender_Info_Add_Mesh_UV_Sphere.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_info_File_Export_Colladata.jpg" decoding="async" width="320" height="259" alt="Blender info File Export Colladata" />](/images/Blender_info_File_Export_Colladata.jpg)
+[<img src="/images/Blender_info_File_Export_Colladata.jpg" decoding="async" alt="Blender info File Export Colladata" />](/images/Blender_info_File_Export_Colladata.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_info_File_Export_Colladata_Selection_Only.jpg" decoding="async" width="320" height="317" alt="Blender info File Export Colladata Selection Only" />](/images/Blender_info_File_Export_Colladata_Selection_Only.jpg)
+[<img src="/images/Blender_info_File_Export_Colladata_Selection_Only.jpg" decoding="async" alt="Blender info File Export Colladata Selection Only" />](/images/Blender_info_File_Export_Colladata_Selection_Only.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_UV_Image_Editor_Image_Open_Image.jpg" decoding="async" width="320" height="165" alt="Blender UV Image Editor Image Open Image" />](/images/Blender_UV_Image_Editor_Image_Open_Image.jpg)
+[<img src="/images/Blender_UV_Image_Editor_Image_Open_Image.jpg" decoding="async" alt="Blender UV Image Editor Image Open Image" />](/images/Blender_UV_Image_Editor_Image_Open_Image.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_UV_Image_Editor_UVs_Export_UV_Layout.jpg" decoding="async" width="320" height="172" alt="Blender UV Image Editor UVs Export UV Layout" />](/images/Blender_UV_Image_Editor_UVs_Export_UV_Layout.jpg)
+[<img src="/images/Blender_UV_Image_Editor_UVs_Export_UV_Layout.jpg" decoding="async" alt="Blender UV Image Editor UVs Export UV Layout" />](/images/Blender_UV_Image_Editor_UVs_Export_UV_Layout.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_windows_3D_View.jpg" decoding="async" width="320" height="242" alt="Blender windows 3D View" />](/images/Blender_windows_3D_View.jpg)
+[<img src="/images/Blender_windows_3D_View.jpg" decoding="async" alt="Blender windows 3D View" />](/images/Blender_windows_3D_View.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_windows_info.jpg" decoding="async" width="320" height="109" alt="Blender windows info" />](/images/Blender_windows_info.jpg)
+[<img src="/images/Blender_windows_info.jpg" decoding="async" alt="Blender windows info" />](/images/Blender_windows_info.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_windows_Properties.jpg" decoding="async" width="320" height="429" alt="Blender windows Properties" />](/images/Blender_windows_Properties.jpg)
+[<img src="/images/Blender_windows_Properties.jpg" decoding="async" alt="Blender windows Properties" />](/images/Blender_windows_Properties.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_windows_UV_Image_Editor.jpg" decoding="async" width="320" height="224" alt="Blender windows UV Image Editor" />](/images/Blender_windows_UV_Image_Editor.jpg)
+[<img src="/images/Blender_windows_UV_Image_Editor.jpg" decoding="async" alt="Blender windows UV Image Editor" />](/images/Blender_windows_UV_Image_Editor.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_3D_View_N_GLSL.jpg" decoding="async" width="320" height="293" alt="Blender 3D View N GLSL" />](/images/Blender_3D_View_N_GLSL.jpg)
+[<img src="/images/Blender_3D_View_N_GLSL.jpg" decoding="async" alt="Blender 3D View N GLSL" />](/images/Blender_3D_View_N_GLSL.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_Properties_Textures_Texture_Coordinates_UV.jpg" decoding="async" width="320" height="708" alt="Blender Properties Textures Texture Coordinates UV" />](/images/Blender_Properties_Textures_Texture_Coordinates_UV.jpg)
+[<img src="/images/Blender_Properties_Textures_Texture_Coordinates_UV.jpg" decoding="async" alt="Blender Properties Textures Texture Coordinates UV" />](/images/Blender_Properties_Textures_Texture_Coordinates_UV.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_Properties_Textures_Texture_Open_Image.jpg" decoding="async" width="320" height="576" alt="Blender Properties Textures Texture Open Image" />](/images/Blender_Properties_Textures_Texture_Open_Image.jpg)
+[<img src="/images/Blender_Properties_Textures_Texture_Open_Image.jpg" decoding="async" alt="Blender Properties Textures Texture Open Image" />](/images/Blender_Properties_Textures_Texture_Open_Image.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_Properties_Textures_Type.jpg" decoding="async" width="320" height="573" alt="Blender Properties Textures Type" />](/images/Blender_Properties_Textures_Type.jpg)
+[<img src="/images/Blender_Properties_Textures_Type.jpg" decoding="async" alt="Blender Properties Textures Type" />](/images/Blender_Properties_Textures_Type.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_Properties_Textures_New.jpg" decoding="async" width="320" height="200" alt="Blender Properties Textures New" />](/images/Blender_Properties_Textures_New.jpg)
+[<img src="/images/Blender_Properties_Textures_New.jpg" decoding="async" alt="Blender Properties Textures New" />](/images/Blender_Properties_Textures_New.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_Properties_Material_New.jpg" decoding="async" width="320" height="167" alt="Blender Properties Material New" />](/images/Blender_Properties_Material_New.jpg)
+[<img src="/images/Blender_Properties_Material_New.jpg" decoding="async" alt="Blender Properties Material New" />](/images/Blender_Properties_Material_New.jpg)
 
 </div>
 
 <div class="floatright">
 
-[<img src="/images/Blender_Properties_Material_Diffuse_Color.jpg" decoding="async" width="320" height="554" alt="Blender Properties Material Diffuse Color" />](/images/Blender_Properties_Material_Diffuse_Color.jpg)
+[<img src="/images/Blender_Properties_Material_Diffuse_Color.jpg" decoding="async" alt="Blender Properties Material Diffuse Color" />](/images/Blender_Properties_Material_Diffuse_Color.jpg)
 
 </div>
 

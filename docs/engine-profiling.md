@@ -82,7 +82,7 @@ You will have to load the kernel module. The profiling daemon is controlled usin
 
 #### Post processing *oprof* data
 
-[<img src="/images/Oprof_engine_part.png" decoding="async" width="710" height="285" alt="Oprof engine part.png" />](/images/Oprof_engine_part.png)
+[<img src="/images/Oprof_engine_part.png" decoding="async" alt="Oprof engine part.png" />](/images/Oprof_engine_part.png)
 
 We will first explain the post processing steps, and then give a script that should work for most general spring profiling tasks.
 

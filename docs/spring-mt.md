@@ -24,7 +24,7 @@ Spring MT uses multithreaded asynchronous simulation (MT ASIM) to a much higher 
 
 You need **three physical cores** to get any real benefit. A quad core or better is recommended.\
 
-[<img src="/images/Spring_MT_core_layout.gif" decoding="async" width="666" height="124" alt="Spring MT core layout.gif" />](/images/Spring_MT_core_layout.gif)
+[<img src="/images/Spring_MT_core_layout.gif" decoding="async" alt="Spring MT core layout.gif" />](/images/Spring_MT_core_layout.gif)
 
 ### How much faster is it?
 

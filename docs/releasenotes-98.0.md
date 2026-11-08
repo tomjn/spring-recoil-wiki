@@ -18,7 +18,7 @@ UTF8-Support. [<img src="/images/After.jpg" decoding="async" width="700" height=
 
 ### Visual profiling and grapher that shows how Spring spends time
 
-[<img src="/images/Grapher.jpg" decoding="async" width="700" height="525" alt="Grapher.jpg" />](/images/Grapher.jpg)
+[<img src="/images/Grapher.jpg" decoding="async" alt="Grapher.jpg" />](/images/Grapher.jpg)
 
     green are video frames
        red are simframes

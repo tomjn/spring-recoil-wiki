@@ -33,7 +33,7 @@ Install <a href="http://www.cmake.org/" class="external text" rel="nofollow">CMa
 
 When installing msysGit you should select the option to "Run Git from the Windows Command Prompt":
 
-[<img src="/images/Msysgit6.png" decoding="async" width="400" height="312" alt="Msysgit6.png" />](/images/Msysgit6.png)
+[<img src="/images/Msysgit6.png" decoding="async" alt="Msysgit6.png" />](/images/Msysgit6.png)
 
 This is in order to automatically add Git to PATH making it easy for CMake to find.
 
@@ -43,7 +43,7 @@ Download and run the "Mingw-builds project - native toolchains using trunk" inst
 
 Select the following options:
 
-[<img src="/images/InstallingMinGW-w64.png" decoding="async" width="400" height="294" alt="InstallingMinGW-w64.png" />](/images/InstallingMinGW-w64.png)
+[<img src="/images/InstallingMinGW-w64.png" decoding="async" alt="InstallingMinGW-w64.png" />](/images/InstallingMinGW-w64.png)
 
 - **Version:** Any version above 4.8.x should work, 4.9.x+ may not have been tested as thoroughly. In 2020, version 8.1.0 works fine!
 - **Architecture:** i686

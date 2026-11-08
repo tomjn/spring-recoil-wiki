@@ -16,7 +16,7 @@ The collision volume is a geometric shape around Spring units and features. If a
 
 <div class="floatright">
 
-[<img src="/images/Units_with_hitboxes.jpg" decoding="async" width="256" height="186" alt="Units with hitboxes.jpg" />](/images/Units_with_hitboxes.jpg)
+[<img src="/images/Units_with_hitboxes.jpg" decoding="async" alt="Units with hitboxes.jpg" />](/images/Units_with_hitboxes.jpg)
 
 </div>
 

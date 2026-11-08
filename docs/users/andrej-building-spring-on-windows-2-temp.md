@@ -21,13 +21,13 @@ Download link: <a href="http://www.microsoft.com/en-us/download/details.aspx?id=
 
 How to tell if you have Nov 2012 CTP installed: Start Visual Studio and open any Solution. Open the 'Property Pages' of any Project inside this solution, and check available values of 'Platform Toolset' under 'Configuration Properties -\> General'. Nov 2012 CTP should be listed.
 
-[<img src="/images/Spring_build_cmake09.png" class="mw-file-element" decoding="async" width="500" height="272" />](/images/Spring_build_cmake09.png)
+[<img src="/images/Spring_build_cmake09.png" class="mw-file-element" decoding="async" />](/images/Spring_build_cmake09.png)
 
 \- GIT
 
 If you can open command line and run git you should be fine.
 
-[<img src="/images/Spring_build_cmake08.png" class="mw-file-element" decoding="async" width="300" height="27" />](/images/Spring_build_cmake08.png)
+[<img src="/images/Spring_build_cmake08.png" class="mw-file-element" decoding="async" />](/images/Spring_build_cmake08.png)
 
 \- CMake
 
@@ -54,7 +54,7 @@ git clone git://github.com/nOOb3167/vclibs11.git vclibs\
  A 'spring' directory with spring source, and a 'vclibs' subdirectory\
  inside.\
 
-[<img src="/images/Spring_build_cmake07.png" class="mw-file-element" decoding="async" width="700" height="723" />](/images/Spring_build_cmake07.png)
+[<img src="/images/Spring_build_cmake07.png" class="mw-file-element" decoding="async" />](/images/Spring_build_cmake07.png)
 
 ### Configuring through CMake
 
@@ -62,7 +62,7 @@ Start CMake GUI.
 
 - There should be a start menu shortcut if you used the CMake installer.\
 
-[<img src="/images/Spring_build_cmake10.png" class="mw-file-element" decoding="async" width="150" height="192" />](/images/Spring_build_cmake10.png)
+[<img src="/images/Spring_build_cmake10.png" class="mw-file-element" decoding="async" />](/images/Spring_build_cmake10.png)
 
 Set Source and Build paths.
 
@@ -71,26 +71,26 @@ Set Source and Build paths.
 - Build path can be set to whatever empty directory, or just same as Source path.\
   On the screenshot below, Build path is set to a subdirectory named 'Build'.\
 
-[<img src="/images/Spring_build_cmake00.png" class="mw-file-element" decoding="async" width="700" height="96" />](/images/Spring_build_cmake00.png)
+[<img src="/images/Spring_build_cmake00.png" class="mw-file-element" decoding="async" />](/images/Spring_build_cmake00.png)
 
 Set CMAKE_INSTALL_PREFIX to where you want Spring installed.
 
 - This is necessary because the default, Program Files, requires\
   admin permissions to write.\
 
-[<img src="/images/Spring_build_cmake01.png" class="mw-file-element" decoding="async" width="700" height="85" />](/images/Spring_build_cmake01.png)
+[<img src="/images/Spring_build_cmake01.png" class="mw-file-element" decoding="async" />](/images/Spring_build_cmake01.png)
 
 Press Configure.
 
 - The correct option to select for compiler is as shown below.\
   (Should be the default)\
 
-[<img src="/images/Spring_build_cmake02.png" class="mw-file-element" decoding="async" width="200" height="158" />](/images/Spring_build_cmake02.png)
+[<img src="/images/Spring_build_cmake02.png" class="mw-file-element" decoding="async" />](/images/Spring_build_cmake02.png)
 
 - For comparison, here is what is output for me after Configure.\
   The warnings shown here are normal / expected.\
 
-[<img src="/images/Spring_build_cmake03.png" class="mw-file-element" decoding="async" width="700" height="657" />](/images/Spring_build_cmake03.png)
+[<img src="/images/Spring_build_cmake03.png" class="mw-file-element" decoding="async" />](/images/Spring_build_cmake03.png)
 
 Press Generate.
 
@@ -103,13 +103,13 @@ Open the solution file.
 
 - There should be a Spring.sln file, in the location you set as the Build path CMake.\
 
-[<img src="/images/Spring_build_cmake04.png" class="mw-file-element" decoding="async" width="300" height="188" />](/images/Spring_build_cmake04.png)
+[<img src="/images/Spring_build_cmake04.png" class="mw-file-element" decoding="async" />](/images/Spring_build_cmake04.png)
 
 Select the INSTALL Project.
 
 - Unfortunately I have not found a way to do this automatically.\
 
-[<img src="/images/Spring_build_cmake06.png" class="mw-file-element" decoding="async" width="300" height="130" />](/images/Spring_build_cmake06.png)
+[<img src="/images/Spring_build_cmake06.png" class="mw-file-element" decoding="async" />](/images/Spring_build_cmake06.png)
 
 Build Project
 

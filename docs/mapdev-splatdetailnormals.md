@@ -26,7 +26,7 @@ The system uses the same splatDistributionTexture as regular SSMF.
 
 Example result:
 
-[<img src="/images/Dnts_example.jpg" decoding="async" width="960" height="458" alt="Dnts example.jpg" />](/images/Dnts_example.jpg)
+[<img src="/images/Dnts_example.jpg" decoding="async" alt="Dnts example.jpg" />](/images/Dnts_example.jpg)
 
 ### Distribution Image
 

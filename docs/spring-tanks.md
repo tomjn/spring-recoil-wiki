@@ -29,7 +29,7 @@ categories:
 
 <div style="position: absolute; top: 0; left: 0; z-index: 2;">
 
-[<img src="/images/Springtanks_TVicon.png" decoding="async" width="200" height="140" alt="image page" />](/images/Springtanks_TVicon.png)
+[<img src="/images/Springtanks_TVicon.png" decoding="async" alt="image page" />](/images/Springtanks_TVicon.png)
 
 </div>
 

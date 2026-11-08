@@ -12,7 +12,7 @@ categories:
 
 <div class="floatnone">
 
-[<img src="/images/Upspring.jpg" decoding="async" width="600" height="399" alt="Upspring.jpg" />](/images/Upspring.jpg)
+[<img src="/images/Upspring.jpg" decoding="async" alt="Upspring.jpg" />](/images/Upspring.jpg)
 
 </div>
 

@@ -6,7 +6,7 @@ source_url: "https://springrts.com/wiki/User:Enetheru/mapping2"
 
 <div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr">
 
-[<img src="/images/SpringRTS_MindMap.png" class="mw-file-element" decoding="async" width="600" height="295" />](/images/SpringRTS_MindMap.png)
+[<img src="/images/SpringRTS_MindMap.png" class="mw-file-element" decoding="async" />](/images/SpringRTS_MindMap.png)
 
 - [Sun](/users/enetheru-mapping-sun)
 - Clouds

@@ -40,7 +40,7 @@ The server might be temporary down for maintenance. Most lobbies should allow yo
 
 #### Map texture repeating across the map in squares
 
-[<img src="/images/Screenshot_Spring_Squares_of_Doom.jpg" decoding="async" width="200" height="125" alt="Screenshot Spring Squares of Doom.jpg" />](/images/Screenshot_Spring_Squares_of_Doom.jpg)
+[<img src="/images/Screenshot_Spring_Squares_of_Doom.jpg" decoding="async" alt="Screenshot Spring Squares of Doom.jpg" />](/images/Screenshot_Spring_Squares_of_Doom.jpg)
 
 Try adding `UsePBO = 0` to your springsettings.cfg.
 
@@ -74,7 +74,7 @@ Play windowed with */grabinput*, or <a href="http://springrts.com/phpbb/viewtopi
 
 #### I use Linux with Open-Source Gfx drivers, and the map is all white!
 
-[<img src="/images/Whitemap.png" decoding="async" width="200" height="113" alt="Whitemap.png" />](/images/Whitemap.png)
+[<img src="/images/Whitemap.png" decoding="async" alt="Whitemap.png" />](/images/Whitemap.png)
 
 Due to patents S3TC texture support is disabled by default. To enable it you need the tool driconf (note, you no longer require libdxtn):
 
@@ -111,7 +111,7 @@ Some notebooks have two graphic cards: One for 3D and a small integrated one to 
 
 Turn off 'threaded optimizations' for Spring in the nVidia control panel, enable "Compress textures" in SpringSettings.
 
-[<img src="/images/MToptimizations.png" decoding="async" width="200" height="208" alt="MToptimizations.png" />](/images/MToptimizations.png)
+[<img src="/images/MToptimizations.png" decoding="async" alt="MToptimizations.png" />](/images/MToptimizations.png)
 
 ##### After playing Spring, in background running firefox window is white or gray.
 
@@ -119,7 +119,7 @@ Disable Anti-Aliasing / decrease graphic-quality (\<=high) in SpringSettings.
 
 ##### Shadows on Units doesn't work
 
-[<img src="/images/Shadows_fail.jpg" decoding="async" width="200" height="110" alt="Shadows fail.jpg" />](/images/Shadows_fail.jpg)
+[<img src="/images/Shadows_fail.jpg" decoding="async" alt="Shadows fail.jpg" />](/images/Shadows_fail.jpg)
 
 Check if Shadows and AdvUnitShading is enabled, update your graphics driver.
 
@@ -141,7 +141,7 @@ Related forum threads:
 
 ##### Fonts are unreadable
 
-[<img src="/images/IntelBorkedFonts.png" decoding="async" width="200" height="69" alt="IntelBorkedFonts.png" />](/images/IntelBorkedFonts.png)
+[<img src="/images/IntelBorkedFonts.png" decoding="async" alt="IntelBorkedFonts.png" />](/images/IntelBorkedFonts.png)
 
 This is a driver bug, try to update/downgrade your driver.
 
@@ -194,13 +194,13 @@ This is a bug somewhere in LUA drawing with ATI/AMD. Disable widgets that draw v
 
 ##### I see big green rectagle on minimap
 
-[<img src="/images/AMD-Minimap-green_rectangle-bug.png" decoding="async" width="200" height="146" alt="AMD-Minimap-green rectangle-bug.png" />](/images/AMD-Minimap-green_rectangle-bug.png)
+[<img src="/images/AMD-Minimap-green_rectangle-bug.png" decoding="async" alt="AMD-Minimap-green rectangle-bug.png" />](/images/AMD-Minimap-green_rectangle-bug.png)
 
 Try to set [MiniMapDrawProjectiles](/springsettings.cfg#minimapdrawprojectiles) in Spring settings to 0.
 
 ##### The textures looks scary
 
-[<img src="/images/Ati-drawing-issues.jpg" decoding="async" width="200" height="199" alt="Ati-drawing-issues.jpg" />](/images/Ati-drawing-issues.jpg)
+[<img src="/images/Ati-drawing-issues.jpg" decoding="async" alt="Ati-drawing-issues.jpg" />](/images/Ati-drawing-issues.jpg)
 
 This is a known ATI/AMD-bug. Try using different driver, preferably other than 10.5, 10.6, 10.7 -\> newer driver pack with fixed OpenGL driver should be fine.
 

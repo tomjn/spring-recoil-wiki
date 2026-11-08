@@ -61,7 +61,7 @@ The height map resolution is defined as SMU \* 64 + 1, see [Mapdev:height](/mapd
     - add invert
     - render
 
-[<img src="/images/Blender-node000.png" decoding="async" width="600" height="294" alt="Blender-node000.png" />](/images/Blender-node000.png)
+[<img src="/images/Blender-node000.png" decoding="async" alt="Blender-node000.png" />](/images/Blender-node000.png)
 
 8\. Colour Management
 
@@ -78,7 +78,7 @@ The height map resolution is defined as SMU \* 64 + 1, see [Mapdev:height](/mapd
 - Need discussion on non square maps, camera settings for altering which dimension gets priority when rendering.
 - Consider using this type of material to help understand your sculpting
 
-[<img src="/images/Blender-node001.png" decoding="async" width="600" height="293" alt="Blender-node001.png" />](/images/Blender-node001.png)
+[<img src="/images/Blender-node001.png" decoding="async" alt="Blender-node001.png" />](/images/Blender-node001.png)
 
 - if your ram doesnt allow rendering large maps due to image dimensions, consider the render regions add on.
 
