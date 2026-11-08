@@ -236,7 +236,7 @@ This version fixes the crashes related to missing .cob-files. Download <a href="
 
 ### 2006-1-31 Star Wars Spring Manual Released
 
-<a href="https://springrts.com/wiki/SWTA_Manual" class="external text" rel="nofollow">Read the SWS Manual right now!</a> It contains everything you would ever want to know about SWS, including: Installation Guide, In-Depth Unit Guide as well as a Strategy & Tactics section.
+Read the SWS Manual right now! It contains everything you would ever want to know about SWS, including: Installation Guide, In-Depth Unit Guide as well as a Strategy & Tactics section.
 
 ### 2006-1-27 OTAI 1.07 Released
 

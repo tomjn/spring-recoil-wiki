@@ -269,7 +269,7 @@ Got everything from:
 
 smartie and Thor
 
-More info at this wiki <a href="https://springrts.com/wiki/Mission_development" class="external free" rel="nofollow">https://springrts.com/wiki/Mission_development</a>
+More info at this wiki Mission development
 
 Ask any questions at this tread <a href="https://springrts.com/phpbb/viewtopic.php?t=10501&amp;postdays=0&amp;postorder=asc&amp;start=0" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=10501&amp;postdays=0&amp;postorder=asc&amp;start=0</a>
 

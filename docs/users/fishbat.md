@@ -8,7 +8,7 @@ source_url: "https://springrts.com/wiki/User:FishBat"
 
 I am the Creator Of the FishBat Clan.\
 
-<a href="https://springrts.com/wiki/Clans/FishBat" class="external free" rel="nofollow">https://springrts.com/wiki/Clans/FishBat</a>
+Clans/FishBat
 
 I also am soley responibble for all recuiting for the clan and web deisgn, I like to keep on top of things, I also like laughing at \[FishBat\]Juzza about his weird humor!\
 

@@ -12,7 +12,7 @@ I am an awesome guy, and ive been told to metion that I have a really weird sens
 <a href="/users/fishbat">User:FishBat</a>
 
 FishBat website.\
-<a href="https://springrts.com/wiki/Clans/FishBat" class="external free" rel="nofollow">https://springrts.com/wiki/Clans/FishBat</a>
+Clans/FishBat
 
 </div>
 
