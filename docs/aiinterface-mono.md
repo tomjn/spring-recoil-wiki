@@ -41,7 +41,7 @@ categories:
 
 ### Forum threads
 
-- <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?f=15&amp;t=16872" class="external text" rel="nofollow">Mono AI Interface for Spring</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?f=15&amp;t=16872" class="external text" rel="nofollow">Mono AI Interface for Spring</a>
 
 ### Description
 

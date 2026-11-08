@@ -24,7 +24,7 @@ I donÃ‚Â´t think this belongs into the Category: Content (altough I put it 
 
 ## Races Limit
 
-Re <a href="http://taspring.clan-sy.com/w/index.php?title=FAQ&amp;oldid=2487#Does_Spring_have_a_limit_on_the_number_of_races.3F" class="external text" rel="nofollow">Hohers edit</a> questioning if races really are unlimited, technically they are not. The amount of races possible will be limited by the memory of the computer. But I seriously doubt any logical mod will be able to excede this limit, so for all practical uses, the race limit is unlimited. Also, if you want to add a comment like that, add it in the talk page so we can discuss it. --Maelstrom
+Re <a href="https://springrts.com/mediawiki/index.php?title=FAQ&amp;oldid=2487#Does_Spring_have_a_limit_on_the_number_of_races.3F" class="external text" rel="nofollow">Hohers edit</a> questioning if races really are unlimited, technically they are not. The amount of races possible will be limited by the memory of the computer. But I seriously doubt any logical mod will be able to excede this limit, so for all practical uses, the race limit is unlimited. Also, if you want to add a comment like that, add it in the talk page so we can discuss it. --Maelstrom
 
 I'm aware, that there is a memory limit when we talk about "unlimited" here, but what got me confused is that in the "mods"-forumsome people (can't find the posts right now) are referring to a 2-race limit (ARM/CORE). So i suspect they mean the limit in the original TA and i can use e.g. Xect+Mynn+Arm+Core all in the same mod in Spring (especially Multiplayer)? --[Hoehrer](/users/hoehrer) 13:37, 2 Mar 2006 (W. Europe Standard Time)
 

@@ -203,7 +203,7 @@ i.e. You can map a key to do the same as Control C BUT without the "center on co
 
 This offers tremendous flexibility and enhaces control and gameplay to pro levels.
 
-Look at <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2190" class="external text" rel="nofollow">this thread</a> to learn more on editing these selection keys through selectioneditor.exe.
+Look at <a href="https://springrts.com/phpbb/viewtopic.php?t=2190" class="external text" rel="nofollow">this thread</a> to learn more on editing these selection keys through selectioneditor.exe.
 
 **[\<--Back to Balanced Annihilation](/balanced-annihilation)**
 

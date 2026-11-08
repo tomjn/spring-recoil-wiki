@@ -25,17 +25,17 @@ AF's main site, has a lot of theory on it, including details of his NTai project
 
 <!-- -->
 
-**<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=539" class="external text" rel="nofollow">5 Matrix AI 1,2,3</a>**  
+**<a href="https://springrts.com/phpbb/viewtopic.php?t=539" class="external text" rel="nofollow">5 Matrix AI 1,2,3</a>**  
 A thread discussing Triaxx' theory and plans for his AI 5 matrix AI/Wormhole AI\
 
 <!-- -->
 
-**<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2752&amp;highlight=" class="external text" rel="nofollow">"Research about Pathfinding, AI and Voronoi diagrams"</a>**  
+**<a href="https://springrts.com/phpbb/viewtopic.php?t=2752&amp;highlight=" class="external text" rel="nofollow">"Research about Pathfinding, AI and Voronoi diagrams"</a>**  
 A forum post by Gabba.\
 
 <!-- -->
 
-**<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=4326" class="external text" rel="nofollow">Academic research papers on AI in RTS games</a>**  
+**<a href="https://springrts.com/phpbb/viewtopic.php?t=4326" class="external text" rel="nofollow">Academic research papers on AI in RTS games</a>**  
 A forum post by NeuronExMachina.\
 
 <!-- -->

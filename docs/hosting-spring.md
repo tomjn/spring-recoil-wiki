@@ -18,7 +18,7 @@ There are some autohosts, programs which can be run on a secondary computer to p
 
 ### Springie
 
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=7921" class="external text" rel="nofollow">Licho's Springie Autohost</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=7921" class="external text" rel="nofollow">Licho's Springie Autohost</a>
 - [How to setup Springie](/linux-setupspringie)
 - [How to use Springie](/hosting-spring-springie)
 

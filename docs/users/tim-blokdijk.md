@@ -20,7 +20,7 @@ Font "jrandomc.pfb" included (GPL) made by <a href="http://www.theory.org/~matt/
 <a href="http://www.timblokdijk.nl/spring/logo/redlogo.jpg" class="external text" rel="nofollow">Background</a> image.\
 
 **Spring City**\
-Edit of the art "<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=1921" class="external text" rel="nofollow">ankh</a>" made (great stuff!)\
+Edit of the art "<a href="https://springrts.com/phpbb/viewtopic.php?t=1921" class="external text" rel="nofollow">ankh</a>" made (great stuff!)\
 <a href="http://www.timblokdijk.nl/spring/Spring_City/city_for_spring_gnu_licence_tim_edit1.tar.bz2" class="external text" rel="nofollow">Photoshop</a> file\
 <a href="http://www.timblokdijk.nl/spring/Spring_City/ae_AlYermook.ttf" class="external text" rel="nofollow">Font</a> (Don't know if it's GPL but it's under a Debian approved license)\
 

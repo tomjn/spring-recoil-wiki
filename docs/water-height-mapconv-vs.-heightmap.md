@@ -12,7 +12,7 @@ categories:
 
 ### The Problem
 
-It has come up as a source of confusion as to what shade of grey in your heightmap is water level. The simple answer is that there isn't a simple answer, but don't worry it really isn't all that hard. It is determined by your height input parameters to mapconv (Does none of this make sense? You probably want to stop here, go back and read some of the <a href="http://taspring.clan-sy.com/wiki/Map_development" class="external text" rel="nofollow">tutorials</a>. ) *Note this assumes you have both 0% and 100% grey (black and white, respectively) on your heightmap, which should be the case (this maximises the range of greys you can play with for your heightmap)*
+It has come up as a source of confusion as to what shade of grey in your heightmap is water level. The simple answer is that there isn't a simple answer, but don't worry it really isn't all that hard. It is determined by your height input parameters to mapconv (Does none of this make sense? You probably want to stop here, go back and read some of the <a href="/mapdev-main">tutorials</a>. ) *Note this assumes you have both 0% and 100% grey (black and white, respectively) on your heightmap, which should be the case (this maximises the range of greys you can play with for your heightmap)*
 
 the **-x** value in mapconv is the altitude (in elmos?) of a 100% white surface
 

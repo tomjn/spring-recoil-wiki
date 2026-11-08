@@ -18,7 +18,7 @@ categories:
 
 ## The Model
 
-You can make it in any of the 3d modelling programs mentioned <a href="http://taspring.clan-sy.com/wiki/Map%2C_Mod%2C_And_Unit_Development_Programs#3d_Modeling" class="external text" rel="nofollow">here.</a>
+You can make it in any of the 3d modelling programs mentioned <a href="/map-game-and-unit-development-programs#3d-modeling">here.</a>
 
 Upspring will import .OBJ, and .3DS, (.3DO is supported as well but we are supposed to be working from scratch here and not converting old units).
 
@@ -42,7 +42,7 @@ Only one UV map image is allowed, so you must make all parts use the same UV map
 
 It's reported that the biggest texture size of the UV map is 2048x2048.
 
-A guide on Skinning (UV mapping) can be found <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3511" class="external text" rel="nofollow">here</a>.
+A guide on Skinning (UV mapping) can be found <a href="https://springrts.com/phpbb/viewtopic.php?t=3511" class="external text" rel="nofollow">here</a>.
 
 **\*\*Added by TA 3D:** When you want to bring in UV coordinates, go to the Texture Mapping menu again and click on Import UV coordinates from model. Since the texture is flipped vertically you have to flip the UV coordinates. Only use 3ds files for this as obj files don't have UV coordinates. I hope this helps.**\*\***
 
@@ -140,9 +140,9 @@ See last lines in The Model part.
 
 ## Related Threads
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=4519" class="external autonumber" rel="nofollow">[1]</a> <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2660" class="external autonumber" rel="nofollow">[2]</a> <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3766" class="external autonumber" rel="nofollow">[3]</a> <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3641" class="external autonumber" rel="nofollow">[4]</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=4519" class="external autonumber" rel="nofollow">[1]</a> <a href="https://springrts.com/phpbb/viewtopic.php?t=2660" class="external autonumber" rel="nofollow">[2]</a> <a href="https://springrts.com/phpbb/viewtopic.php?t=3766" class="external autonumber" rel="nofollow">[3]</a> <a href="https://springrts.com/phpbb/viewtopic.php?t=3641" class="external autonumber" rel="nofollow">[4]</a>
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=4536" class="external text" rel="nofollow">Complementary information</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=4536" class="external text" rel="nofollow">Complementary information</a>
 
 - Credits
 

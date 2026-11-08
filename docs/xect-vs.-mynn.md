@@ -43,12 +43,12 @@ This mod was initialy created by Chris Jorgensen <a href="http://www.xenoclone.c
 
 ### Relevant Forum threads
 
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=7027" class="external text" rel="nofollow">"Mods" -&gt; "Xect vs. Mynn: let's GO!"</a> - "Fixing" thread to get XvsM into playable state
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3005" class="external text" rel="nofollow">"Mods" -&gt; "Xect vs. Mynn - 0.6 released, now 100% legal"</a>
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3005" class="external text" rel="nofollow">"Mods" -&gt; "Xect Vs. Mynn v .05 released"</a>
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2997" class="external text" rel="nofollow">"Mods" -&gt; "Xect Vs. Mynn To-do List"</a>
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2880" class="external text" rel="nofollow">"Mods" -&gt; "Xect vs. Mynn"</a>
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=1293" class="external text" rel="nofollow">"General discussion" -&gt; "Free, licenseless mods?"</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=7027" class="external text" rel="nofollow">"Mods" -&gt; "Xect vs. Mynn: let's GO!"</a> - "Fixing" thread to get XvsM into playable state
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=3005" class="external text" rel="nofollow">"Mods" -&gt; "Xect vs. Mynn - 0.6 released, now 100% legal"</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=3005" class="external text" rel="nofollow">"Mods" -&gt; "Xect Vs. Mynn v .05 released"</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=2997" class="external text" rel="nofollow">"Mods" -&gt; "Xect Vs. Mynn To-do List"</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=2880" class="external text" rel="nofollow">"Mods" -&gt; "Xect vs. Mynn"</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=1293" class="external text" rel="nofollow">"General discussion" -&gt; "Free, licenseless mods?"</a>
 
 ### Downloads
 

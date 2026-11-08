@@ -14,7 +14,7 @@ categories:
 
 This is a page in the works so do not complain, I have did very little to this page since it did not exist. In Kernel Panic, The king can decide if to have a tournament, where players play each other, and than the king for the championship. I do not know if you can challenge the king, as I am not in control of these rules. I would think you can challenge the king 1 vs 1 on any kernel panic map, such as marble madness. *This page is for the kings list, and the rules which will soon be seen at the bottom.'*
 
-First King is currently Noruas, this was done in the first tournament for Kernel Panic. the topic can be found for the first tournament is <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=10267&amp;postdays=0&amp;postorder=asc&amp;start=60" class="external text" rel="nofollow">Here!</a>.
+First King is currently Noruas, this was done in the first tournament for Kernel Panic. the topic can be found for the first tournament is <a href="https://springrts.com/phpbb/viewtopic.php?t=10267&amp;postdays=0&amp;postorder=asc&amp;start=60" class="external text" rel="nofollow">Here!</a>.
 
 How to Edit the or do kinglist is [Here!](/kernel-panic-king-help)
 

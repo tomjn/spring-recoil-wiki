@@ -49,7 +49,7 @@ You will need a bunch of stuff... here's the list (I assume you are using window
 
 ### Step 3:Making a 3D Model
 
-Go into your 3D modeling program and make a 3D model, <a href="http://taspring.clan-sy.com/w/images/b/b4/WingsCombine.PNG" class="external text" rel="nofollow">combine</a> all the objects and UV map the model, then separate it out into any parts that need to move independently of each other. Then Export the UV map as an Image File and Export the whole thing as a 3ds file. Put the original wings file, the UVMap image and the 3ds file into your working directory so you can find them later.
+Go into your 3D modeling program and make a 3D model, <a href="https://springrts.com/mediawiki/images/b/b4/WingsCombine.PNG" class="external text" rel="nofollow">combine</a> all the objects and UV map the model, then separate it out into any parts that need to move independently of each other. Then Export the UV map as an Image File and Export the whole thing as a 3ds file. Put the original wings file, the UVMap image and the 3ds file into your working directory so you can find them later.
 
 Wings 3D UV Mapping tutorial has been started here - [3DModels:Wings3DTutorial](/3dmodels-wings3dtutorial)
 

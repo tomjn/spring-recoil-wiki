@@ -39,7 +39,7 @@ Pretty cool game. If you want, check out their old website for more info. <a hre
 
 Anyway, enough of my rambling, onto Spring!
 
-Now, as I told you, Spring was inspired by TA and has the same features TA had. Plus a few new things, check out the Spring features page for more info. <a href="http://taspring.clan-sy.com/wiki/Features" class="external text" rel="nofollow">Click here</a>
+Now, as I told you, Spring was inspired by TA and has the same features TA had. Plus a few new things, check out the Spring features page for more info. <a href="/about">Click here</a>
 
 ------------------------------------------------------------------------
 

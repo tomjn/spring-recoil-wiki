@@ -142,7 +142,7 @@ Health Sheilds and ordinary health can also be arranged to make some interesting
 
 **Targets:** I'd like to include (on larger ships though) a system wherein, for instance, the engines were hit several times (read: static-var McFiddlery) by specific weapons the ship's engines would be disabled and the thing would be inable to move. Or sheild generators. Hit them, bye-bye shield bonuses. This whole thing would require some updates to scripting (being able to stop units from moving and a HitByWeapon(piecename, weaponname) type function. Basically, this will not be implemented yet, simply because it cannot be implemented.
 
-See the "fuse-building" thread in the development forums: <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3245" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3245</a>
+See the "fuse-building" thread in the development forums: <a href="https://springrts.com/phpbb/viewtopic.php?t=3245" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=3245</a>
 
 **Side lasers:** something I'd like to try and implement. Basically these are powerful beam lasers on the side of ships and are to be used against other large ships or installations. To be fired, the ship must come alongside, leaving them open to return fire (unless of course you take out *their* side lasers - see "Targets").
 

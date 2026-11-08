@@ -51,7 +51,7 @@ The <a href="https://github.com/spring/spring/tree/develop/AI/Skirmish/RAI" clas
 
 ### Forum thread
 
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=7924" class="external text" rel="nofollow">"RAI v0.601"</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=7924" class="external text" rel="nofollow">"RAI v0.601"</a>
 
 ### Older Version Downloads
 
@@ -72,7 +72,7 @@ Recent versions of spring (0.77+) can compile it without any hassle, using both 
 
 For older versions of spring (0.76):
 
-- download spring sources <a href="http://spring.clan-sy.com/dl/spring_0.76b1_src.tar.bz2" class="external text" rel="nofollow">here</a>, and extract it somewhere
+- download spring sources <a href="https://springrts.com/dl/spring_0.76b1_src.tar.bz2" class="external text" rel="nofollow">here</a>, and extract it somewhere
 - download RAI sources <a href="http://www.fileuniverse.com/spring/ai/RAI%20v0.553%20source.rar" class="external text" rel="nofollow">here</a>, and save it into the *{spring source}/AI/Global/* folder
 - install the glew development package - on Ubuntu it's *sudo apt-get install libglew1.5-dev*
 - open the project in CodeBlocks - there's a project file for CB provided in the RAI/CodeBlocks directory

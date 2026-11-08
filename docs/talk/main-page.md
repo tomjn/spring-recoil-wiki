@@ -47,7 +47,7 @@ Sounds good, go ahead and implement it. One other category you could use would b
 
 ## Browse the Wiki moved back here
 
-I moved the "original" main page back here, and main page to front page. Since this is the main page of the wiki this makes more sense to me, and then I don't have to change any links. :) <a href="http://taspring.clan-sy.com/index2.php" class="external free" rel="nofollow">http://taspring.clan-sy.com/index2.php</a> is a w.i.p of a frontpage using Front Page as a source for the header. I'm not sure the talk pages are matching anymore though, perhaps some wiki master could take a look at it :) --Fnordia 15:53, 23 Apr 2006 (W. Europe Daylight Time)
+I moved the "original" main page back here, and main page to front page. Since this is the main page of the wiki this makes more sense to me, and then I don't have to change any links. :) <a href="https://springrts.com/index2.php" class="external free" rel="nofollow">https://springrts.com/index2.php</a> is a w.i.p of a frontpage using Front Page as a source for the header. I'm not sure the talk pages are matching anymore though, perhaps some wiki master could take a look at it :) --Fnordia 15:53, 23 Apr 2006 (W. Europe Daylight Time)
 
 Its looking good. You still have to properly implement the Community News (Just replace Template:Community_News with the community news), but apart from that I cant see a problem at all. Should the page be protected so random vandals dont come in and destroy it? Its not a problem now, but in the future it might be. --Maelstrom 16:00, 23 Apr 2006 (W. Europe Daylight Time)
 

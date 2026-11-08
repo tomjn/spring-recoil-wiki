@@ -56,7 +56,7 @@ ZcAIn is an [AI](/ai-skirmish-list) currently being developed by Cain. It is pro
 
 ### Links
 
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2587" class="external text" rel="nofollow">ZcAIn Forum Thread</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=2587" class="external text" rel="nofollow">ZcAIn Forum Thread</a>
 - <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1658" class="external text" rel="nofollow">Download the ZcAIn AI</a>
 
 **[\<- Back to AI page](/ai-skirmish-list)**

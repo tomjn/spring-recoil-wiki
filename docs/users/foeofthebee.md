@@ -6,7 +6,7 @@ source_url: "https://springrts.com/wiki/User:FoeOfTheBee"
 
 <div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr">
 
-I post on the <a href="http://taspring.clan-sy.com/phpbb/index.php" class="external text" rel="nofollow">forums</a>, work on the [Mynn](/xect-vs.-mynn) a bit, and mess with the wiki when the spirit moves me.
+I post on the <a href="https://springrts.com/phpbb/index.php" class="external text" rel="nofollow">forums</a>, work on the [Mynn](/xect-vs.-mynn) a bit, and mess with the wiki when the spirit moves me.
 
 </div>
 

@@ -6,19 +6,19 @@ source_url: "https://springrts.com/wiki/User:Erom"
 
 <div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr">
 
-You'll find me, like most people, on the <a href="http://taspring.clan-sy.com/phpbb/index.php" class="external text" rel="nofollow">messageboard</a> more often than here.
+You'll find me, like most people, on the <a href="https://springrts.com/phpbb/index.php" class="external text" rel="nofollow">messageboard</a> more often than here.
 
 Not a common player on line, my internet connection at home is unreliable
 
 ### Current Projects
 
-Cursors for <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=6851" class="external text" rel="nofollow">Lego Spring</a>
+Cursors for <a href="https://springrts.com/phpbb/viewtopic.php?t=6851" class="external text" rel="nofollow">Lego Spring</a>
 
 ### Goodies
 
 <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=3472" class="external text" rel="nofollow">Map:Crossfire</a>
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=6150" class="external text" rel="nofollow">Content:Cursors Set</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=6150" class="external text" rel="nofollow">Content:Cursors Set</a>
 
 </div>
 

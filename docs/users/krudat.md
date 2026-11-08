@@ -8,23 +8,23 @@ source_url: "https://springrts.com/wiki/User:Krudat"
 
 ## Hmm, new scripting language, eh?
 
-A lot of what's given here is ... "structurally sensitive"? Specifically, I get the impression Zaphod would like to delay some feature additions until a new scripting language arrives (and <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?p=65295&amp;highlight=executes#65295" class="external text" rel="nofollow">Argh might agree, I think</a>). More generally, what's the easy fix or implementation might not be the best structurally (even before the level of finding some weird replacement for COB).
+A lot of what's given here is ... "structurally sensitive"? Specifically, I get the impression Zaphod would like to delay some feature additions until a new scripting language arrives (and <a href="https://springrts.com/phpbb/viewtopic.php?p=65295&amp;highlight=executes#65295" class="external text" rel="nofollow">Argh might agree, I think</a>). More generally, what's the easy fix or implementation might not be the best structurally (even before the level of finding some weird replacement for COB).
 
 Implementing a change is easy. Doing it *right*, particularly in the eyes of the admins, is another matter.
 
 ## Meben's Code Parade
 
-You know when they say "Use the Source, Luke"? It's a suprising amount of work - and that's for someone who can almost read C++. Many times, when someone adds a bug in <a href="http://spring.clan-sy.com/mantis" class="external text" rel="nofollow">Mantis</a> or posts in the forums, I read the code closely and try and find the relevant bits. I figured since I write it down, I might as well write it down where I can find it again, and where someone else might find it useful.
+You know when they say "Use the Source, Luke"? It's a suprising amount of work - and that's for someone who can almost read C++. Many times, when someone adds a bug in <a href="https://springrts.com/mantis" class="external text" rel="nofollow">Mantis</a> or posts in the forums, I read the code closely and try and find the relevant bits. I figured since I write it down, I might as well write it down where I can find it again, and where someone else might find it useful.
 
 Rules: don't touch the lobby client, no snide commentary. Just code references.
 
 (WebSVN doesn't give per-line anchors. So much for code references.)
 
-=== \#00048: Ferromancer: Unit Behavior: Construction units on patrol claim resources when not needed. === (<a href="http://taspring.clan-sy.com/mantis/view.php?id=48" class="external text" rel="nofollow">Mantis</a>)
+=== \#00048: Ferromancer: Unit Behavior: Construction units on patrol claim resources when not needed. === (<a href="https://springrts.com/mantis/view.php?id=48" class="external text" rel="nofollow">Mantis</a>)
 
 Add a check around <a href="http://svn.berlios.de/wsvn/taspring-linux/trunk/rts/Sim/Units/CommandAI/BuilderCAI.cpp?op=blame&amp;rev=963&amp;sc=0" class="external text" rel="nofollow">CBuilderCAI</a>:452.
 
-=== \#00050: Ferromancer: Ground construction units attempt to repair air units while in flight === (<a href="http://taspring.clan-sy.com/mantis/view.php?id=50" class="external text" rel="nofollow">Mantis</a>)
+=== \#00050: Ferromancer: Ground construction units attempt to repair air units while in flight === (<a href="https://springrts.com/mantis/view.php?id=50" class="external text" rel="nofollow">Mantis</a>)
 
 I *think* `CMD_PATROL` is a point rather than a path. (And why does it push a copy of itself?) (And it's been that way since ancient SF CVS.) (Oh, and deque semantics are a pain - the docs don't define them very well. I *hope* `commandQue.push_front(co) means commandQue[0] == co` ...) \[TODO Whoever made templated network messages can start on commands now. :P\]
 
@@ -32,7 +32,7 @@ I'd still need to figure out how to tell if the current repair job is the fault 
 
 The policy question is how and when the con-bot decides to give up on the air unit and do something else. (How far is 'too far' from the patrol position?)
 
-=== \#00052: Bug Hunter: Units acknoledge enemy "bugger of" === (<a href="http://taspring.clan-sy.com/mantis/view.php?id=52" class="external text" rel="nofollow">Mantis</a>)
+=== \#00052: Bug Hunter: Units acknoledge enemy "bugger of" === (<a href="https://springrts.com/mantis/view.php?id=52" class="external text" rel="nofollow">Mantis</a>)
 
 Perhaps Bug Hunter picked the phrase "bugger off" because that's what it's called in code. You can even do it from COB.
 
@@ -42,13 +42,13 @@ If you *couldn't*, I'd just get <a href="http://svn.berlios.de/wsvn/taspring-lin
 
 ColCheckH and ColCheckV in <a href="http://svn.berlios.de/wsvn/taspring-linux/trunk/rts/Sim/Units/MoveTypes/groundmovetype.cpp?op=file&amp;rev=0&amp;sc=0" class="external text" rel="nofollow">groundmovetype.cpp</a> tell fellow ground-pounders to get out of the way on close collision. I'd guess this is the code that prevents anyone ever making a nice neat line of units. =) Including, in this case, the enemy. Unfortunately, the rest of the file, at a glance, looks like Spring's ever-fragile ground pather.
 
-=== \#00066: Argh: S3O Explosion Behavior === (<a href="http://taspring.clan-sy.com/mantis/view.php?id=66" class="external text" rel="nofollow">Mantis</a>)
+=== \#00066: Argh: S3O Explosion Behavior === (<a href="https://springrts.com/mantis/view.php?id=66" class="external text" rel="nofollow">Mantis</a>)
 
 It shouldn't be *impossible* to let s3o *pieces* explode without `SHATTER`. Making s3os shatterable would take a little longer since we've got arrays of verticies rather than 3do-style faces.
 
 However, in Feb. 2006, someone said something about writing a model-type abstraction that would include Ogre meshes, whatever those are. Again in March, someone's tinkering with unit textures.
 
-=== \#00068: Argh: Behavior of FALL scripting event === (<a href="http://taspring.clan-sy.com/mantis/view.php?id=68" class="external text" rel="nofollow">Mantis</a>)
+=== \#00068: Argh: Behavior of FALL scripting event === (<a href="https://springrts.com/mantis/view.php?id=68" class="external text" rel="nofollow">Mantis</a>)
 
 Unfortunately, I don't have the source for the AA Vulcan, which features ejecting cases.
 
@@ -58,7 +58,7 @@ I'd have to fire up OTA to get the correct behaviour.
 
 (PieceProjectiles do exactly 50 damage.)
 
-=== \#00105: FizWizz: FPS aiming === (<a href="http://taspring.clan-sy.com/mantis/view.php?id=105" class="external text" rel="nofollow">Mantis</a>)
+=== \#00105: FizWizz: FPS aiming === (<a href="https://springrts.com/mantis/view.php?id=105" class="external text" rel="nofollow">Mantis</a>)
 
 Here's one for the compiler trivia books. The (original) GetHAndPFromVector (in myMath.h - WebSVN doesn't like links across file moves) crashed in one quarter (under Linux only!). However, I bet the call to COBFN_AimPrimary in <a href="http://svn.berlios.de/wsvn/taspring-linux/trunk/rts/Sim/Weapons/Weapon.cpp?op=file&amp;rev=0&amp;sc=0" class="external text" rel="nofollow">CWeapon</a>::Update was working fine, despite using similar code, and probably wanting the same results.
 
@@ -68,7 +68,7 @@ Commenting out the code to ask the FPU to choke immediately probably made it exh
 
 GetHAndPFromVector is only used in one place, for the direct-control stuff.
 
-=== \#00116: NOiZE: Cloakcosts are doubled === (<a href="http://taspring.clan-sy.com/mantis/view.php?id=116" class="external text" rel="nofollow">Mantis</a>)
+=== \#00116: NOiZE: Cloakcosts are doubled === (<a href="https://springrts.com/mantis/view.php?id=116" class="external text" rel="nofollow">Mantis</a>)
 
 Metal generation, energy use and idle regeneration are handled in <a href="http://svn.berlios.de/wsvn/taspring-linux/trunk/rts/Sim/Units/Unit.cpp?op=file&amp;rev=0&amp;sc=0" class="external text" rel="nofollow">CUnit</a>::SlowUpdate().
 
@@ -76,7 +76,7 @@ Metal and energy gain and a couple of other per-unit-time values are divided in 
 
 You can even see the 'half-cost' of things when you, say, turn a metalmaker, or a cloak, on or off.
 
-=== \#00118: Argh: Feature Request: "Free Interceptor" behavior. === (<a href="http://taspring.clan-sy.com/mantis/view.php?id=118" class="external text" rel="nofollow">Mantis</a>)
+=== \#00118: Argh: Feature Request: "Free Interceptor" behavior. === (<a href="https://springrts.com/mantis/view.php?id=118" class="external text" rel="nofollow">Mantis</a>)
 
 #### How they work now
 
@@ -112,7 +112,7 @@ Note: The <a href="http://svn.berlios.de/wsvn/taspring-linux/trunk/rts/Sim/Proje
 
 If I pin down the math for a ray reflection, it'll get used two different ways in two places; once in the reflector to give laser bolts a new heading, and again in BeamLaser to bounce off repulsors (with an extra projectile per reflection) 'till something gets hit.
 
-=== \#000123: Decimator: Laser weapons will not even attempt to shoot through trees === (<a href="http://taspring.clan-sy.com/mantis/view.php?id=123" class="external text" rel="nofollow">Mantis</a>)
+=== \#000123: Decimator: Laser weapons will not even attempt to shoot through trees === (<a href="https://springrts.com/mantis/view.php?id=123" class="external text" rel="nofollow">Mantis</a>)
 
 ... and have done so since SF CVS day dot (<a href="http://cvs.sourceforge.net/viewcvs.py/springrts/taspring/rts/BeamLaser.cpp?rev=1.1&amp;view=markup" class="external text" rel="nofollow">BeamLaser.cpp</a>).
 
@@ -137,18 +137,18 @@ I think there's an MTR somewhere here, but I'm not entirely sure what it is.
 
 Something only occasionally noted is that individual unit-selected sounds play where the unit is, so if you're zoomed out or off-screen, you can't hear them.
 
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=1248" class="external text" rel="nofollow">Sound</a>
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?p=15984#15984" class="external text" rel="nofollow">Making sounds audible again</a>
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2239" class="external text" rel="nofollow">Soundvolume is too low when zoomed out</a>
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=4242&amp;highlight=sound" class="external text" rel="nofollow">volume vs distance</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=1248" class="external text" rel="nofollow">Sound</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?p=15984#15984" class="external text" rel="nofollow">Making sounds audible again</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=2239" class="external text" rel="nofollow">Soundvolume is too low when zoomed out</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=4242&amp;highlight=sound" class="external text" rel="nofollow">volume vs distance</a>
 
 ([MTR](/monthly-topic-rotation)! \*ahem\* Maybe not.)
 
 **And some random sound-related posts**
 
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2522" class="external text" rel="nofollow">Using play-sound in Spring</a>, and how StartMoving() is called "exactly a bazillion times per second in first person view", like AimPrimary() apparently is. I'm not sure if I could try to fix it, and I *am* sure I'd add another strand of spaghetti to Spring on my first few attempts.
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2667" class="external text" rel="nofollow">please make the berthasound more quiet!</a>. For the record, the DGun's sound has a specific volume nerf (<a href="http://svn.berlios.de/wsvn/taspring-linux/trunk/rts/Sim/Units/UnitLoader.cpp?op=blame&amp;rev=0&amp;sc=0" class="external text" rel="nofollow">CUnitLoader</a>::LoadWeapon, near the bottom). It also suggests modder-settable sound-specific volume nerfs, or something.
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3728" class="external text" rel="nofollow">Sound effects still played if you have no LoS</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=2522" class="external text" rel="nofollow">Using play-sound in Spring</a>, and how StartMoving() is called "exactly a bazillion times per second in first person view", like AimPrimary() apparently is. I'm not sure if I could try to fix it, and I *am* sure I'd add another strand of spaghetti to Spring on my first few attempts.
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=2667" class="external text" rel="nofollow">please make the berthasound more quiet!</a>. For the record, the DGun's sound has a specific volume nerf (<a href="http://svn.berlios.de/wsvn/taspring-linux/trunk/rts/Sim/Units/UnitLoader.cpp?op=blame&amp;rev=0&amp;sc=0" class="external text" rel="nofollow">CUnitLoader</a>::LoadWeapon, near the bottom). It also suggests modder-settable sound-specific volume nerfs, or something.
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=3728" class="external text" rel="nofollow">Sound effects still played if you have no LoS</a>
 
 Hmm. I could almost sketch out a design for a new "<a href="http://svn.berlios.de/wsvn/taspring-linux/trunk/rts/System/Sound.h?op=file&amp;rev=0&amp;sc=0" class="external text" rel="nofollow">ISound</a>" with these requirements...
 
@@ -160,7 +160,7 @@ Hmm. I could almost sketch out a design for a new "<a href="http://svn.berlios.d
 - Perhaps add a sound priority (int) to all the PlaySounds so the LLTs don't replace the Vulcans' sounds, or possibly vice versa. Currently, the OpenAL system has a ring-buffer of 16 simultaneous sounds, maybe. I haven't looked at that too closely...
 - A mute(bool) method.
 
-=== Zero Damage === (Mantis: <a href="http://spring.clan-sy.com/mantis/view.php?id=140" class="external text" rel="nofollow">1</a>, <a href="http://spring.clan-sy.com/mantis/view.php?id=147" class="external text" rel="nofollow">2</a>)
+=== Zero Damage === (Mantis: <a href="https://springrts.com/mantis/view.php?id=140" class="external text" rel="nofollow">1</a>, <a href="https://springrts.com/mantis/view.php?id=147" class="external text" rel="nofollow">2</a>)
 
 (Damage and health are floats! For the sake of players, please assume Spring will only ever show whole-number amounts... In any case, this means you only need ridiculous amounts of smallarms fire to significantly damage a tank.)
 

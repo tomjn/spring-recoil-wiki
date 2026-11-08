@@ -341,7 +341,7 @@ At first these appear to be a game ending weapon. They are capable of attacking 
 
 Sustained fire from several of these cannons over a base acts as an effective siege mechanism. It makes it much harder to build, as anything under construction is quite vulnerable to being destroyed. Construction units are also quite vulnerable, and many can be taken out at once by a lucky hit. This can gradually tilt the balance of economic power in favour of a player with the VLRPC, even with the hefty cost of each shot.
 
-Once one of these cannons starts to fire, there are several possible replies. An aggressive opponent will normally search for the VLRPC doing the damage, probably with scout aircraft. Observing the direction the shells are coming from will give a reasonable indication of where to look. If the cannon has been built without considerable protection, it will normally be attacked and destroyed. If it is heavily protected, the opponent may feel that they must attack anyway and lose a lot of units for nothing. Other options include building your own VRLPC (or better still half a dozen) scattered throughout your base to respond to your enemy's attacks. Some players may try building a <a href="http://taspring.clan-sy.com/w/index.php?title=Absolute_Annihilation/Units#Deflector" class="external text" rel="nofollow">deflector</a> to nullify the effect of the VRLPC, but this can be prohibitively expensive, especially if you try to carpet your entire base. Building <a href="http://taspring.clan-sy.com/w/index.php?title=Absolute_Annihilation/Units#Radar.2FSonar.2FJammer" class="external text" rel="nofollow">radar jammers</a> can be more useful, as these cannons won't fire at something they can't see. Even with a jammer up, a few cheap air scouts will usually reveal plenty of targets for these cannons to fire at, so they typically have to be backed up with a Mercury/Screamer or two and some smaller MTs near the edges of your base.
+Once one of these cannons starts to fire, there are several possible replies. An aggressive opponent will normally search for the VLRPC doing the damage, probably with scout aircraft. Observing the direction the shells are coming from will give a reasonable indication of where to look. If the cannon has been built without considerable protection, it will normally be attacked and destroyed. If it is heavily protected, the opponent may feel that they must attack anyway and lose a lot of units for nothing. Other options include building your own VRLPC (or better still half a dozen) scattered throughout your base to respond to your enemy's attacks. Some players may try building a <a href="/absolute-annihilation-units#deflector">deflector</a> to nullify the effect of the VRLPC, but this can be prohibitively expensive, especially if you try to carpet your entire base. Building <a href="/absolute-annihilation-units#radar-sonar-jammer">radar jammers</a> can be more useful, as these cannons won't fire at something they can't see. Even with a jammer up, a few cheap air scouts will usually reveal plenty of targets for these cannons to fire at, so they typically have to be backed up with a Mercury/Screamer or two and some smaller MTs near the edges of your base.
 
 #### Vulcan/Buzzsaw
 
@@ -415,7 +415,7 @@ For many lvl1 units, there's no significant difference between the Arm and Core 
 
 #### Peewee/AK
 
-Small cheap infantry KBot. The die very quickly to any significant opposition, but are speedy and can see farther than other L1 KBots. Can be used for scouting, <a href="http://taspring.clan-sy.com/wiki/Swarming" class="external text" rel="nofollow">swarming</a> and as cannon fodder mixed with more valuable units. Good for early attacks on an enemy base, but they become obsolete very quickly.
+Small cheap infantry KBot. The die very quickly to any significant opposition, but are speedy and can see farther than other L1 KBots. Can be used for scouting, <a href="/swarming">swarming</a> and as cannon fodder mixed with more valuable units. Good for early attacks on an enemy base, but they become obsolete very quickly.
 
 #### Rocko/Storm
 
@@ -471,7 +471,7 @@ A very average level 2 KBot. Weaker than a [Zeus](#zeus) or [Maverick](#maverick
 
 #### Zipper
 
-Fast <a href="http://taspring.clan-sy.com/wiki/Swarming" class="external text" rel="nofollow">swarm</a> unit with a short range direct fire weapon. Masses of these can survive surprising amounts of fire to do damage to undefended areas of a base. Seem to be able to push level 1 units out of the way, and are also very good at finding their way through wreckage fields due to their small size.
+Fast <a href="/swarming">swarm</a> unit with a short range direct fire weapon. Masses of these can survive surprising amounts of fire to do damage to undefended areas of a base. Seem to be able to push level 1 units out of the way, and are also very good at finding their way through wreckage fields due to their small size.
 
 #### Maverick
 
@@ -519,7 +519,7 @@ A mobile anti-nuke. Useful for protecting a force of ground units dispatched to 
 
 #### Pyro
 
-Core's level 2 <a href="http://taspring.clan-sy.com/wiki/Swarming" class="external text" rel="nofollow">swarm</a>/assault unit unit. Halfway between a Zipper and a Zeus in toughness and speed. Packs a flamethrower that can dish out a lot of damage to multiple units if you get within its short range. Doesn't leave wreckage, making it an excellent raider. Generally, you'll want to back these up with Cans.
+Core's level 2 <a href="/swarming">swarm</a>/assault unit unit. Halfway between a Zipper and a Zeus in toughness and speed. Packs a flamethrower that can dish out a lot of damage to multiple units if you get within its short range. Doesn't leave wreckage, making it an excellent raider. Generally, you'll want to back these up with Cans.
 
 #### Can
 
@@ -571,7 +571,7 @@ A mobile Big Bertha/Intimidator. Slow and dies pretty much as soon as the enemy 
 
 #### Orcone
 
-An <a href="http://taspring.clan-sy.com/wiki/Uberweapon" class="external text" rel="nofollow">Uberweapon</a>. Costs absurd amounts of resources. Slow, but will destroy pretty much anything in its path. Very vulnerable to Sharpshooters, Annihilators/Doomsday Machines, and VLRPCs. Not generally worth investing in unless facing an enemy who's porcing heavily, and even then they need a lot of support from conventional units. If you see one coming, don't panic, start building Annihilators/Doomsday Machines, Sumos, or Sharpshooters and stick them (cloaked, in the case of Sharpshooters) in its path.
+An <a href="/uberweapon">Uberweapon</a>. Costs absurd amounts of resources. Slow, but will destroy pretty much anything in its path. Very vulnerable to Sharpshooters, Annihilators/Doomsday Machines, and VLRPCs. Not generally worth investing in unless facing an enemy who's porcing heavily, and even then they need a lot of support from conventional units. If you see one coming, don't panic, start building Annihilators/Doomsday Machines, Sumos, or Sharpshooters and stick them (cloaked, in the case of Sharpshooters) in its path.
 
 #### Bantha
 
@@ -597,7 +597,7 @@ A mobile EMP ballistic missile launcher. Its missiles cannot be intercepted by a
 
 #### Krogoth
 
-An <a href="http://taspring.clan-sy.com/wiki/Uberweapon" class="external text" rel="nofollow">Uberweapon</a>. Costs absurd amounts of resources. Slightly more powerful and tougher than the Orcone, and features a shotgun-style blaster which is ideal for concentrated fire on a single heavy target or spread fire over a swarm of lesser units.
+An <a href="/uberweapon">Uberweapon</a>. Costs absurd amounts of resources. Slightly more powerful and tougher than the Orcone, and features a shotgun-style blaster which is ideal for concentrated fire on a single heavy target or spread fire over a swarm of lesser units.
 
 #### Krogtaar
 

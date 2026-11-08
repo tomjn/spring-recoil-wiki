@@ -81,7 +81,7 @@ Therefore, AIs had to be written in C++, and be compiled with the same compiler 
 #### Links (not relevant for Spring versions newer then 0.78)
 
 **Metal Handler Class**  
-Cain has developed and released a Metal Handler Class that succesfully finds metal spots on maps, which can be a major stumbling block for many AI developers. Information about it can be found in <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2408" class="external text" rel="nofollow">this thread</a>.\
+Cain has developed and released a Metal Handler Class that succesfully finds metal spots on maps, which can be a major stumbling block for many AI developers. Information about it can be found in <a href="https://springrts.com/phpbb/viewtopic.php?t=2408" class="external text" rel="nofollow">this thread</a>.\
 
 <!-- -->
 
@@ -91,7 +91,7 @@ A useful mex spot finding algorithm, essential for any AI that uses metal extrac
 <!-- -->
 
 **Global AI Interface**  
-Jouninkomiko has a topic on the <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=923" class="external text" rel="nofollow">Global AI Interface</a> running here.\
+Jouninkomiko has a topic on the <a href="https://springrts.com/phpbb/viewtopic.php?t=923" class="external text" rel="nofollow">Global AI Interface</a> running here.\
 
 <!-- -->
 

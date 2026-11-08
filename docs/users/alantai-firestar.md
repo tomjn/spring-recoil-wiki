@@ -14,21 +14,21 @@ Projct Name - Status
 
 There are numerous collections of AI theory and progress at <a href="http://www.darkstars.co.uk" class="external text" rel="nofollow">Darkstars.co.uk</a> mostly TAI Dev related.
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=505" class="external text" rel="nofollow">Agents Poll</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=505" class="external text" rel="nofollow">Agents Poll</a>
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=499" class="external text" rel="nofollow">AI engine interface</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=499" class="external text" rel="nofollow">AI engine interface</a>
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=515" class="external text" rel="nofollow">TAI Pt 1 Basic Principles</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=515" class="external text" rel="nofollow">TAI Pt 1 Basic Principles</a>
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=547" class="external text" rel="nofollow">TAI Pt 2 Task Based Agent Mechanics</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=547" class="external text" rel="nofollow">TAI Pt 2 Task Based Agent Mechanics</a>
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=548" class="external text" rel="nofollow">TAI Pt 3 Octopus AI</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=548" class="external text" rel="nofollow">TAI Pt 3 Octopus AI</a>
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=543" class="external text" rel="nofollow">SSAI Tidbits</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=543" class="external text" rel="nofollow">SSAI Tidbits</a>
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=613" class="external text" rel="nofollow">TAI Pt4 Command queues rule the roost</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=613" class="external text" rel="nofollow">TAI Pt4 Command queues rule the roost</a>
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=1413" class="external text" rel="nofollow">Tarpits :: Deliberate Threat Matrix Manipulation and assorted items</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=1413" class="external text" rel="nofollow">Tarpits :: Deliberate Threat Matrix Manipulation and assorted items</a>
 
 </div>
 

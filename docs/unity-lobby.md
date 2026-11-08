@@ -18,7 +18,7 @@ Steps to install UnityLobby:
 
 1.  Install subversion.
 2.  Install UnityLobby dependencies.
-3.  Check out spring from the latest version, and Unity lobby from the trunk (<a href="https://taspring.clan-sy.com/svn/spring/" class="external free" rel="nofollow">https://taspring.clan-sy.com/svn/spring/</a>).
+3.  Check out spring from the latest version, and Unity lobby from the trunk (<a href="https://springrts.com/svn/spring/" class="external free" rel="nofollow">https://springrts.com/svn/spring/</a>).
 4.  Compile unitsync.so and copy it into UnityLobby.
 5.  Switch directories to the UnityLobby, and run ./Unity.py
 6.  Have fun!

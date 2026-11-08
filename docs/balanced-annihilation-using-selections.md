@@ -137,7 +137,7 @@ Also note that when you CTRL \# a group of units the old group with that number 
 
 **SelectionEditor.exe** is a program installed in your install directory, which is used for editing your **selectkeys.txt** configuration file, allowing you to make your own shortcut keys for selecting/filtering selection. Alternately, you can write [selectkeys.txt](/uikeys.txt) yourself.
 
-This <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2190" class="external text" rel="nofollow">Forum Thread</a> has some good documentation about using the selection editor.
+This <a href="https://springrts.com/phpbb/viewtopic.php?t=2190" class="external text" rel="nofollow">Forum Thread</a> has some good documentation about using the selection editor.
 
 **[\<--Back to Balanced Annihilation](/balanced-annihilation)**
 

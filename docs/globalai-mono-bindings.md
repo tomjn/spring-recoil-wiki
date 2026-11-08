@@ -18,7 +18,7 @@ Such bindings would make it possible to write portable AIs in C#, Boo (Python.Ne
 
 Here's some thoughts on writing such bindings.
 
-These thoughts are taken from a fuller thread at <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=7634&amp;postdays=0&amp;postorder=asc" class="external text" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?t=7634&amp;postdays=0&amp;postorder=asc</a>
+These thoughts are taken from a fuller thread at <a href="https://springrts.com/phpbb/viewtopic.php?t=7634&amp;postdays=0&amp;postorder=asc" class="external text" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=7634&amp;postdays=0&amp;postorder=asc</a>
 
 ## High-level overview
 

@@ -8,11 +8,11 @@ source_url: "https://springrts.com/wiki/User:FishBat"
 
 I am the Creator Of the FishBat Clan.\
 
-<a href="http://taspring.clan-sy.com/wiki/Clans/FishBat" class="external free" rel="nofollow">http://taspring.clan-sy.com/wiki/Clans/FishBat</a>
+<a href="https://springrts.com/wiki/Clans/FishBat" class="external free" rel="nofollow">https://springrts.com/wiki/Clans/FishBat</a>
 
 I also am soley responibble for all recuiting for the clan and web deisgn, I like to keep on top of things, I also like laughing at \[FishBat\]Juzza about his weird humor!\
 
-<a href="http://taspring.clan-sy.com/wiki/User:Juzza" class="external free" rel="nofollow">http://taspring.clan-sy.com/wiki/User:Juzza</a>
+<a href="/users/juzza">User:Juzza</a>
 
 </div>
 

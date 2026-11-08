@@ -135,7 +135,7 @@ After opening an UDP port, you need to create a new account for the bot and ask 
 
 ## Links
 
-- <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=7921" class="external text" rel="nofollow">Springie Topic</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=7921" class="external text" rel="nofollow">Springie Topic</a>
 
 </div>
 

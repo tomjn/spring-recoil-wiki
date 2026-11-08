@@ -38,13 +38,13 @@ To create a 'Modweb' for your mod, follow these instructions
 
 - <a href="http://ta-aa.sourceforge.net/modweb/" class="external text" rel="nofollow">AA's Technical Unit Guide</a>, using excellent custom templates (outdated).
 - <a href="http://froob.iamacup.com/AAmodweb/" class="external text" rel="nofollow">AA 2.21 Technical Unit Guide</a>, Made by Maelstrom and \[Gen\]Fox after loads of headache.
-- <a href="http://taspring.clan-sy.com/warcows/XTAv6/" class="external text" rel="nofollow">XTA Modweb</a>. A bit outdated, but still there.
+- <a href="https://springrts.com/warcows/XTAv6/" class="external text" rel="nofollow">XTA Modweb</a>. A bit outdated, but still there.
 - <a href="http://www.ta-spring.com/mods/xectvsmynn/unitguide/" class="external text" rel="nofollow">Xect vs. Mynn Modweb</a>. Used an old version of the Modweb.
 - Please add yours to the list if its not here!
 
 ### Links
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3842" class="external text" rel="nofollow">Forum Thread</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=3842" class="external text" rel="nofollow">Forum Thread</a>
 
 </div>
 

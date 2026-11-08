@@ -206,7 +206,7 @@ Use rgbColor2 instead.</td>
 <td>CylinderTargeting CylinderTargetting deprecated in 89.0</td>
 <td>If greater than 0, range will be checked in a cylinder instead of a sphere:
 <p>half height=unitradius*cylinderTargeting</p>
-Defaults to 1 for Melee type weapons, 0 otherwise. In 0.76b1, does not work with BeamLaser weapons.(<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?p=219659#p219659" class="external text" rel="nofollow">image</a>)</td>
+Defaults to 1 for Melee type weapons, 0 otherwise. In 0.76b1, does not work with BeamLaser weapons.(<a href="https://springrts.com/phpbb/viewtopic.php?p=219659#p219659" class="external text" rel="nofollow">image</a>)</td>
 <td>cylinderTargeting=0;</td>
 </tr>
 <tr>
@@ -227,7 +227,7 @@ Used for autodetection of "AircraftBomb" weapontypes. You're probably better off
 </tr>
 <tr>
 <td>DynDamageExp</td>
-<td>Exponent of the range damage formula, 0 (the default) disables dynamic damage. 1 means linear scaling. Only used by BeamLasers and LightingCannons. Can be any numeric value. (<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?p=263438#p263438" class="external text" rel="nofollow">image</a>)</td>
+<td>Exponent of the range damage formula, 0 (the default) disables dynamic damage. 1 means linear scaling. Only used by BeamLasers and LightingCannons. Can be any numeric value. (<a href="https://springrts.com/phpbb/viewtopic.php?p=263438#p263438" class="external text" rel="nofollow">image</a>)</td>
 <td>dynDamageExp=0;</td>
 </tr>
 <tr>
@@ -247,7 +247,7 @@ Used for autodetection of "AircraftBomb" weapontypes. You're probably better off
 </tr>
 <tr>
 <td>EdgeEffectiveness</td>
-<td>Determines what percent of a weapon's maximum damage value will be applied to units as they are closer to the outer edge of the weapon's AreaOfEffect. Must have a decimal value between 0 and 1. Default in OTA was 0, probably the same in Spring. (<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?p=251180#p251180" class="external text" rel="nofollow">image</a>)</td>
+<td>Determines what percent of a weapon's maximum damage value will be applied to units as they are closer to the outer edge of the weapon's AreaOfEffect. Must have a decimal value between 0 and 1. Default in OTA was 0, probably the same in Spring. (<a href="https://springrts.com/phpbb/viewtopic.php?p=251180#p251180" class="external text" rel="nofollow">image</a>)</td>
 <td>edgeEffectiveness=0.25;</td>
 </tr>
 <tr>
@@ -316,7 +316,7 @@ Can be any numeric value.</p></td>
 </tr>
 <tr>
 <td>HeightMod</td>
-<td>Changes the sphere weapon range into an ellipsis. Values above 1.0 mean the weapon cant shoot as high as it can far, values below 1.0 mean it can shoot higher than it can far. 0.5 means it can shoot twice as heigh as far (<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?p=219659#p219659" class="external text" rel="nofollow">image</a>). Note that this may not work well with beam weapons, as their minIntensity damage drop off over range is not effected. minIntensity=1 will remove the damage dropoff entirely.</td>
+<td>Changes the sphere weapon range into an ellipsis. Values above 1.0 mean the weapon cant shoot as high as it can far, values below 1.0 mean it can shoot higher than it can far. 0.5 means it can shoot twice as heigh as far (<a href="https://springrts.com/phpbb/viewtopic.php?p=219659#p219659" class="external text" rel="nofollow">image</a>). Note that this may not work well with beam weapons, as their minIntensity damage drop off over range is not effected. minIntensity=1 will remove the damage dropoff entirely.</td>
 <td>heightMod=1;</td>
 </tr>
 <tr>
@@ -574,7 +574,7 @@ Used for auto detection of ota weapontypes.</td>
 </tr>
 <tr>
 <td>TargeBorder</td>
-<td>If nonzero, targeting units will TryTarget at the edge of collision sphere (radius*tag_value, [-1;1]) instead of its centre. Can be set between -1 and 1. Defaults to 1 for Melee type weapons, 0 otherwise. (<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?p=219659#p219659" class="external text" rel="nofollow">image</a>)</td>
+<td>If nonzero, targeting units will TryTarget at the edge of collision sphere (radius*tag_value, [-1;1]) instead of its centre. Can be set between -1 and 1. Defaults to 1 for Melee type weapons, 0 otherwise. (<a href="https://springrts.com/phpbb/viewtopic.php?p=219659#p219659" class="external text" rel="nofollow">image</a>)</td>
 <td>targetBorder=1;</td>
 </tr>
 <tr>

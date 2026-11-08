@@ -287,7 +287,7 @@ More on the Second and Third Tier weapons later. Stay tuned! Will you be the lan
 
 NOTE BY GUESSMYNAME: This was orignally supposed to be a Remake of TA (Hence the title) but Zoombie managed to both change it completely and shanghi me into making it.
 
-The orignial idea was to just make TA without any copyright-based issues. To be honest, i prefered the original idea, so Zoombie's version has about as much chance of getting off the ground as a very large rock, unless he plans to make it himself (which I doubt). I've chosen to help the SYs make new and improved unit models: <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2063" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2063</a>
+The orignial idea was to just make TA without any copyright-based issues. To be honest, i prefered the original idea, so Zoombie's version has about as much chance of getting off the ground as a very large rock, unless he plans to make it himself (which I doubt). I've chosen to help the SYs make new and improved unit models: <a href="https://springrts.com/phpbb/viewtopic.php?t=2063" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=2063</a>
 
 Back to [Mods](/games)
 

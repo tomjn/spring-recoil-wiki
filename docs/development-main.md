@@ -52,7 +52,7 @@ categories:
 <table>
 <tbody>
 <tr>
-<th><strong><a href="http://spring.clan-sy.com/phpbb/viewforum.php?f=12" class="external text" rel="nofollow">Development forums</a></strong></th>
+<th><strong><a href="https://springrts.com/phpbb/viewforum.php?f=12" class="external text" rel="nofollow">Development forums</a></strong></th>
 </tr>
 &#10;<tr>
 <td>Look at the development forums for ongoing progress and discussion</td>

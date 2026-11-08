@@ -58,7 +58,7 @@ The first versions (0.01 - 0.05) of TSI were based on SAI, but since v0.1 it has
 
 ### Related forum threads
 
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=6787" class="external text" rel="nofollow">"TSI 0.11 released!!"</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=6787" class="external text" rel="nofollow">"TSI 0.11 released!!"</a>
 
 **[\<- Back to AI page](/ai-skirmish-list)**
 

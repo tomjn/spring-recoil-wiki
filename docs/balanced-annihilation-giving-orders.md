@@ -428,7 +428,7 @@ If several units are selected, and one belongs to any group, then, when pressing
 
 Finally, if you have a group created, and want to "detach" units from it: select the unit you wish to detach, and press Shift "Q", selected units will be removed from the group they belonged.
 
-See <a href="http://taspring.clan-sy.com/wiki/Using_Spring#Default_Selection_Controls" class="external text" rel="nofollow">Default selection Controls</a> for more info on groups.
+See <a href="/read-me-first#default-selection-controls">Default selection Controls</a> for more info on groups.
 
 #### Repeat
 

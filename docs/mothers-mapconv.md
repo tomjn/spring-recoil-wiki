@@ -105,7 +105,7 @@ This is an example of a command to convert your map (mame is crossroads) I allwa
 
 mapconv.exe -i -f w_crossroadsf.bmp -x 300 -n 50 -m w_crossroadsm.bmp -a w_crossroadsh.bmp -t w_crossroads.bmp -o w_crossroads.smf
 
-If you run this you will see 2 new files in the mapconv folder yourmapname.smf and yourmapname.smt You still need an extra file; yourmapname.smd A smd file contains all things like wind speeds max metal sun direction map description, starting positions etc. You can take a smd file from another map and edit or use Maelstorms SMD creator: <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2420" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2420</a>
+If you run this you will see 2 new files in the mapconv folder yourmapname.smf and yourmapname.smt You still need an extra file; yourmapname.smd A smd file contains all things like wind speeds max metal sun direction map description, starting positions etc. You can take a smd file from another map and edit or use Maelstorms SMD creator: <a href="https://springrts.com/phpbb/viewtopic.php?t=2420" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=2420</a>
 
 Now put these 3 files in a folder called "maps", download 7-zip <a href="http://www.7-zip.org" class="external text" rel="nofollow">here</a>, open it and navigate to the maps folder then right-click on it and do add to archive. Just let it make a zip file, and later rename it to yourmapname.sd7 (you have to edit the extension)
 

@@ -49,7 +49,7 @@ categories:
 
 **KAIK** is an evolutionary development of **KAI**, an AI originally written by Krogothe, Tournesol and Firenu and now maintained by Kloot. It inherits and builds upon the GPL'ed KAI 0.11 codebase, while keeping the core KAI behavioral routines. KAI(K) comes bundled with Spring since 0.74b3, and requires no config files or other user intervention to play most mods (although it does not really like ones that deviate from the TA style of play too much, such as Kernel Panic). For more information, bug reports, etc., visit its forum thread here:
 
-<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=11343" class="external free" rel="nofollow">http://spring.clan-sy.com/phpbb/viewtopic.php?t=11343</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=11343" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=11343</a>
 
 ## List of working MODs
 

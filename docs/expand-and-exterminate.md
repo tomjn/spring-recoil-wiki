@@ -185,7 +185,7 @@ Aliens are the newest race to enter the E&E battlezones and also one of the most
 
 - **<a href="http://xn--d-bga.su/EEv46.sd7" class="external text" rel="nofollow">Download current version</a>** (.46)
 - **<a href="http://hosted.filefront.com/Fang4606/" class="external text" rel="nofollow">Download outdated versions</a>** WARNING: these versions can be testing versions so bugs and imbalances could be present!!!
-- **<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?f=14&amp;t=13801" class="external text" rel="nofollow">Current Expand &amp; Exterminate Thread on Spring Forums</a>**
+- **<a href="https://springrts.com/phpbb/viewtopic.php?f=14&amp;t=13801" class="external text" rel="nofollow">Current Expand &amp; Exterminate Thread on Spring Forums</a>**
 - **<a href="http://smoth.net/foram/viewforum.php?f=7" class="external text" rel="nofollow">Expand &amp; Exterminate section on Smoth's Forums</a>**
 
 ## Credits

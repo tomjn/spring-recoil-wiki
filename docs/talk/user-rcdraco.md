@@ -97,9 +97,9 @@ The Guardians are the peace keepers of the Universe. They do whatever it takes t
 
 #### Other Info
 
-Go to the old forum page on this site: <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=8357&amp;postdays=0&amp;postorder=asc&amp;start=0" class="external free" rel="nofollow">http://spring.clan-sy.com/phpbb/viewtopic.php?t=8357&amp;postdays=0&amp;postorder=asc&amp;start=0</a>
+Go to the old forum page on this site: <a href="https://springrts.com/phpbb/viewtopic.php?t=8357&amp;postdays=0&amp;postorder=asc&amp;start=0" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=8357&amp;postdays=0&amp;postorder=asc&amp;start=0</a>
 
-Go to the new forum thread: <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=12651" class="external free" rel="nofollow">http://spring.clan-sy.com/phpbb/viewtopic.php?t=12651</a>
+Go to the new forum thread: <a href="https://springrts.com/phpbb/viewtopic.php?t=12651" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=12651</a>
 
 Go to here to get new mod. The new version isn't released yet.
 
@@ -109,7 +109,7 @@ This is a mod focused on Micro-Management you will have limited units to work wi
 
 Here is the link to the forum where you can discuss the mod:
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?p=156556#156556" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?p=156556#156556</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?p=156556#156556" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?p=156556#156556</a>
 
 There is also a new mod surfacing called Tactical Smash, a mod that seeks to bring a similar style of gameplay of OTA mods, while still holding a good tactical aspect, it is called Tactical Smash.
 

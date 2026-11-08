@@ -9,10 +9,10 @@ source_url: "https://springrts.com/wiki/User:Juzza"
 I am an awesome guy, and ive been told to metion that I have a really weird sense humor. My mate \[FishBat\]\_I_Am told me to say that.
 
 \[FishBat\]I_Am's personal decription\
-<a href="http://taspring.clan-sy.com/wiki/User:FishBat" class="external free" rel="nofollow">http://taspring.clan-sy.com/wiki/User:FishBat</a>
+<a href="/users/fishbat">User:FishBat</a>
 
 FishBat website.\
-<a href="http://taspring.clan-sy.com/wiki/Clans/FishBat" class="external free" rel="nofollow">http://taspring.clan-sy.com/wiki/Clans/FishBat</a>
+<a href="https://springrts.com/wiki/Clans/FishBat" class="external free" rel="nofollow">https://springrts.com/wiki/Clans/FishBat</a>
 
 </div>
 

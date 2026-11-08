@@ -43,8 +43,8 @@ categories:
 
 #### Forum threads
 
-- <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?f=15&amp;t=12308" class="external text" rel="nofollow">Java AI Interface for Spring</a>
-- <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?f=15&amp;t=15019" class="external text" rel="nofollow">AI Interface redesign (in C)</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?f=15&amp;t=12308" class="external text" rel="nofollow">Java AI Interface for Spring</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?f=15&amp;t=15019" class="external text" rel="nofollow">AI Interface redesign (in C)</a>
 
 #### Description
 

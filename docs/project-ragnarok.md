@@ -57,7 +57,7 @@ This towering machination moves very slowely across the face of the world, singl
 
 ## Links
 
-Forum Thread: <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3540" class="external autonumber" rel="nofollow">[1]</a>
+Forum Thread: <a href="https://springrts.com/phpbb/viewtopic.php?t=3540" class="external autonumber" rel="nofollow">[1]</a>
 
 [Back to Mods page](/games)
 

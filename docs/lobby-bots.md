@@ -59,7 +59,7 @@ There are also several bots that just login, post news and logoff:
 
 ### CommitBot
 
-- CommitBot posts details about each commit (change) to the <a href="http://spring.clan-sy.com/fisheye/browse/Spring/" class="external text" rel="nofollow">Spring source</a> in the channels \#commits and \#news.
+- CommitBot posts details about each commit (change) to the <a href="https://springrts.com/fisheye/browse/Spring/" class="external text" rel="nofollow">Spring source</a> in the channels \#commits and \#news.
 
 ### FileBot
 
@@ -67,12 +67,12 @@ There are also several bots that just login, post news and logoff:
 
 ### Forum
 
-- Forum posts a link to each new post in the <a href="http://spring.clan-sy.com/phpbb/index.php" class="external text" rel="nofollow">Spring message board</a> in \#forum and in \#news.\
+- Forum posts a link to each new post in the <a href="https://springrts.com/phpbb/index.php" class="external text" rel="nofollow">Spring message board</a> in \#forum and in \#news.\
   It checks for new posts every 5 minutes.
 
 ### IceUI
 
-- IceUI posts details about each commit (change) to the <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=8779" class="external text" rel="nofollow">IceUI</a> <a href="https://meltrax.homeip.net/svn/IceUI/" class="external text" rel="nofollow">source</a> in the channels \#commits and \#news.
+- IceUI posts details about each commit (change) to the <a href="https://springrts.com/phpbb/viewtopic.php?t=8779" class="external text" rel="nofollow">IceUI</a> <a href="https://meltrax.homeip.net/svn/IceUI/" class="external text" rel="nofollow">source</a> in the channels \#commits and \#news.
 
 ### League
 

@@ -83,7 +83,7 @@ Extracted from the `Kernel_Panic_readme.txt` file:
     - The maps Central Hub, Corrupted Core, Dual Core, Quad Core were CC BY-NC-SA and are now CC-BY-SA
        https://springrts.com/phpbb/viewtopic.php?f=43&t=21331&p=401680#p397471
        https://springrts.com/phpbb/viewtopic.php?f=43&t=27499&start=6
-    - The Spring engine is GPL, available from http://spring.clan-sy.com
+    - The Spring engine is GPL, available from https://springrts.com
 
 ------------------------------------------------------------------------
 

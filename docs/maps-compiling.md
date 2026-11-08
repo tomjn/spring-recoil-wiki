@@ -46,7 +46,7 @@ You need the 7-zip compression program to compress your map into a .[sd7](/gamed
 - <a href="http://www.7-zip.org" class="external text" rel="nofollow">7-zip homepage</a>
 - <a href="http://prdownloads.sourceforge.net/sevenzip/7z431.exe?download" class="external text" rel="nofollow">Download Link</a>
 
-A .smd file. These can be made with <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2420" class="external text" rel="nofollow">Maelstroms SMD creator</a>. It is recommended to actually try to learn how the different SMD values works though by looking at other maps .smd files. The SMD creator is also not completly bugfree, so you should preferably look it through once with a text editor anyway.
+A .smd file. These can be made with <a href="https://springrts.com/phpbb/viewtopic.php?t=2420" class="external text" rel="nofollow">Maelstroms SMD creator</a>. It is recommended to actually try to learn how the different SMD values works though by looking at other maps .smd files. The SMD creator is also not completly bugfree, so you should preferably look it through once with a text editor anyway.
 
 You also need to know:
 

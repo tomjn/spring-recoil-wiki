@@ -30,7 +30,7 @@ A collection of ideas which could improve Spring. Before starting anything, plea
 
 <!-- -->
 
-- Implement a **general sensor system** replacing the radars, as described in <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=6105" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?t=6105</a>
+- Implement a **general sensor system** replacing the radars, as described in <a href="https://springrts.com/phpbb/viewtopic.php?t=6105" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=6105</a>
   - Requires: C/C++, 3D/2D math (Lua knowledge not required, but prefered)
   - Time: ~2 months
   - Level of difficulty: Medium

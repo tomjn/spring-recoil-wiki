@@ -20,7 +20,7 @@ link to
 
 testing the maintanance page: teh liek
 
-Testing: <a href="http://taspring.clan-sy.com/w/index.php?title=User_talk:SeanHeron&amp;action=edit&amp;section=new" class="external text" rel="nofollow">here</a>
+Testing: <a href="https://springrts.com/mediawiki/index.php?title=User_talk:SeanHeron&amp;action=edit&amp;section=new" class="external text" rel="nofollow">here</a>
 
 can I use any page as a template ? yep \_:P
 

@@ -8,7 +8,7 @@ categories:
 
 <div class="mw-parser-output">
 
-Page is see topic on the forums: <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=7921" class="external text" rel="nofollow">link</a>
+Page is see topic on the forums: <a href="https://springrts.com/phpbb/viewtopic.php?t=7921" class="external text" rel="nofollow">link</a>
 
 </div>
 

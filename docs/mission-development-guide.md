@@ -269,9 +269,9 @@ Got everything from:
 
 smartie and Thor
 
-More info at this wiki <a href="http://spring.clan-sy.com/wiki/Mission_development" class="external free" rel="nofollow">http://spring.clan-sy.com/wiki/Mission_development</a>
+More info at this wiki <a href="https://springrts.com/wiki/Mission_development" class="external free" rel="nofollow">https://springrts.com/wiki/Mission_development</a>
 
-Ask any questions at this tread <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=10501&amp;postdays=0&amp;postorder=asc&amp;start=0" class="external free" rel="nofollow">http://spring.clan-sy.com/phpbb/viewtopic.php?t=10501&amp;postdays=0&amp;postorder=asc&amp;start=0</a>
+Ask any questions at this tread <a href="https://springrts.com/phpbb/viewtopic.php?t=10501&amp;postdays=0&amp;postorder=asc&amp;start=0" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=10501&amp;postdays=0&amp;postorder=asc&amp;start=0</a>
 
 </div>
 

@@ -21,7 +21,7 @@ This is the TA:Spring version of the masterpiece race created by the TA creation
 
 ## Links
 
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2860" class="external text" rel="nofollow">Forum Thread</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=2860" class="external text" rel="nofollow">Forum Thread</a>
 - <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1967" class="external text" rel="nofollow">Download - The Lost Legacy v1.04</a>
 
 </div>

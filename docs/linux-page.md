@@ -34,7 +34,7 @@ categories:
 <p><br />
 </p></td>
 <td><h3 id="linux-lobbies">Linux Lobbies</h3>
-<p><strong><a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=10371" class="external text" rel="nofollow">Spring Lobby</a></strong> Multiplatform C++/wxWidgets lobby by tc- and semi</p>
+<p><strong><a href="https://springrts.com/phpbb/viewtopic.php?t=10371" class="external text" rel="nofollow">Spring Lobby</a></strong> Multiplatform C++/wxWidgets lobby by tc- and semi</p>
 <p><br />
 </p>
 <h3 id="misc">Misc</h3>

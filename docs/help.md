@@ -52,8 +52,8 @@ Links/Pages:
 
 - [Using Spring](/read-me-first) (Attempts to be an exhaustive manual for playing Games made for the Spring Engine)
 - [Wiki Frequently Asked Questions (FAQs)](/faq)
-- <a href="http://spring.clan-sy.com/websvn/listing.php?repname=spring&amp;path=%2Ftrunk%2FDocumentation%2F&amp;rev=0&amp;sc=0%7C" class="external text" rel="nofollow">"Official Documentation"</a> (Right from the Devs, via SVN)
-- <a href="http://spring.clan-sy.com/phpbb/viewforum.php?f=11%7C" class="external text" rel="nofollow">Official Help &amp; Bugs Forum</a>
+- <a href="https://springrts.com/websvn/listing.php?repname=spring&amp;path=%2Ftrunk%2FDocumentation%2F&amp;rev=0&amp;sc=0%7C" class="external text" rel="nofollow">"Official Documentation"</a> (Right from the Devs, via SVN)
+- <a href="https://springrts.com/phpbb/viewforum.php?f=11%7C" class="external text" rel="nofollow">Official Help &amp; Bugs Forum</a>
 
 </div>
 

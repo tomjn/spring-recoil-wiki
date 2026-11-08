@@ -53,7 +53,7 @@ Unfortunately, Zaphod has dropped the JCAI project and taken over as lead progra
 
 ### Links
 
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2465" class="external text" rel="nofollow">JCAI Forum Thread</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=2465" class="external text" rel="nofollow">JCAI Forum Thread</a>
 - <a href="http://cvs.sourceforge.net/viewcvs.py/springrts/taspring/JCAI/" class="external text" rel="nofollow">JCAI on CVS</a>
 
 </div>

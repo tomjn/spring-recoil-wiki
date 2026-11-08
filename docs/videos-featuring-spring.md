@@ -13,7 +13,7 @@ categories:
 | [<img src="/images/172px-Symbol_comment_vote.svg.png" decoding="async" width="50" height="51" alt="172px-Symbol comment vote.svg.png" />](/images/172px-Symbol_comment_vote.svg.png) | This page contains outdated information, but is kept for historical reasons. |
 
 This page tries to list all movies showing Spring's interresting graphics/gameplay/features. (maybe this should be broken into several sections)\
-See also <a href="http://taspring.clan-sy.com/download.php" class="external text" rel="nofollow">the Download section</a> for "official" videos.
+See also <a href="https://springrts.com/download.php" class="external text" rel="nofollow">the Download section</a> for "official" videos.
 
 - <a href="http://link" class="external text" rel="nofollow">Name</a> / Short description / publication date
 

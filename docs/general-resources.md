@@ -20,7 +20,7 @@ Download (Mega): <a href="https://mega.co.nz/#!7N0wlaBK!u-8vrCP-vDEOk_y2yLHEYH8j
 - <a href="http://springrts.com/phpbb/viewtopic.php?t=7188&amp;start=0" class="external text" rel="nofollow">Texture Competition 0002 - Camo</a>\
 - <a href="http://springrts.com/phpbb/viewtopic.php?t=7731" class="external text" rel="nofollow">Texture Competition 0003 - Stone/Concrete</a>\
 - <a href="http://www.cgtextures.com/" class="external text" rel="nofollow">CG Textures</a>\
-- <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?f=13&amp;t=11009&amp;st=0&amp;sk=t&amp;sd=a" class="external text" rel="nofollow">Skyboxes</a>\
+- <a href="https://springrts.com/phpbb/viewtopic.php?f=13&amp;t=11009&amp;st=0&amp;sk=t&amp;sd=a" class="external text" rel="nofollow">Skyboxes</a>\
 - <a href="http://springrts.com/phpbb/viewtopic.php?f=13&amp;t=30674" class="external text" rel="nofollow">More skyboxes, based on NASA photography</a>
 
 ## Features
@@ -62,7 +62,7 @@ Download (Mega): <a href="https://mega.co.nz/#!7N0wlaBK!u-8vrCP-vDEOk_y2yLHEYH8j
 
 <a href="https://springrts.com/phpbb/viewforum.php?f=67" class="external text" rel="nofollow">Game Development Tutorials &amp; Resources</a> - A cornucopia of valuable resources, since years developers come here for top notch content. Also perfect to get old projects going again.
 
-<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?f=14&amp;t=8573" class="external text" rel="nofollow">Various Resources by various people</a> - cegs in .tdf format, bos scripts and some 404s ;)
+<a href="https://springrts.com/phpbb/viewtopic.php?f=14&amp;t=8573" class="external text" rel="nofollow">Various Resources by various people</a> - cegs in .tdf format, bos scripts and some 404s ;)
 
 [Unsorted list of interesting threads about Spring game development](/collectionofstuff)
 

@@ -18,11 +18,11 @@ On this page, you can post news items that will be seen in the top right section
 
 ### 2008-02-17 Star Wars Spring in PCGamer
 
-<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?f=1&amp;t=13926&amp;st=0&amp;sk=t&amp;sd=a" class="external text" rel="nofollow">Star Wars Spring featured in PCGamer</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?f=1&amp;t=13926&amp;st=0&amp;sk=t&amp;sd=a" class="external text" rel="nofollow">Star Wars Spring featured in PCGamer</a>
 
 ### 2008-01-08 AAI v0.86 released
 
-<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?f=15&amp;t=13467" class="external text" rel="nofollow">Read more</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?f=15&amp;t=13467" class="external text" rel="nofollow">Read more</a>
 
 ### 2008-01-05 New Years in Pictures (Part 3)!
 
@@ -52,7 +52,7 @@ To celebrate Christmas in Spring, all you have to do is to download and play on 
 
 ### 2007-4-7 Star Wars Spring Design Competition
 
-<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=10002" class="external text" rel="nofollow">Design the most important unit in the Imperial Arsenal!</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=10002" class="external text" rel="nofollow">Design the most important unit in the Imperial Arsenal!</a>
 
 Your chance to design the Imperial Commander, and have your unit design seen by over 8,000 people!\* \[\* source: current SWS download count\]
 
@@ -70,15 +70,15 @@ BOTA v1.3 with ota units inside and UIP2.1 in the mod file. <a href="http://www.
 
 ### 2006-12-01 Balanced Annihilation v4.2 released
 
-No more Weaselspam, Kbots are viable, Custom uniticons, faster gameplay, Overall better gameplay - get decent games now! --\> <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=8163" class="external text" rel="nofollow">Info and downloadlinks</a> \<--
+No more Weaselspam, Kbots are viable, Custom uniticons, faster gameplay, Overall better gameplay - get decent games now! --\> <a href="https://springrts.com/phpbb/viewtopic.php?t=8163" class="external text" rel="nofollow">Info and downloadlinks</a> \<--
 
 ### 2006-11-28 XTA v8.1 Release posted
 
-All new and shiny XTA! Look <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=8212" class="external text" rel="nofollow">here</a>!
+All new and shiny XTA! Look <a href="https://springrts.com/phpbb/viewtopic.php?t=8212" class="external text" rel="nofollow">here</a>!
 
 ### 2006-11-27 NanoBlobz v0.64 Release posted
 
-Awesome new graphics! Look <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=8089" class="external text" rel="nofollow">here</a>!
+Awesome new graphics! Look <a href="https://springrts.com/phpbb/viewtopic.php?t=8089" class="external text" rel="nofollow">here</a>!
 
 ### 2006-11-25 RAI v0.40 Released (Skirmish AI)
 
@@ -86,7 +86,7 @@ Awesome new graphics! Look <a href="http://taspring.clan-sy.com/phpbb/viewtopic.
 
 ### 2006-10-27 XTA - Final v8 Release posted
 
-All new and shiny XTA! Look <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=7806" class="external text" rel="nofollow">here</a>!
+All new and shiny XTA! Look <a href="https://springrts.com/phpbb/viewtopic.php?t=7806" class="external text" rel="nofollow">here</a>!
 
 ### 2006-10-20 Absolute Annihilation 2.23 posted
 
@@ -94,11 +94,11 @@ Download here: <a href="http://aaspring.tk" class="external text" rel="nofollow"
 
 ### 2006-10-14 AAI 0.76 released
 
-Look here: <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=7539" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?t=7539</a>
+Look here: <a href="https://springrts.com/phpbb/viewtopic.php?t=7539" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=7539</a>
 
 ### 2006-08-30 TSI 0.11 Released
 
-New version of new AI. Many bugfixes and improvemnts. <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=6787" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?t=6787</a>
+New version of new AI. Many bugfixes and improvemnts. <a href="https://springrts.com/phpbb/viewtopic.php?t=6787" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=6787</a>
 
 ### 2006-08-18 NTai XE9RC22 Released
 
@@ -106,7 +106,7 @@ Lots of changes and improvements, look here: <a href="http://www.darkstars.co.uk
 
 ### 2006-07-19 AAI 0.70 Released
 
-Win + Linux version, look here: <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?p=102040#102040" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?p=102040#102040</a>
+Win + Linux version, look here: <a href="https://springrts.com/phpbb/viewtopic.php?p=102040#102040" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?p=102040#102040</a>
 
 ### 2006-06-30 Absolute Annihilation 2.11 now available
 
@@ -120,7 +120,7 @@ Uber AI FTW!!! <a href="http://www.darkstars.co.uk" class="external free" rel="n
 
 Update released fixing most crash bugs (hopefully!)
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=5500" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?t=5500</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=5500" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=5500</a>
 
 ### 2006-05-18 Gundam 1.0 achieved and released!
 
@@ -140,7 +140,7 @@ After over a year of work I have acomplished what I have set out to do.
 
 ### 2006-05-13 NTai XE8 and NanoBlobs 0.4 Final Released
 
-5 new groupAI's, a powerful skirmish AI, 2 maps, and The last Nanoblobz!!! Download here: www.darkstars.co.uk Manual / Unit Guide here: <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=4276" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?t=4276</a> Argh/AF
+5 new groupAI's, a powerful skirmish AI, 2 maps, and The last Nanoblobz!!! Download here: www.darkstars.co.uk Manual / Unit Guide here: <a href="https://springrts.com/phpbb/viewtopic.php?t=4276" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=4276</a> Argh/AF
 
 ### 2006-05-01 Absolute Annihilation 1.46 Released
 
@@ -148,11 +148,11 @@ After over a year of work I have acomplished what I have set out to do.
 
 ### 2006-05-01 Modweb Generator v0.4 Released
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3842" class="external text" rel="nofollow">Get it here!</a> This will create a set of HTML pages about your mod, units, and weapons. Check it out.
+<a href="https://springrts.com/phpbb/viewtopic.php?t=3842" class="external text" rel="nofollow">Get it here!</a> This will create a set of HTML pages about your mod, units, and weapons. Check it out.
 
 ### 2006-04-18 Expand and Exterminate .152 Released!
 
-<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=4381&amp;postdays=0&amp;postorder=asc&amp;start=0" class="external text" rel="nofollow">Get it here!</a> Completely original mod, not based on OTA!
+<a href="https://springrts.com/phpbb/viewtopic.php?t=4381&amp;postdays=0&amp;postorder=asc&amp;start=0" class="external text" rel="nofollow">Get it here!</a> Completely original mod, not based on OTA!
 
 ### 2006-04-18 OTAI 1.13
 
@@ -160,19 +160,19 @@ Minor Changes and Bugfixes. <a href="http://www.fileuniverse.com/?p=showitem&amp
 
 ### 2006-04-17 AAI 0.63 released
 
-Minor improvements but a lot of bugfixes :) <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?p=70404#70404" class="external text" rel="nofollow">Look here</a>.
+Minor improvements but a lot of bugfixes :) <a href="https://springrts.com/phpbb/viewtopic.php?p=70404#70404" class="external text" rel="nofollow">Look here</a>.
 
 ### 2006-04-16 Xect vs. Mynn v0.6 released, 100% legal
 
-<a href="http://www.ta-spring.com/mods/xectvsmynn/" class="external text" rel="nofollow">Get it here</a>, <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3005&amp;postdays=0&amp;postorder=asc&amp;start=80" class="external text" rel="nofollow">discuss it here</a>.
+<a href="http://www.ta-spring.com/mods/xectvsmynn/" class="external text" rel="nofollow">Get it here</a>, <a href="https://springrts.com/phpbb/viewtopic.php?t=3005&amp;postdays=0&amp;postorder=asc&amp;start=80" class="external text" rel="nofollow">discuss it here</a>.
 
 ### 2006-04-15 XTA Pimped Edition V5.5
 
-<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?p=69921" class="external text" rel="nofollow">Read and Grab it here!</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?p=69921" class="external text" rel="nofollow">Read and Grab it here!</a>
 
 ### 2006-04-10 AAI 0.60 released
 
-Experimental water support, linux support and a lot more... <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=4509" class="external text" rel="nofollow">Look here</a>
+Experimental water support, linux support and a lot more... <a href="https://springrts.com/phpbb/viewtopic.php?t=4509" class="external text" rel="nofollow">Look here</a>
 
 ### 2006-04-05 FF v1.15
 
@@ -192,15 +192,15 @@ With working command buffering <a href="http://www.fileuniverse.com" class="exte
 
 ### NanoBlobs 0.31(beta)
 
-Exponential game design. Updated. Smaller. Faster. Even cooler. Get it <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=4276" class="external text" rel="nofollow">Here</a>
+Exponential game design. Updated. Smaller. Faster. Even cooler. Get it <a href="https://springrts.com/phpbb/viewtopic.php?t=4276" class="external text" rel="nofollow">Here</a>
 
 ### 2006-03-06 OTAI 1.10
 
-Now works in 0.70, fixed nanostall somewhat. Get it <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3412" class="external text" rel="nofollow">Here</a>
+Now works in 0.70, fixed nanostall somewhat. Get it <a href="https://springrts.com/phpbb/viewtopic.php?t=3412" class="external text" rel="nofollow">Here</a>
 
 ### 2006-02-25 AAI 0.55
 
-A rather small release mainly adding support for the modified ai interface <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3886" class="external text" rel="nofollow">get it here</a>.
+A rather small release mainly adding support for the modified ai interface <a href="https://springrts.com/phpbb/viewtopic.php?t=3886" class="external text" rel="nofollow">get it here</a>.
 
 ### 2006-02-25 NTAI XE6 for 0.70b1 Skirmish AI
 
@@ -208,7 +208,7 @@ Universal mod support, statistical unit learning, freeform buildtrees <a href="h
 
 ### 2006-02-19 AAI 0.52
 
-AAI 0.52 is only a small bugfix release <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3886" class="external text" rel="nofollow">get it here</a>.
+AAI 0.52 is only a small bugfix release <a href="https://springrts.com/phpbb/viewtopic.php?t=3886" class="external text" rel="nofollow">get it here</a>.
 
 ### 2006-02-13 Absolute Annihilation 1.44
 
@@ -216,7 +216,7 @@ AA 1.44 completed and uploaded.<a href="http://www.planetannihilation.com/aa" cl
 
 ### 2006-2-19 AAI 0.52 Released
 
-AAI 0.52 is only a small bugfix release for AAI 0.5 - hopefully all crashes are gone now <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3886" class="external text" rel="nofollow">click here</a>.
+AAI 0.52 is only a small bugfix release for AAI 0.5 - hopefully all crashes are gone now <a href="https://springrts.com/phpbb/viewtopic.php?t=3886" class="external text" rel="nofollow">click here</a>.
 
 ### 2006-2-15 NTAI XE 3 Released
 
@@ -228,7 +228,7 @@ AA 1.44 completed and uploaded. Readme and changelog available at the <a href="h
 
 ### 2006-2-06 OTAI 1.08 Released
 
-Now uses multithreading to reduce freezing! <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?p=55624#55624" class="external text" rel="nofollow">Forum</a> <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=2354" class="external text" rel="nofollow">Download</a>
+Now uses multithreading to reduce freezing! <a href="https://springrts.com/phpbb/viewtopic.php?p=55624#55624" class="external text" rel="nofollow">Forum</a> <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=2354" class="external text" rel="nofollow">Download</a>
 
 ### 2006-02-01 World Domination 5B62 Released
 
@@ -236,7 +236,7 @@ This version fixes the crashes related to missing .cob-files. Download <a href="
 
 ### 2006-1-31 Star Wars Spring Manual Released
 
-<a href="http://spring.clan-sy.com/wiki/SWTA_Manual" class="external text" rel="nofollow">Read the SWS Manual right now!</a> It contains everything you would ever want to know about SWS, including: Installation Guide, In-Depth Unit Guide as well as a Strategy & Tactics section.
+<a href="https://springrts.com/wiki/SWTA_Manual" class="external text" rel="nofollow">Read the SWS Manual right now!</a> It contains everything you would ever want to know about SWS, including: Installation Guide, In-Depth Unit Guide as well as a Strategy & Tactics section.
 
 ### 2006-1-27 OTAI 1.07 Released
 
@@ -248,7 +248,7 @@ Maestro R Setiawan released <a href="http://www.fileuniverse.com" class="externa
 
 ### 2006-01-16 NTAI 0.29a Released
 
-NTAI 0.29a released, go get it here <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?p=50716#50716" class="external text" rel="nofollow">Download</a>
+NTAI 0.29a released, go get it here <a href="https://springrts.com/phpbb/viewtopic.php?p=50716#50716" class="external text" rel="nofollow">Download</a>
 
 ### 2006-01-16 Absolute Annihilation 1.42 Released
 
@@ -258,7 +258,7 @@ AA 1.42 completed and uploaded. Readme and changelog available at the <a href="h
 
 ### 2006-01-12 AAI 0.4 Released
 
-AAI 0.4 now supports air units as well as construction units assisting others. Edit: Small Bugfix Version AAI 0.42 released <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3527" class="external text" rel="nofollow">AAI v0.42</a>.
+AAI 0.4 now supports air units as well as construction units assisting others. Edit: Small Bugfix Version AAI 0.42 released <a href="https://springrts.com/phpbb/viewtopic.php?t=3527" class="external text" rel="nofollow">AAI v0.42</a>.
 
 ### 2006-1-07 Gundam Annihilation 0.98.sd7 Released
 
@@ -268,7 +268,7 @@ This is a .sd7 for your spring lobby usage. I have corrected a few of the spring
 
 ### 2005-12-15 AAI 0.3 Released
 
-AAI 0.3 includes a lot of bug fixes and placement of defence buildings. <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3195" class="external text" rel="nofollow">AAI v0.3</a>.
+AAI 0.3 includes a lot of bug fixes and placement of defence buildings. <a href="https://springrts.com/phpbb/viewtopic.php?t=3195" class="external text" rel="nofollow">AAI v0.3</a>.
 
 ### 2005-12-14 Absolute Annihilation 1.35 Released
 
@@ -280,7 +280,7 @@ AA 1.35 completed and uploaded. Readme and changelog available at the <a href="h
 
 A fixed version of OTAI 1.03 now available.
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3184" class="external text" rel="nofollow">Forum Thread</a> <a href="http://www.geocities.com/veylon_ii/TASpring/OTAI_v103b.zip" class="external text" rel="nofollow">Download</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=3184" class="external text" rel="nofollow">Forum Thread</a> <a href="http://www.geocities.com/veylon_ii/TASpring/OTAI_v103b.zip" class="external text" rel="nofollow">Download</a>
 
 ### 2005-12-13 The Lost Legacy v1.04 Released
 
@@ -288,7 +288,7 @@ The Lost Legacy Race, originally by M3G, ported to Spring by NOiZE.
 
 This is the TA:Spring version of the masterpiece race created by the TA creation veterans M3G and Nik. Striving for perfection, they have completed an astoundishing number of 150 new units. This is by far the most expanded and carefully balanced race that has been created to this point. Explore the strategic values of the new submarine pens, defensive constructions and the many supersized monsters that let you toy with the opponent.
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2860" class="external text" rel="nofollow">Forum Thread</a> <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1967" class="external text" rel="nofollow">Download</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=2860" class="external text" rel="nofollow">Forum Thread</a> <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1967" class="external text" rel="nofollow">Download</a>
 
 ### 2005-12-07 Star Wars: Spring 1.0 Released
 
@@ -306,7 +306,7 @@ An in-depth manual, with help regarding strategies and unit descriptions can be 
 
 SWS features around 130 units ranging from all six movies and the expanded universe for the Galactic Empire and Rebel Alliance. Join this galaxy spanning war today, download SWS!
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3166" class="external text" rel="nofollow">Forum Thread</a> <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1988" class="external text" rel="nofollow">Download</a> <a href="http://www.planetannihilation.com/swta/" class="external text" rel="nofollow">SWTA Homepage</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=3166" class="external text" rel="nofollow">Forum Thread</a> <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1988" class="external text" rel="nofollow">Download</a> <a href="http://www.planetannihilation.com/swta/" class="external text" rel="nofollow">SWTA Homepage</a>
 
 ### 2005-12-07 The Lost Legacy v1.03 Released
 
@@ -314,7 +314,7 @@ The Lost Legacy Race, originally by M3G, ported to Spring by NOiZE.
 
 This is the TA:Spring version of the masterpiece race created by the TA creation veterans M3G and Nik. Striving for perfection, they have completed an astoundishing number of 150 new units. This is by far the most expanded and carefully balanced race that has been created to this point. Explore the strategic values of the new submarine pens, defensive constructions and the many supersized monsters that let you toy with the opponent.
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2860" class="external text" rel="nofollow">Forum Thread</a> <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1967" class="external text" rel="nofollow">Download</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=2860" class="external text" rel="nofollow">Forum Thread</a> <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1967" class="external text" rel="nofollow">Download</a>
 
 ### 2005-12-05 NTAI 0.28.10+ installer FIXED)
 
@@ -350,13 +350,13 @@ Full ARM + TLL support, and improved attacking.
 
 ### 2005-11-12 - NTAI 0.27 Released
 
-Water map support, krogoths, vehicles, aircraft, and more! <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2829" class="external text" rel="nofollow">Details</a> <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2827" class="external text" rel="nofollow">Screenshots</a>
+Water map support, krogoths, vehicles, aircraft, and more! <a href="https://springrts.com/phpbb/viewtopic.php?t=2829" class="external text" rel="nofollow">Details</a> <a href="https://springrts.com/phpbb/viewtopic.php?t=2827" class="external text" rel="nofollow">Screenshots</a>
 
 ### 2005-10-29 - NTAI 0.25 Released
 
 The latest version of NTAI released today with many new abilities, such as a greatly improved attack system, and the ability to scout.
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2687" class="external text" rel="nofollow">Forum Thread</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=2687" class="external text" rel="nofollow">Forum Thread</a>
 
 ### 2005-10-20 - Absolute Annihilation: Spring Released
 
@@ -370,40 +370,40 @@ Already a new version is available, 1.25, which corrects several major bugs.
 
 <a href="http://www.planetannihilation.com/aa" class="external text" rel="nofollow">AA Homepage</a>
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2633" class="external text" rel="nofollow">Forum Thread</a>
+<a href="https://springrts.com/phpbb/viewtopic.php?t=2633" class="external text" rel="nofollow">Forum Thread</a>
 
 ### 2005-10-16 - KuroTA v0.45 Released
 
-This is the second public release of this fairly popular mod. It all started out as a bunch of custom units in a TA installation from years gone by, but thanks to dedication it's been turned into a playable and fairly balanced mod for everyone to play on Spring. For more info at <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2514" class="external text" rel="nofollow">read this thread</a>. And it can be downloaded from <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1646" class="external text" rel="nofollow">FileUniverse</a>.
+This is the second public release of this fairly popular mod. It all started out as a bunch of custom units in a TA installation from years gone by, but thanks to dedication it's been turned into a playable and fairly balanced mod for everyone to play on Spring. For more info at <a href="https://springrts.com/phpbb/viewtopic.php?t=2514" class="external text" rel="nofollow">read this thread</a>. And it can be downloaded from <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1646" class="external text" rel="nofollow">FileUniverse</a>.
 
 ### 2005-10-15 - UberHack, SpringVersion1.3 Released
 
-This port of the famous balance mod for TA, done by NOiZE, has been made as good as bug free now. This mod would not have been possible without help from: zwzsg, Gnome and Kuroneko. For more info at <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2540" class="external text" rel="nofollow">read this thread</a>. And it can be downloaded from <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1633" class="external text" rel="nofollow">FileUniverse</a>.
+This port of the famous balance mod for TA, done by NOiZE, has been made as good as bug free now. This mod would not have been possible without help from: zwzsg, Gnome and Kuroneko. For more info at <a href="https://springrts.com/phpbb/viewtopic.php?t=2540" class="external text" rel="nofollow">read this thread</a>. And it can be downloaded from <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1633" class="external text" rel="nofollow">FileUniverse</a>.
 
 ### 2005-10-12 - Maelstroms SMD Creator
 
-<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2420" class="external text" rel="nofollow">Maelstroms SMD Creator</a> has been relesed, to help people create SMD Map files with an easy to use GUI.
+<a href="https://springrts.com/phpbb/viewtopic.php?t=2420" class="external text" rel="nofollow">Maelstroms SMD Creator</a> has been relesed, to help people create SMD Map files with an easy to use GUI.
 
 ### 2005-10-11 - JCAI 0.20 Released
 
-<a href="http://spring.clan-sy.com/phpbb/viewtopic.php?p=33275#33275" class="external text" rel="nofollow">JCAI 0.20 skirmish AI</a> is released for Spring 0.64b1 with a modified spring exe, it is much more stable now. JCAI 0.20 is included in current release (0.65b1)
+<a href="https://springrts.com/phpbb/viewtopic.php?p=33275#33275" class="external text" rel="nofollow">JCAI 0.20 skirmish AI</a> is released for Spring 0.64b1 with a modified spring exe, it is much more stable now. JCAI 0.20 is included in current release (0.65b1)
 
 ### 2005-09-28 - UberHack, SpringVersion1.2 Released
 
-This port of the famous balance mod for TA, done by NOiZE, has been made as good as bug free now. This mod would not have been possible without help from: zwzsg, Gnome and Kuroneko. For more info at <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=2364" class="external text" rel="nofollow">read this thread</a>. And it can be downloaded from <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1552" class="external text" rel="nofollow">FileUniverse</a>.
+This port of the famous balance mod for TA, done by NOiZE, has been made as good as bug free now. This mod would not have been possible without help from: zwzsg, Gnome and Kuroneko. For more info at <a href="https://springrts.com/phpbb/viewtopic.php?t=2364" class="external text" rel="nofollow">read this thread</a>. And it can be downloaded from <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1552" class="external text" rel="nofollow">FileUniverse</a>.
 
 ### 2005-08-20 - wiki Button Added
 
-As you probably already have noticed, the SY's have added a wiki button (Made by aGorm) to the Navigation bar. Hopefully, this will make people more aware of the wiki, as some have never even heard of it! More info on <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=1917" class="external text" rel="nofollow">this thread</a>. If you don't see the wiki button, empty the cache of your browser and refresh.
+As you probably already have noticed, the SY's have added a wiki button (Made by aGorm) to the Navigation bar. Hopefully, this will make people more aware of the wiki, as some have never even heard of it! More info on <a href="https://springrts.com/phpbb/viewtopic.php?t=1917" class="external text" rel="nofollow">this thread</a>. If you don't see the wiki button, empty the cache of your browser and refresh.
 
 ### 2005-08-16 - JCAI Released
 
-Zaphod has released alpha 1 of his skirmish AI JCAI for spring,<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=1920" class="external text" rel="nofollow">see forum post</a> TAI code has been released but doesnt work. <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1322" class="external text" rel="nofollow">Get it here</a>
+Zaphod has released alpha 1 of his skirmish AI JCAI for spring,<a href="https://springrts.com/phpbb/viewtopic.php?t=1920" class="external text" rel="nofollow">see forum post</a> TAI code has been released but doesnt work. <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1322" class="external text" rel="nofollow">Get it here</a>
 
 ### 2005-08-03 - Mods and Maps
 
 zwzsg made a 3.6MB mod package with: OTA balance, Evolva models, UTASP Buildpics. Install and use easy thanks to the new mod switcher introduced in Spring 0.60b1.\
-- <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=1843" class="external text" rel="nofollow">More info and discussion</a>\
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=1843" class="external text" rel="nofollow">More info and discussion</a>\
 - <a href="http://www.fileuniverse.com/?p=showitem&amp;ID=1257" class="external text" rel="nofollow">Download link</a>
 
 <a href="http://zwzsg.hosted.luckz.de/img/spring/Azure%20Rampart%20-%20evnbp%20-%20Bomber.png" class="external text" rel="nofollow"><img src="/images/Azure_Rampart_-_evnbp_-_Bomber.jpg-thumb.png" alt="Azure%20Rampart%20-%20evnbp%20-%20Bomber.jpg-thumb.png" /></a><a href="http://www.fileuniverse.com/images/causticscreenshot.jpg" class="external text" rel="nofollow"><img src="http://www.fileuniverse.com/images/causticscreenshot.jpg-thumb.png" alt="causticscreenshot.jpg-thumb.png" /></a>

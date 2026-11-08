@@ -155,8 +155,8 @@ One particularly useful COB script, since Lua doesn't seem to have a way of maki
 
 ## References
 
-1.  <a href="http://spring.clan-sy.com/phpbb/viewforum.php?f=23" class="external text" rel="nofollow">Spring Lua Scripts forum</a>
-2.  <a href="http://spring.clan-sy.com/phpbb/viewtopic.php?t=9329" class="external text" rel="nofollow">trepan's description of Lua-COB interface</a> - a little bit outdated, but still worth a read
+1.  <a href="https://springrts.com/phpbb/viewforum.php?f=23" class="external text" rel="nofollow">Spring Lua Scripts forum</a>
+2.  <a href="https://springrts.com/phpbb/viewtopic.php?t=9329" class="external text" rel="nofollow">trepan's description of Lua-COB interface</a> - a little bit outdated, but still worth a read
 
 ## Thanks
 

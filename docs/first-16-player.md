@@ -16,7 +16,7 @@ On the 12th/13th of October 2006 (It went on!) Wil2 Hosted the first known 16 pl
 
 <div style="background-color:#EEEEEE">
 
-**WRONG!** first known was hosted by TradeMark, 8th October 2006, view topic: <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=7473" class="external free" rel="nofollow">http://taspring.clan-sy.com/phpbb/viewtopic.php?t=7473</a>
+**WRONG!** first known was hosted by TradeMark, 8th October 2006, view topic: <a href="https://springrts.com/phpbb/viewtopic.php?t=7473" class="external free" rel="nofollow">https://springrts.com/phpbb/viewtopic.php?t=7473</a>
 
 And it doesnt need so good cpu either: TradeMark has 1.4Ghz CPU, 1.5GB memory, 6Mbps/512kbps connection.
 

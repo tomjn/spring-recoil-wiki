@@ -19,7 +19,7 @@ The guides listed below are outdated and scheduled for archival.
 - [aGorm's map creating Guide](/tutorial-createmaps-fnordia-et-al)
 - [aGorms Ultimate Map Making Guide(unfinished)](/tutorial-mapmakingguide-agorm)
 - [IceXuicks Map creating Guide](/tutorial-mapdesignhelp-icexuick)
-- <a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=3941" class="external text" rel="nofollow">Forboding Angel's map creating Tutorial</a>
+- <a href="https://springrts.com/phpbb/viewtopic.php?t=3941" class="external text" rel="nofollow">Forboding Angel's map creating Tutorial</a>
 - [Another tutorial from a designing point of view](/tutorial-basicmapmaking-maelstrom)
 - [A Complete Map Making Tutorial (under construction)](/tutorial-completemapmaking-wannes)
 - [Runecrafter's Map Tutorial](/tutorial-mapmaking-runecrafter)

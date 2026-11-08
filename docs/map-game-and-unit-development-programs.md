@@ -40,7 +40,7 @@ Now features animation export for dae and s3o.
 2.  **<a href="http://www.anim8or.com/main/index.html" class="external text" rel="nofollow">Anim8or</a>**\*
 3.  **<a href="http://www.autodesk.com/products/autodesk-3ds-max/overview" class="external text" rel="nofollow">3DS MAX</a>**\*\
     -\> The most widely used and acclaimed modelling program ever. Used in creation of many games and movies (The Matrix). One of the three major modelling programs used by professionals.\
-    -\> The s3o plugin for 3DS MAX can be found here. NOTE: This is not backwards compatible with versions prior to 7. Also this only exports: **<a href="http://taspring.clan-sy.com/temp/s3oexport.dle" class="external text" rel="nofollow">broken link fix if possible</a>**
+    -\> The s3o plugin for 3DS MAX can be found here. NOTE: This is not backwards compatible with versions prior to 7. Also this only exports: **<a href="https://springrts.com/temp/s3oexport.dle" class="external text" rel="nofollow">broken link fix if possible</a>**
 4.  **<a href="https://www.lightwave3d.com" class="external text" rel="nofollow">Lightwave</a>**\*\
     -\> A popular modelling program that's been around a long time. One of the three major modelling programs used by professionals.
 5.  **<a href="http://www.rhino3d.com/" class="external text" rel="nofollow">Rhinoceros</a>**\*\
@@ -53,7 +53,7 @@ Now features animation export for dae and s3o.
 ### 3d Model converters/Assemblers
 
 1.  **[UpSpring](/upspring)**\*\*\
-    -\> Help, information, manual and tips can be found here: **<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2839&amp;start=0" class="external text" rel="nofollow">Forum</a>\
+    -\> Help, information, manual and tips can be found here: **<a href="https://springrts.com/phpbb/viewtopic.php?t=2839&amp;start=0" class="external text" rel="nofollow">Forum</a>\
     -\> This is the only other way to get files into the [s3o](/about-s3o) file format for Spring other then the [s3o](/about-s3o) plugin for 3DS MAX.**
 2.  **<a href="http://springrts.com/phpbb/viewtopic.php?f=9&amp;t=28156" class="external text" rel="nofollow">S3O &lt;-&gt; OBJ Converter</a>**
 
@@ -90,7 +90,7 @@ Now features animation export for dae and s3o.
     -\> Our very own complete map making solution, created by Frostregen.
 2.  **<a href="http://www.springfiles.com/show_file.php?id=2441" class="external text" rel="nofollow">Beherith's mapconv</a>**\*\*\
     -\> The latest map compiler, supports all features of maps while still retaining backwards compatibility with previous scripts.
-3.  **<a href="http://taspring.clan-sy.com/phpbb/viewtopic.php?t=2420" class="external text" rel="nofollow">SMD Creator</a>**\*\*\
+3.  **<a href="https://springrts.com/phpbb/viewtopic.php?t=2420" class="external text" rel="nofollow">SMD Creator</a>**\*\*\
     -\> Maelstroms SMD creator
 4.  **<a href="http://www.bundysoft.com/L3DT/" class="external text" rel="nofollow">L3DT Large 3D Terrain Generator</a>**\*\*\
     -\> Commercial Map Maker, standard version is free, but pro version requires payment but includes all the tools required to make an SD7 Spring map from scratch.

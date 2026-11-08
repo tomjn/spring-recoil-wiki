@@ -14,7 +14,7 @@ NOTE: I'm sure those who have been into the TA Scene longer could beef this up w
 
 ### Non-wiki Links
 
-- <a href="http://taspring.clan-sy.com/team.php" class="external text" rel="nofollow">Team Members</a>
+- <a href="https://springrts.com/team.php" class="external text" rel="nofollow">Team Members</a>
 
 </div>
 

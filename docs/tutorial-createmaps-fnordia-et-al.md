@@ -114,7 +114,7 @@ Examples of a built-in XTA wreckage name would be `armckfus_dead` which would be
 
 This is the final push. Once Sharp map has finshed it will spit out a .sm2 file. This needs to be copied to the MAPS folder in Spring. But you still need one more thing: an .smd file. Basically, this file tells the game things like the maximum metal, the light colours, the clouds, etc. (All the bits you were thinking that you hadn't done yet!)
 
-I would suggest you copy the .smd of another map and fiddle with the settings until you get what you want. smd's can be opened in notepad or similar. Look at all the .smd's so you can get a jist of what each option does. Make sure both the .sm2 and .smd have the same file name then start up Spring (not the client!) in <a href="http://taspring.clan-sy.com/wiki/FAQ#People_talk_about_.27Single_Player.27._How_do_I_start_a_single_player_game.3F" class="external text" rel="nofollow">single-player mode</a> and run the commanders script. Choose your map and away you go!
+I would suggest you copy the .smd of another map and fiddle with the settings until you get what you want. smd's can be opened in notepad or similar. Look at all the .smd's so you can get a jist of what each option does. Make sure both the .sm2 and .smd have the same file name then start up Spring (not the client!) in <a href="/faq#people-talk-about-single-player-how-do-i-start-a-single-player-game">single-player mode</a> and run the commanders script. Choose your map and away you go!
 
 ## SMD Rundown
 

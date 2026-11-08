@@ -10,7 +10,7 @@ My name is Charlemagne, and though I share the name with the Holy Roman Emperor/
 
 I am generally into a lot of oddball stuff, like occult mumboyumbo, psychonautical voyaging and weirdo religions such as Discordianism and the Church of Subgenius (though I am not ordained yet, but I shall be one day, unless the aliens invade first, that is).
 
-I am in the <a href="http://taspring.clan-sy.com/wiki/Clans/SvK" class="external text" rel="nofollow">[SvK</a>\] spring clan. We crush ass.
+I am in the <a href="https://springrts.com/wiki/Clans/SvK" class="external text" rel="nofollow">[SvK</a>\] spring clan. We crush ass.
 
 That is all.
 

@@ -6,7 +6,7 @@ source_url: "https://springrts.com/wiki/User:Momfreeek"
 
 <div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr">
 
-For a full description of controls, see here: <a href="http://spring.clan-sy.com/wiki/Using_Orders" class="external free" rel="nofollow">http://spring.clan-sy.com/wiki/Using_Orders</a>
+For a full description of controls, see here: <a href="/balanced-annihilation-giving-orders">Using Orders</a>
 
 <table>
 <colgroup>
