@@ -1,6 +1,8 @@
 // Rewrite links to the dead (ta)spring.clan-sy.com hosts in converted markdown.
-// Old wiki pages and images become internal links where we have them. Everything
-// else moves to springrts.com, which kept the same forum topic and Mantis IDs.
+// Old wiki pages and images become internal links where we have them. Any
+// other old wiki link is dropped, keeping its text, because those pages were deleted
+// before the 2025 dump. Everything else moves to springrts.com, which kept the same
+// forum topic and Mantis IDs.
 // Shared by tools/fix-old-hosts.mjs and tools/import-userspace.mjs.
 
 const OLD = /https?:\/\/(?:ta)?spring\.clan-sy\.com/i;
@@ -38,7 +40,7 @@ function internalTarget(url, resolveTitle, imagesOnDisk) {
 }
 
 export function fixOldHosts(md, resolveTitle, imagesOnDisk) {
-  let internal = 0, external = 0;
+  let internal = 0, external = 0, unlinked = 0;
   md = md.replace(/<a href="([^"]+)"([^>]*)>([\s\S]*?)<\/a>/g, (full, href, attrs, inner) => {
     if (!OLD.test(href)) return full;
     const target = internalTarget(href, resolveTitle, imagesOnDisk);
@@ -46,10 +48,16 @@ export function fixOldHosts(md, resolveTitle, imagesOnDisk) {
       internal++;
       return `<a href="${target.url}">${inner === href ? target.text : inner}</a>`;
     }
+    // Old wiki pages and files we do not have no longer exist anywhere: keep the text, drop the link.
+    const wiki = href.match(/^https?:\/\/[^/]+\/(?:wiki\/([^#?]+)|w\/)/i);
+    if (wiki) {
+      unlinked++;
+      return inner === href && wiki[1] ? decode(wiki[1]).replace(/_/g, ' ') : inner;
+    }
     external++;
     const url = onSpringrts(href);
     return `<a href="${url}"${attrs}>${inner === href ? url : inner}</a>`;
   });
   md = md.replace(OLD_G, m => { external++; return onSpringrts(m); });
-  return { md, internal, external };
+  return { md, internal, external, unlinked };
 }
