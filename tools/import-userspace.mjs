@@ -11,6 +11,7 @@ import { spawnSync } from 'node:child_process';
 import path from 'node:path';
 import { fixOldHosts } from './old-hosts.mjs';
 import { widenImages } from './widen-images.mjs';
+import { embedYoutube } from './embed-youtube.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const DOCS = path.join(ROOT, 'docs');
@@ -278,6 +279,7 @@ for (const p of toImport) {
   md = escapeInterp(md);
   md = fixOldHosts(md, resolveTitle, onDisk).md;
   md = widenImages(md, IMG_DIR).md;
+  md = (await embedYoutube(md)).md;
   if (/^# /m.test(md)) md = md.replace(/^(#{1,5}) /gm, '#$1 ');
   md = md.replace(/^\\\s*$/gm, '').replace(/\n{3,}/g, '\n\n');
   const t = plainTitle(parsed.displaytitle, p.title);

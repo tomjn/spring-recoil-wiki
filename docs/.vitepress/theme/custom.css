@@ -59,6 +59,19 @@
   display: none;
 }
 
+/* YouTube players added after video links (tools/embed-youtube.mjs) */
+.vp-doc .video-embed {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  margin: 16px 0;
+}
+.vp-doc .video-embed iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 8px;
+}
+
 /* Galleries */
 .vp-doc ul.gallery {
   display: flex;
